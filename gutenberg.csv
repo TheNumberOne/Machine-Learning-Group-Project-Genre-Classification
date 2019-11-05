@@ -1,0 +1,2 @@
+gutenberg id,title
+process_books.sh:grep ""Title:"" * | sed -E 's/\r//;s///;s/,/,/;s/""/""""/g;s/^([0-9]+),(.*)$/\1,""\2""/' >> ../gutenberg.csv
