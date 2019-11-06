@@ -1,0 +1,3 @@
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.csprojAssemblyReference.cache
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.AssemblyInfoInputs.cache
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.AssemblyInfo.cs
