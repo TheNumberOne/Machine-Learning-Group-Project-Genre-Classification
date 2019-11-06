@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacob Marsden\\source\\repos\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj": {}
+    "C:\\ComputerScience\\CS4478\\GroupProject\\Machine-Learning-Group-Project-Genre-Classification\\data\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacob Marsden\\source\\repos\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj": {
+    "C:\\ComputerScience\\CS4478\\GroupProject\\Machine-Learning-Group-Project-Genre-Classification\\data\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacob Marsden\\source\\repos\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj",
+        "projectUniqueName": "C:\\ComputerScience\\CS4478\\GroupProject\\Machine-Learning-Group-Project-Genre-Classification\\data\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj",
         "projectName": "MachineLearningAttempt1",
-        "projectPath": "C:\\Users\\Jacob Marsden\\source\\repos\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj",
-        "packagesPath": "C:\\Users\\Jacob Marsden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacob Marsden\\source\\repos\\MachineLearningAttempt1\\MachineLearningAttempt1\\obj\\",
+        "projectPath": "C:\\ComputerScience\\CS4478\\GroupProject\\Machine-Learning-Group-Project-Genre-Classification\\data\\MachineLearningAttempt1\\MachineLearningAttempt1\\MachineLearningAttempt1.csproj",
+        "packagesPath": "C:\\Users\\motlj\\.nuget\\packages\\",
+        "outputPath": "C:\\ComputerScience\\CS4478\\GroupProject\\Machine-Learning-Group-Project-Genre-Classification\\data\\MachineLearningAttempt1\\MachineLearningAttempt1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Jacob Marsden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\motlj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
