@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 namespace MachineLearningAttempt1
 {
@@ -8,7 +11,7 @@ namespace MachineLearningAttempt1
         {
             Console.WriteLine("Hello World!");
 
-
+            GetBooksByGenre(@"C:\ComputerScience\CS4478\GroupProject\Machine-Learning-Group-Project-Genre-Classification\data\small-dataset.csv");
 
 
         }
@@ -173,6 +176,16 @@ namespace MachineLearningAttempt1
             //If you want to have a visually more pleasing function you can give me the names to initiate as class level variables and just assume those class level variables are initaited in the appropriate scope
             //I also have no problems with multiple smaller functions either called by this master function
             //Any questions conserns or ideas on this I'm happy to work with you on
+        }
+
+        public static List<Data.BookData> GetBooksByGenre(string csvPath) {
+            List<Data.BookData> records = null;
+            using (var reader = new StreamReader(csvPath))
+            using (var csv = new CsvHelper.CsvReader(reader)) {
+                csv.Configuration.PrepareHeaderForMatch = (string header, int index) => header.Replace(" ", "").ToLower();
+                records = csv.GetRecords<Data.BookData>().ToList();
+            }
+            return records;
         }
     }
 

@@ -1,22 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace MachineLearningAttempt1.Data {
-    /// <summary>
-    /// Holds data on a book. Includes word counts, genre, and name.
-    /// </summary>
-    class BookData {
-        private string _genre;
-        private string _name;
+    public class BookData {
+        private Dictionary<string, int> _wordCounts;
 
-        private Dictionary<string, WordData> _words;
-        
-        public Dictionary<string, WordData> Words {
-            get { return _words; }
+        public int GutenbergId { get; set; }
+        public string Title { get; set; }
+        public string Genre { get; set; }
+        public int TotalWordCount { get; set; }
+        public Dictionary<string, int> WordCounts {
+            get { return _wordCounts; }
         }
-        public int TotalWordCount {
-            get { return Words.Count; }
+        public string WordFrequencies { 
+            set {
+                try {
+                    _wordCounts = Regex.Replace(value, @"[{}\s']", "")
+                        .Split(',').Select((string s) => s.Split(':'))
+                        .ToDictionary(arr => arr[0], arr => int.Parse(arr[1]));
+                }
+                catch (System.FormatException ex) {
+                    Console.WriteLine(string.Format("Word Frequencies formatted incorrectly. Internal error: {0}. Stack Trace: {1}"
+                        , ex.Message, ex.StackTrace));
+                }
+            }
         }
     }
 }
