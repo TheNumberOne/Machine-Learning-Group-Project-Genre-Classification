@@ -183,6 +183,7 @@ namespace MachineLearningAttempt1
             using (var reader = new StreamReader(csvPath))
             using (var csv = new CsvHelper.CsvReader(reader)) {
                 csv.Configuration.PrepareHeaderForMatch = (string header, int index) => header.Replace(" ", "").ToLower();
+                // Casting to list loads all records into memory.
                 records = csv.GetRecords<Data.BookData>().ToList();
             }
             return records;
