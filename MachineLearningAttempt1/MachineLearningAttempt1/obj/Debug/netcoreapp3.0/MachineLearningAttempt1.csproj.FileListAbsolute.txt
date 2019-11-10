@@ -1,0 +1,13 @@
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.csprojAssemblyReference.cache
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.AssemblyInfoInputs.cache
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.AssemblyInfo.cs
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\bin\Debug\netcoreapp3.0\MachineLearningAttempt1.exe
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\bin\Debug\netcoreapp3.0\MachineLearningAttempt1.deps.json
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\bin\Debug\netcoreapp3.0\MachineLearningAttempt1.runtimeconfig.json
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\bin\Debug\netcoreapp3.0\MachineLearningAttempt1.runtimeconfig.dev.json
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\bin\Debug\netcoreapp3.0\MachineLearningAttempt1.dll
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\bin\Debug\netcoreapp3.0\MachineLearningAttempt1.pdb
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.dll
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.pdb
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\bin\Debug\netcoreapp3.0\CsvHelper.dll
+C:\Users\Jacob Marsden\source\repos\MachineLearningAttempt1\MachineLearningAttempt1\obj\Debug\netcoreapp3.0\MachineLearningAttempt1.csproj.CopyComplete
