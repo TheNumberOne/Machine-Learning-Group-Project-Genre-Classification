@@ -288,6 +288,15 @@ namespace MachineLearningAttempt1
 
 
 
+        public static List<string> MostCommonWords(string csvPath) {
+            List<string> words = null;
+            using (var reader = new StreamReader(csvPath))
+            using (var csv = new CsvHelper.CsvReader(reader)) {
+                csv.Configuration.PrepareHeaderForMatch = (string header, int index) => index == 0 ? header = "word" : null;
+                words = csv.GetRecords<string>().ToList();
+            }
+            return words;
+        }
 
         public static List<Data.BookData> GetBooksByGenre(string csvPath)
         {
