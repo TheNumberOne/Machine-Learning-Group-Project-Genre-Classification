@@ -106,6 +106,7 @@ venv.bak/
 
 # Ignore raw downloaded data
 /data/raw*
+/data/pd
 
 # C# Build Files
 obj/

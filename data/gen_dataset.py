@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import pandas as pd
 from extract_words import get_freq, normalize_words
 from gutenberg.query import get_metadata
