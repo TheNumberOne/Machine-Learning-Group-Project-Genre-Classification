@@ -12,6 +12,7 @@ rm *.zip
 rm *-8.txt
 rm readme.txt
 rm *-0.txt
+rm 89-*.txt
+rm 10681-*.txt
 
-echo "gutenberg id,title" > ../gutenberg.csv
-grep "Title:" * | sed -E 's/\r//;s/Title: //;s/.txt:/,/;s/"/""/g;s/^([0-9]+),(.*)$/\1,"\2"/' >> ../gutenberg.csv
+../gen_gutenberg_csv.sh
