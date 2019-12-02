@@ -1,0 +1,2278 @@
+gutenberg id,title,authors,genres
+10060,Discourses,"frozenset({'Huxley, Thomas Henry'})",sermons
+10062,The Iron Game,"frozenset({'Keenan, Henry F. (Henry Francis)'})",fiction
+10065,The Constitution of the United States,"frozenset({'Beck, James M. (James Montgomery)'})","problems, exercises, etc"
+10090,Peaceless Europe,"frozenset({'Nitti, Francesco Saverio'})",treaties
+10122,Fairies and Fusiliers,"frozenset({'Graves, Robert'})",poetry
+10134,"John Wesley, Jr.","frozenset({'Brummitt, Dan B. (Dan Brearley)'})",fiction
+10317,Betty Gordon at Boarding School,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+10321,Dragon's blood,"frozenset({'Rideout, Henry Milner'})",fiction
+10337,Lady Into Fox,"frozenset({'Garnett, David'})",fiction
+10338,With the Turks in Palestine,"frozenset({'Aaronsohn, Alexander'})",autobiography
+10363,The Bravo,"frozenset({'Cooper, James Fenimore'})",fiction
+10366,Freedom's Battle,"frozenset({'Gandhi, Mahatma'})",case studies
+10370,Sustained honor,"frozenset({'Musick, John R. (John Roy)'})",fiction
+10396,Andy the Acrobat,"frozenset({'Harkness, Peter T.'})",fiction
+10397,Affairs of State,"frozenset({'Stevenson, Burton Egbert'})",crime fiction
+10421,The Life of Lord Byron,"frozenset({'Galt, John'})",biography
+10431,Thirty Years a Slave,"frozenset({'Hughes, Louis'})",biography
+10468,Aunt Jane's Nieces in Society,"frozenset({'Baum, L. Frank (Lyman Frank)'})",fiction
+10540,Mother Carey's Chickens,"frozenset({'Wiggin, Kate Douglas Smith'})",fiction
+10554,"Right Ho, Jeeves","frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",fiction
+10556,The Old Man in the Corner,"frozenset({'Orczy, Emmuska Orczy, Baroness'})",fiction
+10560,The Last of the Foresters,"frozenset({'Cooke, John Esten'})",fiction
+10566,The Bequest,"frozenset({'Jacobs, W. W. (William Wymark)'})",fiction
+10567,The Guardian Angel,"frozenset({'Jacobs, W. W. (William Wymark)'})",biography
+10592,Adventures In Friendship,"frozenset({'Grayson, David'})",biography
+10599,Lost In The Air,"frozenset({'Snell, Roy J. (Roy Judson)'})",juvenile fiction
+10612,Supply and Demand,"frozenset({'Henderson, Hubert Douglas, Sir'})",juvenile literature
+1063,The Cask of Amontillado,"frozenset({'Poe, Edgar Allan'})",fiction
+10669,At Last,"frozenset({'Kingsley, Charles'})",fiction
+10715,Counsels and Maxims,"frozenset({'Schopenhauer, Arthur'})",translations into  english
+10738,Mahomet,"frozenset({'Draycott, Gladys M.'})",biographies
+10747,Chantecler,"frozenset({'Rostand, Edmond'})",fiction
+1078,The Scouts of the Valley,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",juvenile fiction
+10783,Self-Help,"frozenset({'Jacobs, W. W. (William Wymark)'})",early works to 1900
+10794,Dahcotah,"frozenset({'Eastman, Mary H. (Mary Henderson)'})",folklore
+10846,Seekers after God,"frozenset({'Farrar, F. W. (Frederic William)'})",biography
+10866,The Dolorous Passion of Our Lord Jesus Christ,"frozenset({'Emmerich, Anna Katharina'})",prayer-books and devotions
+1089,Moon-Face and Other Stories,"frozenset({'London, Jack'})",fiction
+10918,The Log of a Noncombatant,"frozenset({'Green, Horace'})",personal narratives
+10958,An Unwilling Maid,"frozenset({'Lincoln, Jeanie Gould'})",fiction
+10966,The Ghost Pirates,"frozenset({'Hodgson, William Hope'})",fiction
+10967,Four Weeks in the Trenches,"frozenset({'Kreisler, Fritz'})","personal narratives, austrian"
+10970,Pragmatism,"frozenset({'Murray, D. L. (David Leslie)'})",bibliography
+10972,"With the ""Die-Hards"" in Siberia","frozenset({'Ward, John'})","personal narratives, english"
+10977,The Grizzly King,"frozenset({'Curwood, James Oliver'})",fiction
+10984,Growth of the Soil,"frozenset({'Hamsun, Knut'})",fiction
+11012,The Autobiography of an Ex-Colored Man,"frozenset({'Johnson, James Weldon'})",fiction
+11074,The Damned,"frozenset({'Blackwood, Algernon'})",fiction
+11104,In Morocco,"frozenset({'Wharton, Edith'})",biography
+11138,Comic History of England,"frozenset({'Nye, Bill'})","outlines, syllabi, etc"
+11144,Somewhere in France,"frozenset({'Davis, Richard Harding'})",fiction
+11146,The Expedition of the Donner Party and its Tragic Fate,"frozenset({'Houghton, Eliza Poor Donner'})",historical
+11214,The Garies and Their Friends,"frozenset({'Webb, Frank J.'})",fiction
+11231,"Bartleby, The Scrivener","frozenset({'Melville, Herman'})",fiction
+11242,The Life of Michelangelo Buonarroti,"frozenset({'Symonds, John Addington'})",biography
+11247,The Exploits Of Brigadier Gerard,"frozenset({'Doyle, Arthur Conan'})",fiction
+11260,The Kiltartan History Book,"frozenset({'Gregory, Lady'})",translations into english
+11268,The Flood,frozenset({'Anonymous'}),fiction
+11309,The Booming of Acre Hill,"frozenset({'Bangs, John Kendrick'})",fiction
+11381,Sermons for the Times,"frozenset({'Kingsley, Charles'})",sermons
+11421,Russell H. Conwell,"frozenset({'Burr, Agnes Rush'})",biography
+11454,A Visit To The United States In 1841,"frozenset({'Sturge, Joseph'})",controversial literature
+11489,"Some Historical Account of Guinea, Its Situation, Produce, and the General Disposition of Its Inhabitants","frozenset({'Benezet, Anthony'})",early works to 1800
+11513,On Land And Sea At The Dardanelles,"frozenset({'Bridges, T. C. (Thomas Charles)'})",fiction
+11521,A Beleaguered City,"frozenset({'Oliphant, Mrs. (Margaret)'})",fiction
+11534,The Lions of the Lord,"frozenset({'Wilson, Harry Leon'})",fiction
+11573,The Crater,"frozenset({'Cooper, James Fenimore'})",fiction
+11582,Old Greek Stories,"frozenset({'Baldwin, James'})",juvenile literature
+11614,The Second Generation,"frozenset({'Phillips, David Graham'})",fiction
+1163,Adventure,"frozenset({'London, Jack'})",biography
+11661,The Piper,"frozenset({'Peabody, Josephine Preston'})",drama
+11666,The Conjure Woman,"frozenset({'Chesnutt, Charles W. (Charles Waddell)'})",fiction
+1167,A Strange Disappearance,"frozenset({'Green, Anna Katharine'})",fiction
+11674,The Torrent,"frozenset({'Blasco Ibáñez, Vicente'})",fiction
+11696,The Food of the Gods and How It Came to Earth,"frozenset({'Wells, H. G. (Herbert George)'})",fiction
+1171,The Apology,frozenset({'Xenophon'}),fiction
+11715,The Eyes of the World,"frozenset({'Wright, Harold Bell'})",fiction
+11719,Kincaid's Battery,"frozenset({'Cable, George Washington'})",fiction
+11748,French Conversation and Composition,"frozenset({'Wann, Harry Vincent'})",composition and exercises
+11758,Baldy of Nome,"frozenset({'Darling, Esther Birdsall'})",legends
+1181,The Symposium,frozenset({'Xenophon'}),early works to 1800
+1182,Dope,"frozenset({'Rohmer, Sax'})",fiction
+11881,The Shadow of the North,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+11915,The Adventures of Mr. Mocker,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",juvenile fiction
+11936,The Wise Mamma Goose,"frozenset({'Herr, Charlotte B. (Charlotte Bronte)'})",legends
+1196,The Purse,"frozenset({'Balzac, Honoré de'})",fiction
+11961,The Lords of the Wild,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+11969,"Duty, and other Irish Comedies","frozenset({""O'Brien, Seumas""})",drama
+11986,The Book of American Negro Poetry,frozenset(),poetry
+12019,Queen Hortense,"frozenset({'Mühlbach, L. (Luise)'})",fiction
+12021,Adopting An Abandoned Farm,"frozenset({'Sanborn, Kate'})",fiction
+12052,Half a Century,"frozenset({'Swisshelm, Jane Grey Cannon'})",biography
+12056,Phases of Faith,"frozenset({'Newman, Francis William'})",biography
+12089,Letters of Travel (1892-1913),"frozenset({'Kipling, Rudyard'})",correspondence
+12103,The Tale of Mrs. Tiggy-Winkle,"frozenset({'Potter, Beatrix'})",fiction
+12106,Old Gorgon Graham,"frozenset({'Lorimer, George Horace'})",fiction
+12125,Cupboard Love,"frozenset({'Jacobs, W. W. (William Wymark)'})",dictionaries
+12139,The Gringos,"frozenset({'Bower, B. M.'})",fiction
+12153,The Understudy,"frozenset({'Jacobs, W. W. (William Wymark)'})",fiction
+12177,The Precipice,"frozenset({'Peattie, Elia Wilkinson'})",fiction
+12220,Rada,"frozenset({'Noyes, Alfred'})",drama
+1223,Ursula,"frozenset({'Balzac, Honoré de'})",exhibitions
+12233,Stonewall Jackson And The American Civil War,"frozenset({'Henderson, G. F. R. (George Francis Robert)'})",biography
+12260,Jonas on a Farm in Winter,"frozenset({'Abbott, Jacob'})",juvenile literature
+12291,The Teacher,"frozenset({'Abbott, Jacob'})",texts
+1231,On the Track,"frozenset({'Lawson, Henry'})",anecdotes
+12337,Dickens in Camp,"frozenset({'Harte, Bret'})",poetry
+1240,The Playboy of the Western World,"frozenset({'Synge, J. M. (John Millington)'})",drama
+12429,The Last Leaf,"frozenset({'Hosmer, James Kendall'})",biography
+12450,The Reason Why,"frozenset({'Glyn, Elinor'})",fiction
+12455,Legends of the Middle Ages,"frozenset({'Guerber, H. A. (Hélène Adeline)'})","stories, plots, et"
+12461,Castles in the Air,"frozenset({'Orczy, Emmuska Orczy, Baroness'})",drama
+12478,Books and Characters,"frozenset({'Strachey, Lytton'})",biography
+1248,Last of the Great Scouts,"frozenset({'Wetmore, Helen Cody'})",biography
+1250,Anthem,"frozenset({'Rand, Ayn'})",fiction
+12510,Targum,"frozenset({'Borrow, George'})",translations
+12527,Kimono,"frozenset({'Paris, John'})",pictorial works
+12569,Through the Mackenzie Basin,"frozenset({'Mair, Charles'})",treaties
+1258,Ten Years Later,"frozenset({'Dumas, Alexandre'})",fiction
+12587,The Man Who Laughs,"frozenset({'Hugo, Victor'})",fiction
+12588,Cavour,"frozenset({'Martinengo-Cesaresco, Evelyn Lilian Hazeldine Carrington, contessa'})",biography
+1263,The Glimpses of the Moon,"frozenset({'Wharton, Edith'})",fiction
+1264,The Wheels of Chance,"frozenset({'Wells, H. G. (Herbert George)'})",fiction
+1267,Kai Lung's Golden Hours,"frozenset({'Bramah, Ernest'})",fiction
+12769,How to Teach,"frozenset({'Norsworthy, Naomi', 'Strayer, George D. (George Drayton)'})","outlines, syllabi, etc"
+12772,Cowper,"frozenset({'Smith, Goldwin'})",biography
+12773,Mr. Prohack,"frozenset({'Bennett, Arnold'})",fiction
+1278,Penelope's English Experiences,"frozenset({'Wiggin, Kate Douglas Smith'})",fiction
+12797,The Log of a Cowboy,"frozenset({'Adams, Andy'})",fiction
+1280,Spoon River Anthology,"frozenset({'Masters, Edgar Lee'})",poetry
+12808,Frank on a Gun-Boat,"frozenset({'Castlemon, Harry'})",juvenile fiction
+12811,The Human Machine,"frozenset({'Bennett, Arnold'})",juvenile literature
+1282,Tom Swift Among The Diamond Makers,"frozenset({'Appleton, Victor'})",juvenile fiction
+12821,The Brook Kerith,"frozenset({'Moore, George'})",fiction
+12870,The Boy Allies On the Firing Line,"frozenset({'Hayes, Clair W. (Clair Wallace)'})",fiction
+12891,Running Water,"frozenset({'Mason, A. E. W. (Alfred Edward Woodley)'})",juvenile literature
+1291,Herodias,"frozenset({'Flaubert, Gustave'})",librettos
+12915,The White Devil,"frozenset({'Webster, John'})",drama
+12954,The Phantom Ship,"frozenset({'Marryat, Frederick'})",fiction
+12983,Rescuing the Czar,"frozenset({'Smythe, James P.'})",fiction
+1299,The Heritage of the Sioux,"frozenset({'Bower, B. M.'})",fiction
+13,The Hunting of the Snark,"frozenset({'Carroll, Lewis'})",juvenile literature
+130,Orthodoxy,"frozenset({'Chesterton, G. K. (Gilbert Keith)'})",controversial literature
+1303,The Scapegoat,"frozenset({'Caine, Hall, Sir'})",fiction
+13081,Unmanned,"frozenset({'Oliver, Stephen'})",fiction
+13143,Mystic Christianity,"frozenset({'Atkinson, William Walker'})",miscellanea
+13155,James Fenimore Cooper,"frozenset({'Phillips, Mary Elizabeth'})",biography
+13176,The Abolitionists,"frozenset({'Hume, John F. (John Ferguson)'})",juvenile literature
+13204,Sermons to the Natural Man,"frozenset({'Shedd, William G. T. (William Greenough Thayer)'})",sermons
+13234,Ester Ried,frozenset({'Pansy'}),fiction
+13235,In the Ranks of the C.I.V.,"frozenset({'Childers, Erskine'})","personal narratives, british"
+13237,Strange Visitors,"frozenset({'Horn, Henry J.'})",fiction
+13255,"The Philippine Islands, 1493-1803",frozenset(),sources
+1327,Elizabeth and her German Garden,"frozenset({'Von Arnim, Elizabeth'})",fiction
+13384,The Covered Wagon,"frozenset({'Hough, Emerson'})",fiction
+13461,Mistress and Maid,"frozenset({'Craik, Dinah Maria Mulock'})",translations into english
+13493,The American Frugal Housewife,"frozenset({'Child, Lydia Maria'})","handbooks, manuals, etc"
+1350,The Country Doctor,"frozenset({'Balzac, Honoré de'})",drama
+13505,The Duel and Other Stories,"frozenset({'Chekhov, Anton Pavlovich'})",translations into english
+13517,In Bohemia with Du Maurier,"frozenset({'Moscheles, Felix'})",correspondence
+13555,Youth and the Bright Medusa,"frozenset({'Cather, Willa'})",fiction
+13616,"The Philippine Islands, 1493-1803",frozenset(),sources
+137,Sara Crewe,"frozenset({'Burnett, Frances Hodgson'})",fiction
+13707,Twice Told Tales,"frozenset({'Hawthorne, Nathaniel'})",fiction
+13709,Wolfville Nights,"frozenset({'Lewis, Alfred Henry'})",juvenile literature
+1372,The Adventures of Captain Bonneville,"frozenset({'Irving, Washington', 'Bonneville, Benjamin Louis Eulalie de'})",biography
+13756,Story of Chester Lawrence,"frozenset({'Anderson, Nephi'})",fiction
+1376,The Little White Bird,"frozenset({'Barrie, J. M. (James Matthew)'})",fiction
+13776,One Day,frozenset(),fiction
+1380,The Two Brothers,"frozenset({'Balzac, Honoré de'})",fiction
+13826,"A Gunner Aboard the ""Yankee""","frozenset({'Doubleday, Russell'})",fiction
+13827,Fields of Victory,"frozenset({'Ward, Humphry, Mrs.'})",personal narratives
+13844,No. 13 Washington Square,"frozenset({'Scott, Leroy'})",fiction
+1386,Lady Baltimore,"frozenset({'Wister, Owen'})",fiction
+13885,Echoes from the Sabine Farm,frozenset({'Horace'}),translations into english
+1391,Penelope's Irish Experiences,"frozenset({'Wiggin, Kate Douglas Smith'})",fiction
+13993,Dere Mable,"frozenset({'Streeter, Edward'})",fiction
+14025,Mount Music,"frozenset({'Somerville, E. Oe. (Edith Oenone)', 'Ross, Martin'})",fiction
+14037,The Life of Hugo Grotius,"frozenset({'Butler, Charles'})",biography
+1404,The Federalist Papers,"frozenset({'Madison, James', 'Jay, John', 'Hamilton, Alexander'})",sources
+14040,Household Gods,"frozenset({'Crowley, Aleister'})",fiction
+14048,The Nameless Castle,"frozenset({'Jókai, Mór'})",fiction
+14061,Lady Byron Vindicated,"frozenset({'Stowe, Harriet Beecher'})",biography
+14107,The Lost Stradivarius,"frozenset({'Falkner, John Meade'})",collections
+14108,In the Catskills,"frozenset({'Burroughs, John'})",outdoor books
+1415,Doctor Marigold,"frozenset({'Dickens, Charles'})",fiction
+14150,The Light in the Clearing,"frozenset({'Bacheller, Irving'})",fiction
+14168,Widdershins,"frozenset({'Onions, Oliver'})",fiction
+1417,Sons of the Soil,"frozenset({'Balzac, Honoré de'})",fiction
+14172,Willis the Pilot,"frozenset({'Paul, Adrien'})",fiction
+14175,Buffalo Roost,"frozenset({'Cheley, Frank H. (Frank Howbert)'})",fiction
+14187,The Dangerous Age,"frozenset({'Michaëlis, Karin'})",fiction
+14204,The Lion and The Mouse,"frozenset({'Hornblow, Arthur', 'Klein, Charles'})",adaptations
+14220,The Tale of the Flopsy Bunnies,"frozenset({'Potter, Beatrix'})",fiction
+14253,Flames,"frozenset({'Hichens, Robert'})",biography
+14312,What All The World's A-Seeking,"frozenset({'Trine, Ralph Waldo'})",early works to 1800
+1432,Seraphita,"frozenset({'Balzac, Honoré de'})",fiction
+14371,The Portland Peerage Romance,"frozenset({'Archard, Charles J.'})",biography
+14375,The Adventures of Grandfather Frog,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+14379,Elsie at Nantucket,"frozenset({'Finley, Martha'})",fiction
+14384,White Shadows in the South Seas,"frozenset({""O'Brien, Frederick""})",diaries
+14418,Thrift,"frozenset({'Smiles, Samuel'})","quotations, maxims, etc"
+14430,Purcell,"frozenset({'Runciman, John F.'})",biography
+14453,Hope of the Gospel,"frozenset({'MacDonald, George'})",sermons
+1446,Perfect Behavior,"frozenset({'Stewart, Donald Ogden'})",humor
+14476,Life of Robert Browning,"frozenset({'Sharp, William'})",biography
+14489,Nightfall,"frozenset({'Pryde, Anthony'})",fiction
+14492,Notable Women Of Modern China,"frozenset({'Burton, Margaret E. (Margaret Ernestine)'})",biography
+14496,Charles the Bold,"frozenset({'Putnam, Ruth'})",biography
+14540,When William Came,frozenset({'Saki'}),fiction
+14546,Betty Gordon at Mountain Camp,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+14566,Elsie's Motherhood,"frozenset({'Finley, Martha'})",fiction
+14598,The Goose Girl,"frozenset({'MacGrath, Harold'})",fiction
+14614,Sister Teresa,"frozenset({'Moore, George'})",fiction
+14635,Ruth Fielding in Moving Pictures,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+14645,Unleavened Bread,"frozenset({'Grant, Robert'})",fiction
+14681,The Art of Travel,"frozenset({'Galton, Francis'})",guidebooks
+14721,"Speeches and Letters of Abraham Lincoln, 1832-1865","frozenset({'Lincoln, Abraham'})",sources
+14757,The War Poems of Siegfried Sassoon,"frozenset({'Sassoon, Siegfried'})",poetry
+14770,Life in a Thousand Worlds,"frozenset({'Harris, W. S. (William Shuler)'})",fiction
+14797,The Tale of Timmy Tiptoes,"frozenset({'Potter, Beatrix'})",juvenile fiction
+14823,A Student in Arms,"frozenset({'Hankey, Donald'})","personal narratives, english"
+14829,Our Holidays,frozenset({'Various'}),poetry
+14831,Andy Grant's Pluck,"frozenset({'Alger, Horatio, Jr.'})",fiction
+1484,The Four Horsemen of the Apocalypse,"frozenset({'Blasco Ibáñez, Vicente'})",fiction
+14881,The Log School-House on the Columbia,"frozenset({'Butterworth, Hezekiah'})",fiction
+14883,Grandmother Elsie,"frozenset({'Finley, Martha'})",fiction
+14885,Red Pottage,"frozenset({'Cholmondeley, Mary'})",fiction
+14888,The Inheritors,"frozenset({'Conrad, Joseph', 'Ford, Ford Madox'})",fiction
+14890,The Hunters of the Hills,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+14891,The Rulers of the Lakes,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+14892,Daniel Defoe,"frozenset({'Minto, William'})",biography
+149,The Lost Continent,"frozenset({'Burroughs, Edgar Rice'})",fiction
+14909,Elsie's New Relations,"frozenset({'Finley, Martha'})",fiction
+14960,The Silent Places,"frozenset({'White, Stewart Edward'})",fiction
+14961,Sentimental Tommy,"frozenset({'Barrie, J. M. (James Matthew)'})",fiction
+14999,A Briefe Introduction to Geography,"frozenset({'Pemble, William'})",early works to 1800
+15033,Tell England,"frozenset({'Raymond, Ernest'})",fiction
+15055,The Free Rangers,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+15072,Marjorie's Maytime,"frozenset({'Wells, Carolyn'})",juvenile fiction
+15099,The Hoosier Schoolmaster,"frozenset({'Eggleston, Edward'})",fiction
+15108,Lazarre,"frozenset({'Catherwood, Mary Hartwell'})",fiction
+15137,The Tale of Mrs. Tiggy-Winkle,"frozenset({'Potter, Beatrix'})",fiction
+15138,A Hoosier Chronicle,"frozenset({'Nicholson, Meredith'})",fiction
+15156,Balloons,"frozenset({'Bibesco, Elizabeth'})",juvenile literature
+15170,The Child's World,"frozenset({'Browne, Hetty Sibyl', 'Withers, Sarah', 'Tate, W. K. (William Knox)'})",non-fiction
+15194,Out To Win,"frozenset({'Dawson, Coningsby'})",juvenile fiction
+15199,The Reformed Librarie-Keeper (1650),"frozenset({'Dury, John'})",early works to 1800
+15205,The Feast of the Virgins and Other Poems,"frozenset({'Gordon, Hanford Lennox'})",poetry
+15284,The Tale of Johnny Town-Mouse,"frozenset({'Potter, Beatrix'})",fiction
+15285,The Hosts of the Air,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+15360,The Easiest Way in Housekeeping and Cooking,"frozenset({'Campbell, Helen'})","handbooks, manuals, etc"
+15389,True Riches,"frozenset({'Arthur, T. S. (Timothy Shay)'})",fiction
+15399,"The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African","frozenset({'Equiano, Olaudah'})",biography
+15411,A Voyage to the South Sea,"frozenset({'Bligh, William'})",early works to 1800
+15429,Thomas Henry Huxley,"frozenset({'Huxley, Leonard'})",biography
+15431,Success,"frozenset({'Adams, Samuel Hopkins'})","quotations, maxims, etc"
+15472,Emblems Of Love,"frozenset({'Abercrombie, Lascelles'})",early works to 1800
+15491,Micrographia,"frozenset({'Hooke, Robert'})",early works to 1800
+15493,The Lancashire Witches,"frozenset({'Ainsworth, William Harrison'})",fiction
+15527,Captivity,"frozenset({'Eyles, Leonora'})",fiction
+15535,Violin Mastery,"frozenset({'Martens, Frederick Herman'})",interviews
+1554,Adieu,"frozenset({'Balzac, Honoré de'})",translations into english
+15542,A Daughter of the Dons,"frozenset({'Raine, William MacLeod'})",fiction
+15575,The Tale of Samuel Whiskers,"frozenset({'Potter, Beatrix'})",fiction
+15604,Piano Mastery,"frozenset({'Brower, Harriette'})",interviews
+1563,The Crystal Stopper,"frozenset({'Leblanc, Maurice'})",fiction
+1566,The Evolution of Modern Medicine,"frozenset({'Osler, William'})",lectures
+15661,The Golden Goose Book,"frozenset({'Brooke, L. Leslie (Leonard Leslie)'})",juvenile literature
+15667,Best Short Stories,frozenset(),fiction
+15675,A Voyage to New Holland,"frozenset({'Dampier, William'})",early works to 1800
+15678,The House that Jill Built,"frozenset({'Gardner, E. C. (Eugene Clarence)'})",anecdotes
+15706,Winchester,"frozenset({'Heath, Sidney'})",pictorial works
+15720,Ruth Fielding in the Great Northwest,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+1573,Frank's Campaign,"frozenset({'Alger, Horatio, Jr.'})",fiction
+15746,The Flamingo Feather,"frozenset({'Munroe, Kirk'})",fiction
+15774,Ishmael,"frozenset({'Southworth, Emma Dorothy Eliza Nevitte'})",fiction
+1579,Lysis,frozenset({'Plato'}),early works to 1800
+1580,Charmides,frozenset({'Plato'}),early works to 1800
+15807,Among the Forces,"frozenset({'Warren, Henry White'})",juvenile literature
+15853,One of Life's Slaves,"frozenset({'Lie, Jonas'})",fiction
+15859,The Piazza Tales,"frozenset({'Melville, Herman'})",fiction
+15865,Noughts and Crosses,"frozenset({'Quiller-Couch, Arthur'})",fiction
+15868,The Man Without a Country and Other Tales,"frozenset({'Hale, Edward Everett'})",fiction
+159,The Island of Doctor Moreau,"frozenset({'Wells, H. G. (Herbert George)'})",fiction
+15920,Outward Bound,"frozenset({'Optic, Oliver'})",fiction
+15929,Mother Stories,"frozenset({'Lindsay, Maud'})",juvenile fiction
+15978,The Broken Soldier and the Maid of France,"frozenset({'Van Dyke, Henry'})",fiction
+16052,The Brownies and Other Tales,"frozenset({'Ewing, Juliana Horatia Gatty'})",fiction
+16064,Carolina Chansons,"frozenset({'Heyward, DuBose', 'Allen, Hervey'})",poetry
+16079,Some Old Time Beauties,"frozenset({'Willing, Thomson'})",biography
+16080,Uncle Max,"frozenset({'Carey, Rosa Nouchette'})",fiction
+16100,Marietta,"frozenset({'Crawford, F. Marion (Francis Marion)'})",pictorial works
+1611,Seventeen,"frozenset({'Tarkington, Booth'})",fiction
+16114,The Knight of the Golden Melice,"frozenset({'Adams, John Turvill'})",fiction
+16116,Studies of Trees,"frozenset({'Levison, Jacob Joshua'})",identification
+16131,Campaign Pictures of the War in South Africa (1899-1900),"frozenset({'Hales, A. G. (Alfred Greenwood)'})",personal narratives
+16184,His Life,"frozenset({'Barton, William Eleazar', 'Strong, Sydney', 'Soares, Theodore Gerald'})",poetry
+16222,Winter Evening Tales,"frozenset({'Barr, Amelia E.'})",fiction
+16241,Barbara's Heritage,"frozenset({'Hoyt, Deristhe L. (Deristhe Levinte)'})",fiction
+16261,Some Chinese Ghosts,"frozenset({'Hearn, Lafcadio'})",fiction
+16275,Some Account of the Life of Mr. William Shakespear (1709),"frozenset({'Rowe, Nicholas'})",biography
+16296,Sketches From My Life,"frozenset({'Hobart-Hampden, Augustus Charles'})",biography
+163,Flower Fables,"frozenset({'Alcott, Louisa May'})",juvenile literature
+16358,The English Gipsies and Their Language,"frozenset({'Leland, Charles Godfrey'})",folklore
+16380,The Odds,"frozenset({'Dell, Ethel M. (Ethel May)'})",fiction
+16390,Little Prudy's Dotty Dimple,"frozenset({'May, Sophie'})",juvenile fiction
+16420,The Arte of English Poesie,"frozenset({'Puttenham, George'})",early works to 1800
+16458,The Princess Pocahontas,"frozenset({'Watson, Virginia'})",juvenile literature
+16467,Musicians of To-Day,"frozenset({'Rolland, Romain'})",biography
+16468,The Pot of Gold,"frozenset({'Freeman, Mary Eleanor Wilkins'})",fiction
+16478,Records of a Girlhood,"frozenset({'Kemble, Fanny'})",biography
+16519,Prime Ministers and Some Others,"frozenset({'Russell, George William Erskine'})",biography
+16528,Forty-one years in India,"frozenset({'Roberts, Frederick Sleigh Roberts, Earl'})",biography
+16529,Lost Leaders,"frozenset({'Lang, Andrew'})",biography
+1656,Apology,frozenset({'Plato'}),apologetic works
+1659,The Girl with the Golden Eyes,"frozenset({'Balzac, Honoré de'})",fiction
+16593,General Science,"frozenset({'Clark, Bertha May'})",study guides
+16596,Ungava Bob,"frozenset({'Wallace, Dillon'})",juvenile fiction
+16604,Poison Island,"frozenset({'Quiller-Couch, Arthur'})",fiction
+16623,Letters of a Woman Homesteader,"frozenset({'Stewart, Elinore Pruitt'})",biography
+16650,The Complete Home,frozenset(),"handbooks, manuals, etc"
+16663,The Tale of Solomon Owl,"frozenset({'Bailey, Arthur Scott'})",fiction
+16685,Private Peat,"frozenset({'Peat, Harold Reginald'})","personal narratives, canadian"
+16690,Five Months on a German Raider,"frozenset({'Trayes, Frederic George'})",personal narratives
+16715,Sir Walter Scott as a Critic of Literature,"frozenset({'Ball, Margaret'})",bibliography
+16752,Caste,"frozenset({'Fraser, William Alexander'})",fiction
+16769,Orthodoxy,"frozenset({'Chesterton, G. K. (Gilbert Keith)'})",controversial literature
+16790,Early Britain,"frozenset({'Allen, Grant'})",juvenile literature
+16807,Falling in Love,"frozenset({'Allen, Grant'})",fiction
+16984,Prayers and Meditations,"frozenset({""Bahá'u'lláh""})",prayer-books and devotions
+16991,The Circus Comes to Town,"frozenset({'Mitchell, Lebbeus'})",juvenile fiction
+17003,Indiscreet Letters From Peking,frozenset(),correspondence
+17028,Eastern Standard Tribe,"frozenset({'Doctorow, Cory'})",fiction
+17053,Kate Bonnet,"frozenset({'Stockton, Frank Richard'})",fiction
+17075,Dialogue of Comfort Against Tribulation,"frozenset({'More, Thomas, Saint'})",early works to 1800
+17089,The Tale of Mrs. Tittlemouse,"frozenset({'Potter, Beatrix'})",fiction
+17095,Bunny Brown and His Sister Sue on an Auto Tour,"frozenset({'Hope, Laura Lee'})",juvenile fiction
+17117,An Elegy on the Glory of Her Sex,"frozenset({'Goldsmith, Oliver'})",specimens
+17119,The Vision of Sir Launfal,"frozenset({'Lowell, James Russell'})",poetry
+17135,Twas the Night before Christmas,"frozenset({'Moore, Clement Clarke'})",poetry
+172,The Haunted Bookshop,"frozenset({'Morley, Christopher'})",fiction
+17201,Is Life Worth Living?,"frozenset({'Mallock, W. H. (William Hurrell)'})",sermons
+17202,Lists of Stories and Programs for Story Hours,frozenset(),bibliography
+17209,A Treatise of Witchcraft,"frozenset({'Roberts, Alexander'})",early works to 1800
+17221,History of the Plague in London,"frozenset({'Defoe, Daniel'})",early works to 1800
+17227,Rod of the Lone Patrol,"frozenset({'Cody, H. A. (Hiram Alfred)'})",juvenile literature
+17229,The Haunted Hour,frozenset(),fiction
+1724,Finished,"frozenset({'Haggard, H. Rider (Henry Rider)'})",fiction
+17279,The Mormon Prophet,"frozenset({'Dougall, L. (Lily)'})",fiction
+17287,History of France,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",early works to 1800
+17315,Abe Lincoln Gets His Chance,"frozenset({'Cavanah, Frances'})",fiction
+17367,First Book in Physiology and Hygiene,"frozenset({'Kellogg, John Harvey'})",juvenile literature
+17368,Heaven and its Wonders and Hell,"frozenset({'Swedenborg, Emanuel'})",early works to 1800
+17371,Raggedy Andy Stories,"frozenset({'Gruelle, Johnny'})",juvenile fiction
+1738,Statesman,frozenset({'Plato'}),early works to 1800
+17388,Andrew Marvell,"frozenset({'Birrell, Augustine'})",biography
+17403,The Cornet of Horse,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+17412,The Bobbsey Twins,"frozenset({'Hope, Laura Lee'})",juvenile fiction
+17418,The Black Pearl,"frozenset({'Woodrow, Wilson, Mrs.'})",fiction
+17455,The Poison Tree,"frozenset({'Chatterji, Bankim Chandra'})",fiction
+17548,Letters Concerning Poetical Translations,"frozenset({'Benson, William'})",early works to 1800
+17558,My Life as an Author,"frozenset({'Tupper, Martin Farquhar'})",biography
+17567,The Way of the Wild,"frozenset({'St. Mars, F.'})",anecdotes
+17587,Field Hospital and Flying Column,"frozenset({'Thurstan, Violetta'})",personal narratives
+17597,Halil the Pedlar,"frozenset({'Jókai, Mór'})",fiction
+17598,Beth Norvell,"frozenset({'Parrish, Randall'})",fiction
+17609,Our Deportment,"frozenset({'Young, John H.'})","handbooks, manuals, etc"
+17690,The Master of Appleby,"frozenset({'Lynde, Francis'})",fiction
+17697,The Trumpeter Swan,"frozenset({'Bailey, Temple'})",fiction
+17710,The Devil's Own,"frozenset({'Parrish, Randall'})",fiction
+17720,History Of Ancient Civilization,"frozenset({'Seignobos, Charles'})",bibliography
+17771,Winds Of Doctrine,"frozenset({'Santayana, George'})",biography
+17778,Sir John French,"frozenset({'Chisholm, Cecil'})",biography
+178,Confidence,"frozenset({'James, Henry'})",fiction
+17816,Letters from Egypt,"frozenset({'Duff Gordon, Lucie, Lady'})",correspondence
+17862,Dream Life,"frozenset({'Mitchell, Donald Grant'})",fiction
+17881,From the Bottom Up,"frozenset({'Irvine, Alexander'})",biography
+17884,Fifty years & Other Poems,"frozenset({'Johnson, James Weldon'})",poetry
+179,The Europeans,"frozenset({'James, Henry'})",fiction
+17918,One Young Man,frozenset(),"personal narratives, english"
+17922,Visionaries,"frozenset({'Huneker, James'})",interviews
+17944,The House of Rimmon,"frozenset({'Van Dyke, Henry'})",drama
+17948,The Vision of Sir Launfal,"frozenset({'Lowell, James Russell'})",poetry
+17982,Judy,"frozenset({'Bailey, Temple'})",biography
+17997,Contribution to Passamaquoddy Folk-Lore,"frozenset({'Fewkes, Jesse Walter'})",legends
+18,The Federalist Papers,"frozenset({'Madison, James', 'Jay, John', 'Hamilton, Alexander'})",sources
+18021,China and the Chinese,"frozenset({'Giles, Herbert Allen'})",pictorial works
+18040,Thirty Years In Hell,"frozenset({'Fresenborg, Bernard'})",biography
+18048,Football Days,"frozenset({'Edwards, William H. (William Hanford)'})",pictorial works
+18056,The Tin Soldier,"frozenset({'Bailey, Temple'})",fiction
+18078,Soldier Silhouettes on our Front,"frozenset({'Stidger, William L. (William Le Roy)'})",personal narratives
+18099,Donatello,"frozenset({'Crawford, David Lindsay, Earl of'})",biography
+18126,Tales of the Chesapeake,"frozenset({'Townsend, George Alfred'})",fiction
+18138,The Loves of Great Composers,"frozenset({'Kobbé, Gustav'})",biography
+1814,The Agony Column,"frozenset({'Biggers, Earl Derr'})",fiction
+1815,The Boys' Life of Abraham Lincoln,"frozenset({'Nicolay, Helen'})",juvenile literature
+18158,The Butterfly House,"frozenset({'Freeman, Mary Eleanor Wilkins'})",fiction
+18164,Potash & Perlmutter,"frozenset({'Glass, Montague'})",juvenile fiction
+18190,Raggedy Ann Stories,"frozenset({'Gruelle, Johnny'})",fiction
+18193,Ways of Wood Folk,"frozenset({'Long, William J. (William Joseph)'})",folklore
+1821,A Charmed Life,"frozenset({'Davis, Richard Harding'})",fiction
+18219,The Trumpeter Swan,"frozenset({'Bailey, Temple'})",fiction
+1822,The Amateur,"frozenset({'Davis, Richard Harding'})",fiction
+1825,The Adventures of Reddy Fox,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+18253,Discovery of Witches,"frozenset({'Potts, Thomas, active 1612-1618'})",early works to 1800
+18310,The Delight Makers,"frozenset({'Bandelier, Adolph Francis Alphonse'})",fiction
+18349,In the Irish Brigade,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+18352,Captured by the Navajos,"frozenset({'Curtis, Charles A. (Charles Albert)'})",fiction
+18362,Fifteen Thousand Useful Phrases,"frozenset({'Kleiser, Grenville'})",terms and phrases
+1840,The Financier,"frozenset({'Dreiser, Theodore'})",fiction
+18410,The Land of Promise,"frozenset({'Torbett, D.', 'Maugham, W. Somerset (William Somerset)'})",fiction
+18423,Old Kaskaskia,"frozenset({'Catherwood, Mary Hartwell'})",fiction
+18440,Logic,"frozenset({'Read, Carveth'})",fiction
+18467,The People's Common Sense Medical Adviser in Plain English,"frozenset({'Pierce, Ray Vaughn'})",popular works
+18478,"John Ward, Preacher","frozenset({'Deland, Margaret Wade Campbell'})",fiction
+18483,Fighting France,"frozenset({'Lauzanne, Stéphane'})",personal narratives
+18497,My Second Year of the War,"frozenset({'Palmer, Frederick'})",personal narratives
+18522,The Wreck,frozenset({'Anonymous'}),fiction
+18525,On the Trail,"frozenset({'Beard, Lina', 'Beard, Adelia B. (Adelia Belle)'})",juvenile literature
+18558,The Good Shepherd,frozenset({'Anonymous'}),fiction
+18563,Raw Gold,"frozenset({'Sinclair, Bertrand W.'})",fiction
+18578,Our Unitarian Gospel,"frozenset({'Savage, Minot J. (Minot Judson)'})",sermons
+18579,Taken by the Enemy,"frozenset({'Optic, Oliver'})",fiction
+18615,Hugh,"frozenset({'Benson, Arthur Christopher'})",biography
+18618,Stories of Later American History,"frozenset({'Gordy, Wilbur F. (Wilbur Fisk)'})",juvenile literature
+18622,Captain Sam,"frozenset({'Eggleston, George Cary'})",fiction
+18631,The Lady of Fort St. John,"frozenset({'Catherwood, Mary Hartwell'})",fiction
+18649,Some Diversions of a Man of Letters,"frozenset({'Gosse, Edmund'})",poetry
+18655,The Cruise of the Noah's Ark,"frozenset({'Cory, David'})",juvenile fiction
+18662,The Tale of Buster Bumblebee,"frozenset({'Bailey, Arthur Scott'})",fiction
+18678,A Victorious Union,"frozenset({'Optic, Oliver'})",juvenile literature
+18752,Undine,"frozenset({'La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de'})",fiction
+18770,A Christmas Story,"frozenset({'Francis, Samuel W. (Samuel Ward)'})",fiction
+18774,The Sun Of Quebec,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+18781,Hero and Leander,"frozenset({'Marlowe, Christopher'})",poetry
+18817,Ralestone Luck,"frozenset({'Norton, Andre'})",fantasy fiction
+18819,Hume,"frozenset({'Huxley, Thomas Henry'})",early works to 1800
+18831,Time and Time Again,"frozenset({'Piper, H. Beam'})",biography
+18833,With Clive in India,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+18838,The Belgians to the Front,"frozenset({'Fiske, James'})",fiction
+18840,A Dream of Empire,"frozenset({'Venable, William Henry'})",fiction
+18851,Gibbon,"frozenset({'Morison, James Cotter'})",biography
+18917,Goldsmith,"frozenset({'Black, William'})",biography
+18934,My Lady Nicotine,"frozenset({'Barrie, J. M. (James Matthew)'})",anecdotes
+18936,Little Journeys To The Homes Of Great Teachers,"frozenset({'Hubbard, Elbert'})",biography
+18938,The Great Book-Collectors,"frozenset({'Elton, Charles Isaac', 'Elton, Mary Augusta'})",biography
+18960,The King's Men,"frozenset({""O'Reilly, John Boyle"", 'Wheelwright, John T. (John Tyler)', 'Grant, Robert', 'Stimson, Frederic Jesup'})",fiction
+18963,Into the Jaws of Death,"frozenset({""O'Brien, Jack""})","personal narratives, american"
+18967,The Bastonnais,"frozenset({'Lespérance, John'})",fiction
+19002,Alice's Adventures Under Ground,"frozenset({'Carroll, Lewis'})",juvenile fiction
+19014,Nibsy's Christmas,"frozenset({'Riis, Jacob A. (Jacob August)'})",fiction
+19036,Germany and the Germans,"frozenset({'Collier, Price'})",juvenile literature
+19049,The Builders,"frozenset({'Newton, Joseph Fort'})",case studies
+1905,The Governess,"frozenset({'Fielding, Sarah'})",librettos
+1906,Erewhon,"frozenset({'Butler, Samuel'})",fiction
+19073,Cocoa and Chocolate,"frozenset({'Knapp, Arthur William'})",juvenile literature
+19082,The Destiny of the Soul,"frozenset({'Alger, William Rounseville'})",bibliography
+19090,Star Hunter,"frozenset({'Norton, Andre'})",science fiction
+19121,Sword and Gown,"frozenset({'Lawrence, George A. (George Alfred)'})",specimens
+19131,Golden Lads,"frozenset({'Gleason, Helen Hayes', 'Gleason, Arthur'})",personal narratives
+19135,The Southerner,"frozenset({'Dixon, Thomas, Jr.'})",fiction
+19136,Hayslope Grange,"frozenset({'Leslie, Emma'})",juvenile literature
+19141,Edison's Conquest of Mars,"frozenset({'Serviss, Garrett Putman'})",fiction
+19194,Rebel Raider,"frozenset({'Piper, H. Beam'})",juvenile literature
+19206,Under Drake's Flag,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+19221,The Golden Treasury,frozenset(),texts
+19247,Dotty Dimple's Flyaway,"frozenset({'May, Sophie'})",juvenile literature
+19256,Georgie,"frozenset({'Abbott, Jacob'})",fiction
+19258,Tom Swift and the Electronic Hydrolung,"frozenset({'Appleton, Victor, II'})",juvenile fiction
+1930,Penguin Island,"frozenset({'France, Anatole'})",translations into english
+19303,Raftmates,"frozenset({'Munroe, Kirk'})",fiction
+19311,The Outdoor Girls in Florida,"frozenset({'Hope, Laura Lee'})",fiction
+19339,With The Immortal Seventh Division,"frozenset({'Kennedy, Edmund John'})","personal narratives, english"
+19360,Six to Sixteen,"frozenset({'Ewing, Juliana Horatia Gatty'})",specimens
+19377,A Brief Account of the Rise and Progress of the People Called Quakers,"frozenset({'Penn, William'})",early works to 1800
+19381,Among the Farmyard People,"frozenset({'Pierson, Clara Dillingham'})",juvenile literature
+19396,On the Spanish Main,"frozenset({'Masefield, John'})",fiction
+19449,The North American Indian,"frozenset({'Curtis, Edward S.'})",pictorial works
+1945,Egmont,"frozenset({'Goethe, Johann Wolfgang von'})",librettos
+19463,James Fenimore Cooper,"frozenset({'Lounsbury, Thomas Raynesford'})",biography
+19480,Ray's Daughter,"frozenset({'King, Charles'})",fiction
+1951,The Coming Race,"frozenset({'Lytton, Edward Bulwer Lytton, Baron'})",fiction
+1954,Colonel Chabert,"frozenset({'Balzac, Honoré de'})",fiction
+19566,Fables of Infidelity and Facts of Faith,"frozenset({'Patterson, Robert'})",controversial literature
+19614,The Dark Forest,"frozenset({'Walpole, Hugh'})",fiction
+19645,Under the Trees and Elsewhere,"frozenset({'Mabie, Hamilton Wright'})",outdoor books
+19648,Mingo,"frozenset({'Harris, Joel Chandler'})",fiction
+19656,One Woman's Life,"frozenset({'Herrick, Robert'})",biography
+19710,The Red Horizon,"frozenset({'MacGill, Patrick'})",biography
+19714,With Frederick the Great,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+19746,The Colonel's Dream,"frozenset({'Chesnutt, Charles W. (Charles Waddell)'})",fiction
+19806,Everyman's Land,"frozenset({'Williamson, A. M. (Alice Muriel)', 'Williamson, C. N. (Charles Norris)'})",fiction
+19825,Herself,"frozenset({'Lowry, E. B. (Edith Belle)'})",fiction
+19830,Moody's Anecdotes And Illustrations,"frozenset({'Moody, Dwight Lyman'})",fiction
+19855,Louis' School Days,"frozenset({'May, E. J. (Edith J.)'})",juvenile fiction
+19861,The Lady Paramount,"frozenset({'Harland, Henry'})",fiction
+19933,Cluthe's Advice to the Ruptured,frozenset({'Cluthe Rupture Institute'}),catalogs
+19942,Candide,frozenset({'Voltaire'}),fiction
+19957,Facing the German Foe,"frozenset({'Fiske, James'})",fiction
+19987,Chapters from My Autobiography,"frozenset({'Twain, Mark'})",biography
+19994,The AEsop for Children,frozenset({'Aesop'}),adaptations
+20002,Alroy,"frozenset({'Disraeli, Benjamin, Earl of Beaconsfield'})",fiction
+20007,Lord George Bentinck,"frozenset({'Disraeli, Benjamin, Earl of Beaconsfield'})",biography
+20010,The Calico Cat,"frozenset({'Thompson, Charles Miner'})",fiction
+20016,Home Rule,"frozenset({'Spender, Harold'})",congresses
+2008,"Mazelli, and Other Poems","frozenset({'Sands, George W.'})",poetry
+20082,Warrior Gap,"frozenset({'King, Charles'})",fiction
+20111,With Those Who Wait,"frozenset({'Huard, Frances Wilson'})",personal narratives
+2012,The Children,"frozenset({'Meynell, Alice'})",biography
+20122,The Queen's Necklace,"frozenset({'Dumas, Alexandre'})",fiction
+20123,Golden Stars,"frozenset({'Van Dyke, Henry'})",poetry
+20131,The Mask,"frozenset({'Hornblow, Arthur'})",fiction
+20135,The Angel of Death,"frozenset({'Wallin, Johan Olof'})",fiction
+20139,Old Fogy,"frozenset({'Huneker, James'})",anecdotes
+20196,Victorian Worthies,"frozenset({'Blore, George Henry'})",biography
+20198,Lavengro,"frozenset({'Borrow, George'})",fiction
+20200,"Christmas, A Happy Time","frozenset({'Mant, Alicia Catherine'})",juvenile literature
+20201,Mary Gray,"frozenset({'Tynan, Katharine'})",juvenile fiction
+20213,"Peace on Earth, Good-will to Dogs","frozenset({'Abbott, Eleanor Hallowell'})",biography
+20217,The Stranger,"frozenset({'Kotzebue, August von'})",fiction
+2023,Malvina of Brittany,"frozenset({'Jerome, Jerome K. (Jerome Klapka)'})",fiction
+20251,Christmas Comes but Once A Year,"frozenset({'Leighton, John'})",juvenile fiction
+20311,The Bobbsey Twins on Blueberry Island,"frozenset({'Hope, Laura Lee'})",juvenile fiction
+20357,Jerry,"frozenset({'Webster, Jean'})",fiction
+20374,Capitals,"frozenset({'Hamilton, Frederick W. (Frederick William)'})",juvenile literature
+20380,Ten Tales,"frozenset({'Coppée, François'})",translations into english
+20419,Gigolo,"frozenset({'Ferber, Edna'})",fiction
+20449,The Plum Tree,"frozenset({'Phillips, David Graham'})",drama
+20451,The Confessions of Artemas Quibble,"frozenset({'Train, Arthur Cheney'})",fiction
+20476,Hymns for Christian Devotion,"frozenset({'Chapin, E. H. (Edwin Hubbell)', 'Adams, John G. (John Greenleaf)'})",hymns
+20533,Jill the Reckless,"frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",fiction
+2055,Two Years Before the Mast,"frozenset({'Dana, Richard Henry'})",travel; adventures
+20556,"Lamarck, the Founder of Evolution","frozenset({'Packard, A. S. (Alpheus Spring)'})",biography
+20576,Two Suffolk Friends,"frozenset({'Groome, Francis Hindes'})",biography
+20611,Mr. Grex of Monte Carlo,"frozenset({'Oppenheim, E. Phillips (Edward Phillips)'})",fiction
+20612,Fort Amity,"frozenset({'Quiller-Couch, Arthur'})",fiction
+20619,General Gordon,"frozenset({'Wardle, Joseph'})",biography
+20638,From Plotzk to Boston,"frozenset({'Antin, Mary'})",biography
+207,The Spell of the Yukon,"frozenset({'Service, Robert W. (Robert William)'})",poetry
+20709,From Pole to Pole,"frozenset({'Hedin, Sven Anders'})",biography
+20712,Trail's End,"frozenset({'Ogden, George W. (George Washington)'})",fiction
+2072,Michael,"frozenset({'Benson, E. F. (Edward Frederic)'})",fiction
+20732,The Carmina of Caius Valerius Catullus,"frozenset({'Catullus, Gaius Valerius'})",translations into english
+20772,Agriculture for Beginners,"frozenset({'Hill, Daniel Harvey', 'Burkett, Charles William', 'Stevens, Frank Lincoln'})",juvenile literature
+2078,Thais,"frozenset({'France, Anatole'})",librettos
+2079,From the Memoirs of a Minister of France,"frozenset({'Weyman, Stanley John'})",fiction
+20834,Ruth Fielding at the War Front,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+20851,"Character Sketches of Romance, Fiction and the Drama","frozenset({'Brewer, Ebenezer Cobham'})",dictionaries
+20869,The Skylark of Space,"frozenset({'Garby, Lee Hawkins', 'Smith, E. E. (Edward Elmer)'})",fiction
+20873,Albert Gallatin,"frozenset({'Stevens, John Austin'})",biography
+20877,Mother West Wind's Children,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+20897,A Short History of England,"frozenset({'Chesterton, G. K. (Gilbert Keith)'})","outlines, syllabi, etc"
+20911,The Rose of Old St. Louis,"frozenset({'Dillon, Mary (Mary C. Johnson)'})",fiction
+20929,Little Novels of Italy,"frozenset({'Hewlett, Maurice'})",fiction
+20986,Tom Slade with the Colors,"frozenset({'Fitzhugh, Percy Keese'})",fiction
+20991,Follow My leader,"frozenset({'Reed, Talbot Baines'})",fiction
+20995,Fighting in France,"frozenset({'Kay, Ross'})",fiction
+21020,The Little Clay Cart,frozenset({'Sudraka'}),translations into english
+21067,Overdue,"frozenset({'Collingwood, Harry'})",fiction
+21094,The Girl in the Golden Atom,"frozenset({'Cummings, Ray'})",fiction
+211,The Aspern Papers,"frozenset({'James, Henry'})",fiction
+21103,Sisters Three,"frozenset({'Vaizey, George de Horne, Mrs.'})",fiction
+21105,Teddy,"frozenset({'Hutcheson, John C. (John Conroy)'})",biography
+21109,Big Game,"frozenset({'Vaizey, George de Horne, Mrs.'})",fiction
+21205,The Gold Trail,"frozenset({'Bindloss, Harold'})",fiction
+21219,A Voice in the Wilderness,"frozenset({'Hill, Grace Livingston'})",biography
+21222,The Armourer's Prentices,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",fiction
+21230,Susan,"frozenset({'Walton, Amy'})",fiction
+213,The Man from Snowy River,"frozenset({'Paterson, A. B. (Andrew Barton)'})",poetry
+21300,Cowboy Songs,frozenset({'Various'}),songs and music
+21301,Bunyip Land,"frozenset({'Fenn, George Manville'})",juvenile fiction
+21302,Charge!,"frozenset({'Fenn, George Manville'})",miscellanea
+21306,Dick o' the Fens,"frozenset({'Fenn, George Manville'})",juvenile literature
+21307,Fire Island,"frozenset({'Fenn, George Manville'})",fiction
+21331,The Adventures of Hajji Baba of Ispahan,"frozenset({'Morier, James Justinian'})",fiction
+21335,The Moving Finger,"frozenset({'Gaunt, Mary'})",fiction
+21362,The Powder Monkey,"frozenset({'Fenn, George Manville'})",fiction
+21393,Hendricks the Hunter,"frozenset({'Kingston, William Henry Giles'})",fiction
+21431,Mary Powell & Deborah's Diary,"frozenset({'Manning, Anne'})",fiction
+21474,Peter the Whaler,"frozenset({'Kingston, William Henry Giles'})",fiction
+21475,Peter Trawl,"frozenset({'Kingston, William Henry Giles'})",fiction
+21488,Saved from the Sea,"frozenset({'Kingston, William Henry Giles'})",fiction
+21565,The Queen's Matrimonial Ladder,"frozenset({'Hone, William'})",poetry
+21573,The Phantom Ship,"frozenset({'Marryat, Frederick'})",fiction
+21577,Peter Simple,"frozenset({'Marryat, Frederick'})",fiction
+21597,Jersey Street and Jersey Lane,"frozenset({'Bunner, H. C. (Henry Cuyler)'})",fiction
+21613,On the Stairs,"frozenset({'Fuller, Henry Blake'})",fiction
+21618,The Aztec Treasure-House,"frozenset({'Janvier, Thomas A. (Thomas Allibone)'})",fiction
+21632,Fame and Fortune,"frozenset({'Alger, Horatio, Jr.'})",fiction
+21652,Klondike Nuggets,"frozenset({'Ellis, Edward Sylvester'})",juvenile fiction
+21653,The Eurhythmics of Jaques-Dalcroze,"frozenset({'Jaques-Dalcroze, Émile'})",instruction and study
+21670,Edison's Conquest of Mars,"frozenset({'Serviss, Garrett Putman'})",fiction
+21672,Westminster Abbey,"frozenset({'Smith, A. Murray, Mrs.'})",pictorial works
+21727,Digging for Gold,"frozenset({'Ballantyne, R. M. (Robert Michael)'})",fiction
+21734,The Golden Dream,"frozenset({'Ballantyne, R. M. (Robert Michael)'})",juvenile literature
+2177,Thankful Blossom,"frozenset({'Harte, Bret'})",specimens
+21814,The Trial and Death of Jesus Christ,"frozenset({'Stalker, James'})",biography
+21828,The Life of St. Paul,"frozenset({'Stalker, James'})",biography
+2183,Three Men on the Bummel,"frozenset({'Jerome, Jerome K. (Jerome Klapka)'})",fiction
+2185,Maruja,"frozenset({'Harte, Bret'})",fiction
+21854,The Woman in Black,"frozenset({'Bentley, E. C. (Edmund Clerihew)'})",fiction
+2186,"""Captains Courageous""","frozenset({'Kipling, Rudyard'})",fiction
+21863,Derrick Sterling,"frozenset({'Munroe, Kirk'})",fiction
+21872,The Life of David,"frozenset({'Maclaren, Alexander'})",biography
+2194,Mauprat,"frozenset({'Sand, George'})",fiction
+21948,Little Busybodies,"frozenset({'Moody, Julia', 'Marks, Jeannette Augustus'})",juvenile literature
+2197,The Gambler,"frozenset({'Dostoyevsky, Fyodor'})",biography
+21986,The Dash for Khartoum,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+22000,Kept in the Dark,"frozenset({'Trollope, Anthony'})",juvenile fiction
+22032,Later Poems,"frozenset({'Meynell, Alice'})",poetry
+22053,Stories of King Arthur and His Knights,"frozenset({'Malory, Thomas, Sir'})",juvenile literature
+22066,The Long Roll,"frozenset({'Johnston, Mary'})",fiction
+22101,Wood Folk at School,"frozenset({'Long, William J. (William Joseph)'})",anecdotes
+22102,The Hills of Home,"frozenset({'Coppel, Alfred'})",fiction
+22144,Good Old Anna,"frozenset({'Lowndes, Marie Belloc'})",fiction
+22152,Possessed,"frozenset({'Moffett, Cleveland'})",fiction
+22165,My Studio Neighbors,"frozenset({'Gibson, W. Hamilton (William Hamilton)'})",outdoor books
+22181,The Maid and the Magpie,"frozenset({'Moreton, Charles'})",juvenile poetry
+22186,For the Liberty of Texas,"frozenset({'Stratemeyer, Edward'})",fiction
+22201,The Butterfly's Funeral,frozenset({'J. L. B.'}),juvenile poetry
+22211,Gilian The Dreamer,"frozenset({'Munro, Neil'})",fiction
+22225,Mary Louise in the Country,"frozenset({'Baum, L. Frank (Lyman Frank)'})",fiction
+22239,Security,"frozenset({'Anderson, Poul'})",fiction
+22251,The Teacher,"frozenset({'Abbott, Jacob'})",texts
+22289,The Conuercyon of swerers,"frozenset({'Hawes, Stephen'})",early works to 1800
+22311,Followers of the Trail,"frozenset({'Meyer, Zoe'})",interviews
+2232,The Duchess of Malfi,"frozenset({'Webster, John'})",study guides
+22324,Pushed and the Return Push,"frozenset({'Nichols, George Herbert Fosdike'})","personal narratives, english"
+2233,A Damsel in Distress,"frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",fiction
+22343,The Wedding Ring,"frozenset({'Talmage, T. De Witt (Thomas De Witt)'})",sermons
+22372,A Labrador Doctor,"frozenset({'Grenfell, Wilfred Thomason, Sir'})",biography
+22410,The Crofton Boys,"frozenset({'Martineau, Harriet'})",fiction
+22418,Dollars and Sense,"frozenset({'Hunter, William Crosbie'})",statistics
+22426,The Players,"frozenset({'Cole, Everett B.'})",fiction
+22464,The Last of the Chiefs,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+22532,Mary Louise and Josie O'Gorman,"frozenset({'Sampson, Emma Speed'})",fiction
+22619,International Copyright,"frozenset({'Putnam, George Haven'})",congresses
+22646,The Hunters of the Ozark,"frozenset({'Ellis, Edward Sylvester'})",fiction
+22661,Clarimonde,"frozenset({'Gautier, Théophile'})",fiction
+22673,Plantation Sketches,"frozenset({'Devereux, Margaret'})",pictorial works
+22690,Rembrandt and His Works,"frozenset({'Burnet, John'})",catalogs
+2273,Tom Swift and his Motor-boat,"frozenset({'Appleton, Victor'})",juvenile fiction
+22735,King of the Jews,"frozenset({'Stead, W. T. (William Thomas)'})",fiction
+22743,Ruth Fielding and the Gypsies,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+2276,The Private Memoirs and Confessions of a Justified Sinner,"frozenset({'Hogg, James'})",fiction
+22775,Psychotherapy,"frozenset({'Münsterberg, Hugo'})",case studies
+22782,The Buddha,"frozenset({'Carus, Paul'})",biography
+22804,Apron-Strings,"frozenset({'Gates, Eleanor'})",fiction
+22816,The Adventures of Buster Bear,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+22818,An Alphabet of Celebrities,"frozenset({'Herford, Oliver'})",poetry
+22820,The Crooked House,"frozenset({'Fleming, Brandon'})",fiction
+22827,Patchwork,"frozenset({'Myers, Anna Balmer'})",fiction
+22876,The Link,"frozenset({'Nourse, Alan Edward'})",fiction
+22877,Lavengro,"frozenset({'Borrow, George'})",fiction
+22878,Lavengro,"frozenset({'Borrow, George'})",fiction
+22891,Simple Simon,frozenset({'Anonymous'}),study guides
+2291,David Elginbrod,"frozenset({'MacDonald, George'})",fiction
+22913,Winning His Way,"frozenset({'Coffin, Charles Carleton'})",fiction
+22915,The New Land,"frozenset({'Levinger, Elma Ehrlich'})",early accounts to 1600
+22939,The Gypsies,"frozenset({'Leland, Charles Godfrey'})",juvenile literature
+2295,Waifs and Strays,"frozenset({'Henry, O.'})",fiction
+22960,Among the Pines,"frozenset({'Gilmore, James R. (James Roberts)'})",fiction
+2298,Great Astronomers,"frozenset({'Ball, Robert S. (Robert Stawell)'})",biography
+23058,The Queen Of Spades,"frozenset({'Pushkin, Aleksandr Sergeevich'})",librettos
+23063,The Lost Child,"frozenset({'Coppée, François'})",fiction
+23092,The Simple Life,"frozenset({'Wagner, Charles'})",fiction
+23096,And Judas Iscariot,"frozenset({'Chapman, J. Wilbur (John Wilbur)'})",sermons
+23097,Fifty Years of Public Service,"frozenset({'Cullom, Shelby M. (Shelby Moore)'})",biography
+23116,Ruth Fielding Down East,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+23153,The Big Bounce,"frozenset({'Tevis, Walter S.'})",fiction
+23194,The Common Man,"frozenset({'Reynolds, Mack'})",poetry
+23210,Missing Link,"frozenset({'Herbert, Frank'})",fiction
+23223,Good Blood,"frozenset({'Wildenbruch, Ernst von'})",fiction
+23234,Semiramis and Other Plays,"frozenset({'Dargan, Olive Tilford'})",drama
+23246,Mistress Anne,"frozenset({'Bailey, Temple'})",biography
+23258,"Journal of Jasper Danckaerts, 1679-1680","frozenset({'Danckaerts, Jasper'})",early works to 1800
+23261,Oowikapun,"frozenset({'Young, Egerton Ryerson'})",fiction
+23265,The Crofton Boys,"frozenset({'Martineau, Harriet'})",fiction
+2327,Some Short Stories,"frozenset({'James, Henry'})",juvenile literature
+23287,Lavengro,"frozenset({'Borrow, George'})",fiction
+23318,The Nine Lives of A Cat,"frozenset({'Bennett, Charles H. (Charles Henry)'})",juvenile literature
+23322,The Three Bears,frozenset({'Anonymous'}),folklore
+23334,Natural Law in the Spiritual World,"frozenset({'Drummond, Henry'})",early works to 1900
+23337,Tight Squeeze,"frozenset({'Ing, Dean Charles'})",fiction
+23455,Plain Jane,"frozenset({'George, G. M.'})",fiction
+23460,Abroad,frozenset(),juvenile literature
+23481,The Perfect Gentleman,"frozenset({'Bergengren, Ralph'})",biography
+23492,Fast in the Ice,"frozenset({'Ballantyne, R. M. (Robert Michael)'})",juvenile fiction
+23503,In the Wilds of Africa,"frozenset({'Kingston, William Henry Giles'})",juvenile literature
+2352,Eurasia,"frozenset({'Evans, Christopher'})",fiction
+23607,A Circuit Rider's Wife,"frozenset({'Harris, Corra'})",fiction
+23612,The Leader,"frozenset({'Leinster, Murray'})",fiction
+23613,Las Casas,"frozenset({'Knight, Alice J.'})",juvenile literature
+23625,The Magic Pudding,"frozenset({'Lindsay, Norman'})",fiction
+23635,Wampum,"frozenset({'Woodward, Ashbel'})",juvenile literature
+23663,Tom Slade on a Transport,"frozenset({'Fitzhugh, Percy Keese'})",fiction
+23751,Southern Stories,frozenset({'Various'}),fiction
+23762,Blessed Are the Meek,"frozenset({'Edmondson, G. C.'})",fiction
+23764,The Bramble Bush,"frozenset({'Garrett, Randall'})",fiction
+23778,The Governess,"frozenset({'Lippmann, Julie M.'})",librettos
+23783,Eliza,"frozenset({'Pain, Barry'})",drama
+238,Dear Enemy,"frozenset({'Webster, Jean'})",fiction
+23885,The Fifth Ace,"frozenset({'Ostrander, Isabel'})",fiction
+23893,The Melting-Pot,"frozenset({'Zangwill, Israel'})",drama
+2392,Further Adventures of Lad,"frozenset({'Terhune, Albert Payson'})",fiction
+23952,Valerie,"frozenset({'Marryat, Frederick'})",fiction
+23988,The Man Who Lost Himself,"frozenset({'Stacpoole, H. De Vere (Henry De Vere)'})",biography
+24019,Excelsior,"frozenset({'Harte, Bret'})",fiction
+24061,Jimmy Crow,"frozenset({'Foster, Edith Francis'})",juvenile literature
+241,Clotelle,"frozenset({'Brown, William Wells'})",fiction
+24120,The Hour and the Man,"frozenset({'Martineau, Harriet'})",fiction
+24133,The Long Run,"frozenset({'Wharton, Edith'})",fiction
+24152,The Guardians,"frozenset({'Cox, Irving E.'})",fiction
+24166,The Destroyers,"frozenset({'Garrett, Randall'})",fiction
+24171,The Wedding Day,frozenset(),fiction
+24182,Rollo in London,"frozenset({'Abbott, Jacob'})",juvenile fiction
+24191,Life Immovable,"frozenset({'Palamas, Kostes'})",translations into english
+24195,"History of the 159th Regiment, N.Y.S.V.","frozenset({'Duffy, Edward'})",personal narratives
+24197,The Tinted Venus,"frozenset({'Anstey, F.'})",fiction
+24210,Deerbrook,"frozenset({'Martineau, Harriet'})",fiction
+24221,The Untouchable,"frozenset({'Kallis, Stephen A.'})",fiction
+24244,A Girl of the Commune,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+2426,The Diary of a Man of Fifty,"frozenset({'James, Henry'})",fiction
+24321,Tea Leaves,"frozenset({'Drake, Francis S. (Francis Samuel)'})",fiction
+24335,Margaret Tudor,"frozenset({'Colcock, Annie T.'})",fiction
+24341,Reminiscences of a Rebel,"frozenset({'Dunaway, Wayland Fuller'})","personal narratives, confederate"
+24342,The Story of the Outlaw,"frozenset({'Hough, Emerson'})",biography
+24378,Mamma's Stories about Birds,"frozenset({'Leathley, Mary Elizabeth Southwell Dudley'})",juvenile literature
+24440,Surgical Anatomy,"frozenset({'Maclise, Joseph'})",atlases
+24493,The Boy Who Knew What The Birds Said,"frozenset({'Colum, Padraic'})",fiction
+2451,Caught In The Net,"frozenset({'Gaboriau, Emile'})",fiction
+24540,Country Neighbors,"frozenset({'Brown, Alice'})",fiction
+24554,Down South,"frozenset({'Optic, Oliver'})","personal narratives, american"
+24566,Faithfully Yours,"frozenset({'Tabakow, Lou'})",correspondence
+24574,Loss and Gain,"frozenset({'Newman, John Henry'})",fiction
+24623,Mother Goose,frozenset(),juvenile poetry
+24672,The God of Love,"frozenset({'McCarthy, Justin H. (Justin Huntly)'})",fiction
+24680,The Martyr of the Catacombs,"frozenset({'De Mille, James'})",juvenile fiction
+24698,In School and Out,"frozenset({'Optic, Oliver'})",juvenile literature
+24699,Some Personal Recollections of Dr. Janeway,"frozenset({'Clark, James Bayard'})",biography
+24700,A History of French Literature,"frozenset({'Dowden, Edward'})",bibliography
+24707,By Proxy,"frozenset({'Garrett, Randall'})",specimens
+24713,Stories of New Jersey,"frozenset({'Stockton, Frank Richard'})",legends
+24737,The Children of Odin,"frozenset({'Colum, Padraic'})",juvenile literature
+24740,"The Battle of Spring Hill, Tennessee","frozenset({'Shellenberger, John K.'})",personal narratives
+24772,Sara Crewe,"frozenset({'Burnett, Frances Hodgson'})",fiction
+2479,The Friendly Road,"frozenset({'Grayson, David'})",biography
+24793,Blow The Man Down,"frozenset({'Day, Holman'})",fiction
+24812,The Three Midshipmen,"frozenset({'Kingston, William Henry Giles'})",fiction
+24827,Rita,"frozenset({'Richards, Laura Elizabeth Howe'})",fiction
+24831,Forests of Maine,"frozenset({'Abbott, Jacob'})",juvenile literature
+24832,Labrador Days,"frozenset({'Grenfell, Wilfred Thomason, Sir'})",fiction
+24839,The Blonde Lady,"frozenset({'Leblanc, Maurice'})",fiction
+24842,The Defence of Duffer's Drift,"frozenset({'Swinton, E. D. (Ernest Dunlop)'})",fiction
+24866,A Lieutenant at Eighteen,"frozenset({'Optic, Oliver'})",fiction
+2487,Cross Roads,"frozenset({'Sangster, Margaret E. (Margaret Elizabeth)'})",translations into english
+24921,"It's like this, cat","frozenset({'Neville, Emily'})",juvenile fiction
+24926,In the Mahdi's Grasp,"frozenset({'Fenn, George Manville'})",fiction
+24928,Longevity,"frozenset({'Windser, Therese'})",early works to 1800
+24966,Survival Tactics,"frozenset({'Sevcik, Al'})",biography
+24979,A Source Book for Ancient Church History,"frozenset({'Ayer, Joseph Cullen'})",sources
+2503,Myths and Legends of California and the Old Southwest,frozenset(),folklore
+25038,Tam O' The Scoots,"frozenset({'Wallace, Edgar'})",fiction
+25053,The Temptation of St. Antony,"frozenset({'Flaubert, Gustave'})",fiction
+25102,Nobody's Boy,"frozenset({'Malot, Hector'})",biography
+25132,The Candidate,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",biography
+25171,The Uncalled,"frozenset({'Dunbar, Paul Laurence'})",fiction
+25205,Light On the Child's Path,"frozenset({'Bixler, William Allen'})",juvenile literature
+2524,My Lady Ludlow,"frozenset({'Gaskell, Elizabeth Cleghorn'})",fiction
+2526,The Yoga Sutras of Patanjali,frozenset({'Patañjali'}),early works to 1800
+25269,Elements of Plumbing,"frozenset({'Dibble, Samuel Edward'})","handbooks, manuals, etc"
+2527,The Sorrows of Young Werther,"frozenset({'Goethe, Johann Wolfgang von'})",fiction
+25356,Aunt Madge's Story,"frozenset({'May, Sophie'})",juvenile literature
+25404,The Lost Child,"frozenset({'Kingsley, Henry'})",fiction
+25428,Anecdotes of Animals,frozenset({'Unknown'}),juvenile literature
+25446,Fernley House,"frozenset({'Richards, Laura Elizabeth Howe'})",fiction
+25451,The Sleeping Beauty,"frozenset({'Evans, C. S. (Charles Seddon)'})",juvenile literature
+25476,Golden Deeds,frozenset({'Anonymous'}),fiction
+25484,Captain Horace,"frozenset({'May, Sophie'})",juvenile literature
+25486,David the Shepherd Boy,"frozenset({'Steedman, Amy'})",juvenile literature
+25507,Little Grandmother,"frozenset({'May, Sophie'})",fiction
+25529,The Adventures of Danny Meadow Mouse,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+25535,Montaigne and Shakspere,"frozenset({'Robertson, J. M. (John Mackinnon)'})",sources
+25548,Rollo's Museum,"frozenset({'Abbott, Jacob'})",juvenile literature
+25549,A Chosen Few,"frozenset({'Stockton, Frank Richard'})",fiction
+25572,Capt'n Davy's Honeymoon,"frozenset({'Caine, Hall, Sir'})",fiction
+25579,Ralph the Heir,"frozenset({'Trollope, Anthony'})",fiction
+25581,Rinkitink in Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+25582,Daughters of the Puritans,"frozenset({'Beach, Seth Curtis'})",biography
+25592,Life and Adventures of Mr. Pig and Miss Crane,frozenset({'Unknown'}),juvenile poetry
+25596,The Keepers of the Trail,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+25600,Bird Stories,"frozenset({'Patch, Edith M. (Edith Marion)'})",juvenile literature
+2561,Robert Falconer,"frozenset({'MacDonald, George'})",fiction
+25623,Barbarians,"frozenset({'Chambers, Robert W. (Robert William)'})",exhibitions
+25651,With Spurs of Gold,"frozenset({'Greene, Frances Nimmo', 'Kirk, Dolly Williams'})",fiction
+25677,The History of Minnesota and Tales of the Frontier,"frozenset({'Flandrau, Charles E. (Charles Eugene)'})",anecdotes
+25688,The Transformation of Job,"frozenset({'Fisher, Frederick Vining'})",fiction
+25699,The Battle of New Orleans,"frozenset({'Smith, Z. F. (Zachariah Frederick)'})",fiction
+25718,The Watchers of the Trails,"frozenset({'Roberts, Charles G. D., Sir'})",anecdotes
+25724,The Other Side of the Door,"frozenset({'Chamberlain, Lucia'})",fiction
+2573,The Caged Lion,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",biography
+25737,Concordance,"frozenset({'Wilson, Ann'})",classification
+25741,A Matter of Honor,"frozenset({'Wilson, Ann'})",fiction
+25760,The Comedienne,"frozenset({'Reymont, Władysław Stanisław'})",fiction
+25802,Ruth Fielding on the St. Lawrence,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+25829,The Dark Tower,"frozenset({'Bottome, Phyllis'})",fiction
+25833,The Great Controversy Between Christ and Satan,"frozenset({'White, Ellen Gould Harmon'})",controversial literature
+25884,Found in the Philippines,"frozenset({'King, Charles'})",fiction
+25916,Prescott of Saskatchewan,"frozenset({'Bindloss, Harold'})",fiction
+25919,Miss Mapp,"frozenset({'Benson, E. F. (Edward Frederic)'})",fiction
+25939,A Bibliography of the writings in Prose and Verse of George Henry Borrow,"frozenset({'Wise, Thomas James'})",bibliography
+25947,The Devil,"frozenset({""O'Brien, Joseph""})",juvenile literature
+25951,Fragments From France,"frozenset({'Bairnsfather, Bruce'})",humor
+25973,Birds of the Rockies,"frozenset({'Keyser, Leander S. (Leander Sylvester)'})",juvenile literature
+25979,Sonnets of Shakespeare's Ghost,"frozenset({'Thornton, Gregory'})",poetry
+25985,Bardell v. Pickwick,"frozenset({'Fitzgerald, Percy', 'Dickens, Charles'})",fiction
+26001,The Bertrams,"frozenset({'Trollope, Anthony'})",fiction
+2604,The Longest Journey,"frozenset({'Forster, E. M. (Edward Morgan)'})",fiction
+26040,Log-book of Timothy Boardman,"frozenset({'Boardman, Timothy'})",personal narratives
+26052,James B. Eads,"frozenset({'How, Louis'})",biography
+26057,Marjorie,"frozenset({'McCarthy, Justin H. (Justin Huntly)'})",fiction
+2607,"Psmith, Journalist","frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",fiction
+26075,The Erie Train Boy,"frozenset({'Alger, Horatio, Jr.'})",juvenile literature
+26090,Condemned as a Nihilist,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+26095,The Athenian Constitution,frozenset({'Aristotle'}),early works to 1800
+26122,Five Little Peppers at School,"frozenset({'Sidney, Margaret'})",fiction
+26123,An Essay on Slavery and Abolitionism,"frozenset({'Beecher, Catharine Esther'})",controversial literature
+26140,Security,"frozenset({'Kenyon, Ernest M.'})",fiction
+26156,Hopes and Fears,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",fiction
+26165,Lady Luck,"frozenset({'Wiley, Hugh'})",fiction
+2618,A House-Boat on the Styx,"frozenset({'Bangs, John Kendrick'})",fiction
+26191,Citadel,"frozenset({'Budrys, Algis'})",fiction
+26217,The Loyalist,"frozenset({'Barrett, James Francis'})",fiction
+26241,"Antony Gray,--Gardener",frozenset({'LM (Leslie Moore)'}),fiction
+26255,Sonny Boy,"frozenset({'Swett, Sophie Miriam'})",biography
+26320,The Merry-Go-Round,"frozenset({'Van Vechten, Carl'})",fiction
+26344,Letters of a Dakota Divorcee,"frozenset({'Burr, Jane'})",fiction
+26354,Woodward's Country Homes,"frozenset({'Woodward, F. W. (Francis W.)', 'Woodward, George E. (George Evertson)'})",designs and plans
+26365,Intestinal Ills,"frozenset({'Jamison, Alcinous B. (Alcinous Burton)'})",popular works
+2641,A Room With A View,"frozenset({'Forster, E. M. (Edward Morgan)'})",fiction
+2643,The History of John Bull,"frozenset({'Arbuthnot, John'})",anecdotes
+26441,Humanity in the City,"frozenset({'Chapin, E. H. (Edwin Hubbell)'})",sermons
+26442,True to His Home,"frozenset({'Butterworth, Hezekiah'})",fiction
+26481,The Romance of Mathematics,"frozenset({'Ditchfield, P. H. (Peter Hampson)'})",humor
+26527,Judith of the Cumberlands,"frozenset({'MacGowan, Alice'})",fiction
+26536,The Good Neighbors,"frozenset({'Pangborn, Edgar'})",fiction
+26541,The Vicar of Bullhampton,"frozenset({'Trollope, Anthony'})",fiction
+26556,Myths and Marvels of Astronomy,"frozenset({'Proctor, Richard A. (Richard Anthony)'})",miscellanea
+26561,"The Story of a Common Soldier of Army Life in the Civil War, 1861-1865","frozenset({'Stillwell, Leander'})",personal narratives
+26613,Ruth Fielding At College,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+2663,Minna von Barnhelm,"frozenset({'Lessing, Gotthold Ephraim'})",readers
+26672,"Bookbinding, and the Care of Books","frozenset({'Cockerell, Douglas'})","handbooks, manuals, etc"
+26728,Aunt Jane of Kentucky,"frozenset({'Hall, Eliza Calvert'})",fiction
+26747,Reminiscences of two years with the colored troops,"frozenset({'Addeman, Joshua M. (Joshua Melancthon)'})",personal narratives
+26760,Memories of Bethany,"frozenset({'Macduff, John R. (John Ross)'})",sermons
+26772,A Question of Courage,"frozenset({'Bone, Jesse F. (Jesse Franklin)'})",juvenile fiction
+2681,Ten Years Later,"frozenset({'Dumas, Alexandre'})",fiction
+26851,Tom Brown at Oxford,"frozenset({'Hughes, Thomas'})",fiction
+26862,Howard Pyle's Book of Pirates,"frozenset({'Pyle, Howard'})",juvenile literature
+26884,The Backwash of War,"frozenset({'La Motte, Ellen N. (Ellen Newbold)'})",personal narratives
+26892,Chasing an Iron Horse,"frozenset({'Robins, Edward'})",fiction
+26923,Emergency Childbirth,"frozenset({'United States. Office of Civil Defense', 'United States. Public Health Service'})",popular works
+26939,Richard I,"frozenset({'Abbott, Jacob'})",biography
+26966,A Place in the Sun,"frozenset({'Marlowe, Stephen'})",fiction
+2702,The Lion's Skin,"frozenset({'Sabatini, Rafael'})",fiction
+2708,Columba,"frozenset({'Mérimée, Prosper'})",biography
+27086,The Dodge Club,"frozenset({'De Mille, James'})",fiction
+27164,Seven and Nine years Among the Camanches and Apaches,"frozenset({'Eastman, Edwin'})",fiction
+27168,The Faith Doctor,"frozenset({'Eggleston, Edward'})",fiction
+27175,Bad Child's Book of Beasts,"frozenset({'Belloc, Hilaire'})",juvenile poetry
+27179,Laments,"frozenset({'Kochanowski, Jan'})",poetry
+27193,Through St. Dunstan's to Light,"frozenset({'Rawlinson, James H.'})",biography
+27212,The Life of the Party,"frozenset({'Cobb, Irvin S. (Irvin Shrewsbury)'})",biography
+27240,Pyrrhus,"frozenset({'Abbott, Jacob'})",fiction
+27260,East of Suez,"frozenset({'Penfield, Frederic Courtland'})",fiction
+27265,The Wagnerian Romances,"frozenset({'Brownell, Gertrude Hall'})","stories, plots, etc"
+2728,Hunter Quatermain's Story,"frozenset({'Haggard, H. Rider (Henry Rider)'})",fiction
+2731,The Christmas Books,"frozenset({'Thackeray, William Makepeace'})",fiction
+27321,Fairy Book,"frozenset({'May, Sophie'})",juvenile literature
+27347,Appearances,"frozenset({'Dickinson, G. Lowes (Goldsworthy Lowes)'})",fiction
+27363,Burl,"frozenset({'Heady, Morrison'})",fiction
+27383,Master of None,"frozenset({'Goble, Neil'})",fiction
+27434,Doctor Jones' Picnic,"frozenset({'Chapman, S. E. (Samuel E.)'})",fiction
+27435,The Faith of Our Fathers,"frozenset({'Gibbons, James'})",popular works
+27476,The Sign of the Spider,"frozenset({'Mitford, Bertram'})",fiction
+27524,Hampton Court,"frozenset({'Jerrold, Walter'})",biography
+2755,Murat,"frozenset({'Dumas, Alexandre'})",biography
+27587,A Victor of Salamis,"frozenset({'Davis, William Stearns'})",fiction
+27589,Coronation Anecdotes,"frozenset({'Gossip, Giles'})",anecdotes
+27602,The True Story Book,frozenset(),juvenile literature
+27603,The Red True Story Book,frozenset(),juvenile literature
+27666,Seek and Find,"frozenset({'Optic, Oliver'})",prayers and devotions
+27745,The True Story of the American Flag,"frozenset({'Fow, John Henry'})",juvenile literature
+27759,Luca Signorelli,"frozenset({'Cruttwell, Maud'})",catalogs
+27767,"Slavery: What it was, what it has done, what it intends to do","frozenset({'Tompkins, Cydnor Bailey'})",speeches in congress
+2777,Cabbages and Kings,"frozenset({'Henry, O.'})",juvenile fiction
+27771,Once on a Time,"frozenset({'Milne, A. A. (Alan Alexander)'})",fiction
+27792,The Arrow-Maker,"frozenset({'Austin, Mary Hunter'})",drama
+27802,Darius the Great,"frozenset({'Abbott, Jacob'})",biography
+27811,Macaria,"frozenset({'Evans, Augusta J. (Augusta Jane)'})",fiction
+27824,Juggernaut,"frozenset({'Campbell, Alice'})",biography
+27827,The Kama Sutra of Vatsyayana,frozenset({'Vatsyayana'}),early works to 1800
+2785,The Elusive Pimpernel,"frozenset({'Orczy, Emmuska Orczy, Baroness'})",fiction
+27870,The Seven Seas,"frozenset({'Kipling, Rudyard'})",juvenile literature
+27923,Betty Leicester,"frozenset({'Jewett, Sarah Orne'})",fiction
+27925,The Art of Disappearing,"frozenset({'Smith, John Talbot'})",fiction
+27993,Bruin,"frozenset({'Reid, Mayne'})",juvenile fiction
+27997,Robert Orange,"frozenset({'Hobbes, John Oliver'})",fiction
+28006,The Perpetual Curate,"frozenset({'Oliphant, Mrs. (Margaret)'})",fiction
+28021,Pictures and Stories from Uncle Tom's Cabin,"frozenset({'Stowe, Harriet Beecher', 'Unknown'})",juvenile literature
+28027,Dwellers in Arcady,"frozenset({'Paine, Albert Bigelow'})",fiction
+28101,The Van Dwellers,"frozenset({'Paine, Albert Bigelow'})",anecdotes
+28229,"Anderson Crow, Detective","frozenset({'McCutcheon, George Barr'})",fiction
+28241,A Padre in France,"frozenset({'Birmingham, George A.'})","personal narratives, english"
+2825,Undine,"frozenset({'La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de'})",fiction
+2826,The Two Captains,"frozenset({'La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de'})",fiction
+28293,The Tale of Jolly Robin,"frozenset({'Bailey, Arthur Scott'})",fiction
+28295,The Maids of Paradise,"frozenset({'Chambers, Robert W. (Robert William)'})",fiction
+28315,One Way Out,"frozenset({'Carleton, William'})",fiction
+28319,Life in a Tank,"frozenset({'Haigh, Richard'})","personal narratives, english"
+28326,Aladdin of London,"frozenset({'Pemberton, Max'})",fiction
+28333,Messengers of Evil,"frozenset({'Allain, Marcel', 'Souvestre, Pierre'})",fiction
+28454,Heart of the Blue Ridge,"frozenset({'Baily, Waldron'})",fiction
+2849,Against Apion,"frozenset({'Josephus, Flavius'})",apologetic works
+28499,Mother Earth,"frozenset({'Robinson, Walter Stitt'})",drama
+285,The Lost Continent,"frozenset({'Hyne, Charles John Cutcliffe Wright'})",fiction
+28524,Nobody,"frozenset({'Warner, Susan'})",fiction
+2855,Elissa,"frozenset({'Haggard, H. Rider (Henry Rider)'})",fiction
+28576,Cutting It out,"frozenset({'Blythe, Samuel G. (Samuel George)'})",biography
+28593,When Dreams Come True,"frozenset({'Brown, Ritter'})",fiction
+28613,Pioneers of Science,"frozenset({'Lodge, Oliver, Sir'})",biography
+28648,A Little Girl in Old Philadelphia,"frozenset({'Douglas, Amanda M.'})",fiction
+2866,Windsor Castle,"frozenset({'Ainsworth, William Harrison'})",fiction
+28666,Hymen,frozenset({'H. D. (Hilda Doolittle)'}),librettos
+28676,The Life of Cicero,"frozenset({'Trollope, Anthony'})",early works to 1800
+28711,Operas Every Child Should Know,"frozenset({'Bacon, Mary Schell Hoke'})","stories, plots, etc"
+28765,Rafael in Italy,"frozenset({'Dalrymple, Julia', 'McDonald, Etta Blaisdell'})",juvenile literature
+28773,General Gordon,"frozenset({'Churchill, Seton'})",biography
+28847,Max and Maurice,"frozenset({'Busch, Wilhelm'})",juvenile literature
+28856,Donald and Dorothy,"frozenset({'Dodge, Mary Mapes'})",fiction
+28862,The Time of Roses,"frozenset({'Meade, L. T.'})",fiction
+28878,Four Little Blossoms at Oak Hill School,"frozenset({'Hawley, Mabel C.'})",juvenile fiction
+28886,The Hickory Limb,"frozenset({'Fillmore, Parker'})",fiction
+28956,Tharon of Lost Valley,"frozenset({'Roe, Vingie E. (Vingie Eve)'})",western
+29001,Five Mice in a Mouse-trap,"frozenset({'Richards, Laura Elizabeth Howe'})",fiction
+29021,The Fairy Tales of Charles Perrault,"frozenset({'Perrault, Charles'})",translations into english
+29023,Treasure Valley,"frozenset({'MacGregor, Mary Esther Miller'})",fiction
+29055,The Present State of Virginia,"frozenset({'Jones, Hugh'})",early works to 1800
+29083,The Lightning Conductor Discovers America,"frozenset({'Williamson, A. M. (Alice Muriel)', 'Williamson, C. N. (Charles Norris)'})",fiction
+29121,Legends of the Saxon Saints,"frozenset({'De Vere, Aubrey'})",poetry
+29153,Poppy's Presents,"frozenset({'Walton, O. F., Mrs.'})",juvenile fiction
+29193,Dream Town,"frozenset({'Slesar, Henry'})",fiction
+29203,Ruth Fielding at Briarwood Hall,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+29211,"Prevalence of Imprisonment in the U.S. Population, 1974-2001","frozenset({'Bonczar, Thomas P.'})",statistics
+29254,The Monkey That Would Not Kill,"frozenset({'Drummond, Henry'})",fiction
+29272,No Hiding Place,"frozenset({'Smith, Richard Rein'})",fiction
+2929,The Origin of Species,"frozenset({'Huxley, Thomas Henry'})",fiction
+29314,Out-of-Doors in the Holy Land,"frozenset({'Van Dyke, Henry'})",biography
+29333,War Letters of a Public-School Boy,"frozenset({'Jones, Henry Paul Mainwaring'})","personal narratives, english"
+29361,A Day with Felix Mendelssohn Bartholdy,"frozenset({'Sampson, George'})",fiction
+2938,Yeast,"frozenset({'Huxley, Thomas Henry'})",biography
+29384,Disowned,"frozenset({'Endersby, Victor A.'})",fiction
+29410,The End of Time,"frozenset({'West, Wallace'})",biography
+29415,Soldiers of the Queen,"frozenset({'Avery, Harold'})",drama
+29533,The Red Hand of Ulster,"frozenset({'Birmingham, George A.'})",fiction
+29552,The Temple of Glass,"frozenset({'Lydgate, John'})",facsimiles
+29622,The Book of Common Prayer,frozenset({'Episcopal Church in Scotland'}),texts
+29628,The Golden Woman,"frozenset({'Cullum, Ridgwell'})",fiction
+29629,The Destroyer,"frozenset({'Stevenson, Burton Egbert'})",fiction
+29632,Competition,"frozenset({'Causey, James'})",juvenile literature
+29635,Dr. Montessori's Own Handbook,"frozenset({'Montessori, Maria'})","handbooks, manuals, etc"
+29638,The Twins of Suffering Creek,"frozenset({'Cullum, Ridgwell'})",fiction
+29646,Once to Every Man,"frozenset({'Evans, Larry'})",biography
+29671,Nobody,"frozenset({'Vance, Louis Joseph'})",fiction
+29680,Decision,"frozenset({'Robinson, Frank M.'})",fiction
+297,The Flirt,"frozenset({'Tarkington, Booth'})",fiction
+29720,Hall of Mirrors,"frozenset({'Brown, Fredric'})",fiction
+29742,The Long Voyage,"frozenset({'Jacobi, Carl Richard'})",fiction
+29761,Sympathetic Magic,"frozenset({'Brown, Paul Cameron'})",exhibitions
+29763,Alex the Great,"frozenset({'Witwer, H. C. (Harry Charles)'})",fiction
+29790,Pleasant Journey,"frozenset({'Thieme, Richard'})",juvenile literature
+29813,The Big Nightcap Letters,"frozenset({'Fanny, Aunt'})",juvenile literature
+29828,Is He Popenjoy?,"frozenset({'Trollope, Anthony'})",fiction
+29861,In Times Like These,"frozenset({'McClung, Nellie L.'})",fiction
+29875,Dreamers of the Ghetto,"frozenset({'Zangwill, Israel'})",fiction
+29876,Death Wish,"frozenset({'Sheckley, Robert'})",fiction
+29877,The Million-Dollar Suitcase,"frozenset({'MacGowan, Alice', 'Newberry, Perry'})",fiction
+29888,The Hunting of the Snark,"frozenset({'Carroll, Lewis'})",juvenile literature
+29904,Thoughts on Art and Life,"frozenset({'Leonardo, da Vinci'})",early works to 1800
+29908,The Adventurer,"frozenset({'Kornbluth, C. M. (Cyril M.)'})",fiction
+29927,With Manchesters in the East,"frozenset({'Hurst, Gerald B. (Gerald Berkeley), Sir'})","personal narratives, english"
+29929,Bunyan,"frozenset({'Froude, James Anthony'})",biography
+30003,Law and Laughter,"frozenset({'Morton, George A. (George Alexander)', 'Malloch, D. Macleod (Donald Macleod)'})",anecdotes
+30022,Graham of Claverhouse,"frozenset({'Maclaren, Ian'})",fiction
+3004,Jefferson and his Colleagues,"frozenset({'Johnson, Allen'})",sources
+30119,The Calvinistic Doctrine of Predestination Examined and Refuted,"frozenset({'Hodgson, F. (Francis)'})",controversial literature
+3013,The Birds,frozenset({'Aristophanes'}),juvenile literature
+3016,What Diantha Did,"frozenset({'Gilman, Charlotte Perkins'})",fiction
+30190,Around the World with Josiah Allen's Wife,"frozenset({'Holley, Marietta'})",fiction
+3021,A Boy's Will,"frozenset({'Frost, Robert'})",juvenile fiction
+30218,Joseph the Dreamer,"frozenset({'Steedman, Amy'})",juvenile literature
+30246,Under the Maples,"frozenset({'Burroughs, John'})",outdoor books
+30249,Ways of Nature,"frozenset({'Burroughs, John'})",outdoor books
+30305,DP,"frozenset({'Savage, Arthur Dekker'})",exhibitions
+30315,Raeburn,"frozenset({'Caw, J. L. (James Lewis), Sir'})",exhibitions
+30316,Velazquez,"frozenset({'Bensusan, S. L. (Samuel Levy)'})",catalogs
+30319,Beyond the Frontier,"frozenset({'Parrish, Randall'})",biography
+30323,The Book of Religions,"frozenset({'Hayward, John'})",dictionaries
+30328,A Book of Cheerful Cats and Other Animated Animals,"frozenset({'Francis, J. G. (Joseph Greene)'})",folklore
+30332,The Earthly Paradise,"frozenset({'Morris, William'})",adaptations
+30333,Daddy's Girl,"frozenset({'Meade, L. T.'})",fiction
+30351,The Cup of Fury,"frozenset({'Hughes, Rupert'})",fiction
+30366,Zoe,"frozenset({'Whitaker, Evelyn'})",fiction
+30371,Service with a Smile,"frozenset({'Fontenay, Charles L.'})",fiction
+30379,Field Trip,"frozenset({'Hunter, Gene'})",fiction
+30415,The Galaxy,frozenset({'Various'}),juvenile literature
+30420,The Poets' Lincoln,frozenset(),poetry
+30447,Snow on the Headlight,"frozenset({'Warman, Cy'})",fiction
+30458,Novice,"frozenset({'Schmitz, James H.'})",fiction
+3048,The Little Duke,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",fiction
+30482,The International Spy,"frozenset({'Upward, Allen'})",fiction
+3049,A Group of Noble Dames,"frozenset({'Hardy, Thomas'})",fiction
+30500,The Passenger,"frozenset({'Harmon, Kenneth'})",fiction
+30528,The Day of the Dog,"frozenset({'Horne, Anderson'})",fiction
+30537,The Royal Book of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)', 'Thompson, Ruth Plumly'})",fiction
+30555,Little Meg's Children,"frozenset({'Stretton, Hesba'})",fiction
+30572,Silver and Gold,"frozenset({'Coolidge, Dane'})",biography
+30652,In The Seven Woods,"frozenset({'Yeats, W. B. (William Butler)'})",poetry
+30653,The Revenge,"frozenset({'Young, Edward'})",biography
+30660,Discourses on a Sober and Temperate Life,"frozenset({'Cornaro, Luigi'})",early works to 1800
+30712,Combat,"frozenset({'Reynolds, Mack'})",juvenile literature
+30717,East Anglia,"frozenset({'Ritchie, J. Ewing (James Ewing)'})",pictorial works
+30728,Oneness,"frozenset({'Schmitz, James H.'})",designs and plans
+3074,The Burgess Bird Book for Children,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",juvenile literature
+30740,Men of the Bible,"frozenset({'Moody, Dwight Lyman'})",biography
+30745,Calamities and Quarrels of Authors,"frozenset({'Disraeli, Isaac'})",biography
+30746,The Last Straw,"frozenset({'Smith, William J.'})",fiction
+30792,Lavengro,"frozenset({'Borrow, George'})",fiction
+30800,Nature Myths and Stories for Little Children,"frozenset({'Cooke, Flora J. (Flora Juliette)'})",juvenile literature
+30811,The Moving Finger,"frozenset({'Oppenheim, E. Phillips (Edward Phillips)'})",fiction
+30812,With the French in France and Salonika,"frozenset({'Davis, Richard Harding'})",personal narratives
+30828,The Barbarians,"frozenset({'Budrys, Algis'})",fiction
+30874,The Land of Look Behind,"frozenset({'Brown, Paul Cameron'})",literary collections
+30876,Eternal Life,"frozenset({'Drummond, Henry'})",sermons
+30888,The American Church Dictionary and Cyclopedia,"frozenset({'Miller, William James'})",dictionaries
+309,Rhymes of a Rolling Stone,"frozenset({'Service, Robert W. (Robert William)'})",poetry
+30941,The German Classics of the Nineteenth and Twentieth Centuries,frozenset(),translations into english
+3097,The Wanderer's Necklace,"frozenset({'Haggard, H. Rider (Henry Rider)'})",fiction
+30975,Soil Culture,"frozenset({'Walden, J. H.'})","handbooks, manuals, etc"
+31031,Guy Fawkes,"frozenset({'Lathbury, Thomas'})",fiction
+31075,In The Ranks,"frozenset({'McBride, R. E. (Robert Ekin)'})",personal narratives
+31103,A Christmas Greeting,"frozenset({'Andersen, H. C. (Hans Christian)'})",poetry
+31133,Home Life of Great Authors,"frozenset({'Griswold, Hattie Tyng'})",biography
+31172,Old English Poems,frozenset(),modernized versions
+31205,The Philosophy of Spinoza,"frozenset({'Spinoza, Benedictus de'})",bibliography
+31215,A World Apart,"frozenset({'Merwin, Sam'})",biography
+31245,Acadian Reminiscences,"frozenset({'Voorhies, Felix'})",biography
+31250,Old Plymouth Trails,"frozenset({'Packard, Winthrop'})",outdoor books
+31266,Quality Street,"frozenset({'Barrie, J. M. (James Matthew)'})",drama
+31274,Lady Anna,"frozenset({'Trollope, Anthony'})",fiction
+31275,Letters to Eugenia,"frozenset({""Holbach, Paul Henri Thiry, baron d'""})",controversial literature
+31317,The Campaign of the Jungle,"frozenset({'Stratemeyer, Edward'})",fiction
+31351,A Record of Study in Aboriginal American Languages,"frozenset({'Brinton, Daniel G. (Daniel Garrison)'})",bibliography
+31380,Bred of the Desert,"frozenset({'Horton, Charles M. (Charles Marcus)'})",specimens
+31381,The Squire's Daughter,"frozenset({'Marshall, Archibald'})",fiction
+31388,Mother Truth's Melodies,"frozenset({'Miller, E. P., Mrs.'})",texts
+314,Guide to Life and Literature of the Southwest,"frozenset({'Dobie, J. Frank (James Frank)'})",bibliography
+31463,The Orphan,"frozenset({'Otway, Thomas'})",fiction
+31488,The Little Regiment,"frozenset({'Crane, Stephen'})",fiction
+31489,A Mad Love,"frozenset({'Brame, Charlotte M.'})",fiction
+3151,The City of Domes,"frozenset({'Barry, John D. (John Daniel)'})",exhibitions
+31525,James Gilmour of Mongolia,"frozenset({'Gilmour, James'})",biography
+31597,Out of the Earth,"frozenset({'Edrich, George'})",fiction
+31602,A Canadian Bankclerk,"frozenset({'Preston, Jack'})",fiction
+31682,Life of John Keats,"frozenset({'Rossetti, William Michael'})",biography
+31688,What Shall I Be?,"frozenset({'Cassilly, Francis Bernard'})",fiction
+31715,A Prince of Good Fellows,"frozenset({'Barr, Robert'})",fiction
+31729,The Apple,frozenset(),fiction
+31761,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+31801,The Story of Old Fort Loudon,"frozenset({'Murfree, Mary Noailles'})",fiction
+31837,Little Wolf,"frozenset({'Cornelius, Mary Ann Mann'})",fiction
+31843,Of Six Mediaeval Women,"frozenset({'Kemp-Welch, Alice'})",biography
+31903,Anarchism,"frozenset({'Zenker, E. V. (Ernst Viktor)'})",bibliography
+31922,Felony,"frozenset({'Causey, James'})",fiction
+31930,The Song of the Wolf,"frozenset({'Mayer, Frank'})",fiction
+32,Herland,"frozenset({'Gilman, Charlotte Perkins'})",fiction
+32021,Island Life,"frozenset({'Wallace, Alfred Russel'})",fiction
+32051,On the right of the British line,"frozenset({'Nobbs, Gilbert'})","personal narratives, english"
+32053,Happy House,"frozenset({'Abbott, Jane'})",textbooks for foreign speakers
+32089,"Memoir of Jared Sparks, LL.D.","frozenset({'Mayer, Brantz'})",biography
+32091,Down-Adown-Derry,"frozenset({'De la Mare, Walter'})",poetry
+32116,When the Cock Crows,"frozenset({'Baily, Waldron'})",fiction
+32155,The Love Letters of Henry VIII to Anne Boleyn,"frozenset({'Henry VIII, King of England'})",correspondence
+32163,Elsie on the Hudson,"frozenset({'Finley, Martha'})",juvenile fiction
+32169,Susanna and Sue,"frozenset({'Wiggin, Kate Douglas Smith'})",fiction
+32181,Do Unto Others,"frozenset({'Clifton, Mark'})",fiction
+32184,The Lion's Masquerade,"frozenset({'Dorset, Catherine Ann Turner'})",juvenile poetry
+32197,Poitiers,"frozenset({'Belloc, Hilaire'})",guidebooks
+32224,Tom Brown's School Days,"frozenset({'Hughes, Thomas'})",juvenile fiction
+32231,Among the Wild Tribes of the Afghan Frontier,"frozenset({'Pennell, T. L. (Theodore Leighton)'})",biography
+32254,World Without War,"frozenset({'Von Wald, E. G.'})",juvenile literature
+32281,First Man,"frozenset({'Brown, Clyde'})",biography
+3229,Helen of Troy,"frozenset({'Lang, Andrew'})",fiction
+3230,The Counterpane Fairy,"frozenset({'Pyle, Katharine'})",fiction
+32319,The Trail of the Sandhill Stag,"frozenset({'Seton, Ernest Thompson'})",juvenile fiction
+32326,Tales of Troy and Greece,"frozenset({'Lang, Andrew'})",juvenile literature
+32331,Dave Dawson at Casablanca,"frozenset({'Bowen, Robert Sidney'})",fiction
+3236,Mr. Bonaparte of Corsica,"frozenset({'Bangs, John Kendrick'})",humor
+32363,Ten Girls from History,"frozenset({'Sweetser, Kate Dickinson'})",biography
+32368,Peerless Prestidigitation,"frozenset({'De Caston, Herbert'})","handbooks, manuals, etc"
+32372,Dickens's Children,frozenset(),illustrations
+32373,The Golden Treasury,frozenset(),texts
+3242,The Doctor,"frozenset({'Connor, Ralph'})",fiction
+32432,Fidelity,"frozenset({'Glaspell, Susan'})",fiction
+32434,All In The Mind,"frozenset({'Henderson, Gene L.'})",fiction
+3245,Black Rock,"frozenset({'Connor, Ralph'})",pictorial works
+32457,Pioneer,"frozenset({'Hardy, William'})",fiction
+32469,Here Lies,"frozenset({'Wandrei, Howard'})",juvenile fiction
+3248,The Sky Pilot,"frozenset({'Connor, Ralph'})",fiction
+32511,Margaret Fuller (Marchesa Ossoli),"frozenset({'Howe, Julia Ward'})",biography
+32521,Keep-Well Stories for Little Folks,"frozenset({'Jones, May Farinholt'})",juvenile literature
+32528,The Lusiad,"frozenset({'Camões, Luís de'})",poe
+32534,Neighbors,"frozenset({'Riis, Jacob A. (Jacob August)'})",fiction
+32542,Dave Dawson on Guadalcanal,"frozenset({'Bowen, Robert Sidney'})",fiction
+32545,The Haunters of the Silences,"frozenset({'Roberts, Charles G. D., Sir'})",fiction
+32587,The Ambassador,"frozenset({'Merwin, Sam'})",fiction
+32636,The Salesman,"frozenset({'Boyd, Waldo T.'})",fiction
+32642,Allan Ramsay,"frozenset({'Smeaton, William Henry Oliphant'})",biography
+32655,The Last Gentleman,"frozenset({'Magill, Rory'})",fiction
+32697,The Sword,"frozenset({'Quattrocchi, Frank'})",fantasy
+32701,Kant's Theory of Knowledge,"frozenset({'Prichard, H. A. (Harold Arthur)'})",congresses
+32723,The Minute Boys of Boston,"frozenset({'Otis, James'})",juvenile fiction
+32734,Fly By Night,"frozenset({'Savage, Arthur Dekker'})",juvenile fiction
+32751,The Moralist,"frozenset({'Taylor, Jack'})",fiction
+32779,Above the Battle,"frozenset({'Rolland, Romain'})",sermons
+32819,Elegy,"frozenset({'Beaumont, Charles'})",scores
+32833,A Woman's Place,"frozenset({'Clifton, Mark'})",biography
+32853,In the Cards,"frozenset({'Cogan, Alan'})",juvenile fiction
+32859,Perchance to Dream,"frozenset({'Stockham, Richard'})",fiction
+32892,Women of America,"frozenset({'Larus, John Ruse'})",poetry
+32893,The White Shield,"frozenset({'Mitford, Bertram'})",fiction
+32905,Mask of Death,"frozenset({'Ernst, Paul'})",drama
+32946,Where the Pavement Ends,"frozenset({'Russell, John'})",drama
+32958,Edge Hill,"frozenset({'Walford, Edwin Alfred'})",poetry
+32964,"Puss in Boots, Jr., and the Good Gray Horse","frozenset({'Cory, David'})",juvenile fiction
+32965,Mothering on Perilous,"frozenset({'Furman, Lucy S.'})",fiction
+32977,From Sea to Sea,"frozenset({'Kipling, Rudyard'})",juvenile literature
+32993,A Daughter of the Union,"frozenset({'Madison, Lucy Foster'})",fiction
+33007,Edelweiss,"frozenset({'Auerbach, Berthold'})",fiction
+33039,The Orphan,"frozenset({'Mulford, Clarence Edward'})",fiction
+3306,At Suvla Bay,"frozenset({'Hargrave, John'})","personal narratives, british"
+33061,Clover and Blue Grass,"frozenset({'Hall, Eliza Calvert'})",fiction
+33066,The Garden of Eden,"frozenset({'Brand, Max'})",fiction
+33102,Bloodletting Instruments in the National Museum of History and Technology,"frozenset({'Appel, Toby A.', 'Davis, Audrey B.'})",catalogs
+33113,The Divorce of Catherine of Aragon,"frozenset({'Froude, James Anthony'})",divorce
+3316,How Members of Congress Are Bribed,"frozenset({'Moore, J. Hampton (Joseph Hampton)'})",sources
+3317,Now It Can Be Told,"frozenset({'Gibbs, Philip'})",miscellanea
+33185,Fragments of an Autobiography,"frozenset({'Moscheles, Felix'})",biography
+33213,The Fun of Cooking,"frozenset({'Benton, Caroline French'})",juvenile literature
+33278,The Black Watch,"frozenset({'Cassells, Joe'})","personal narratives, english"
+33286,From Bull Run to Appomattox,"frozenset({'Hopkins, Luther W.'})","personal narratives, confederate"
+33299,The Five Giants,"frozenset({'Kidder, Daniel P. (Daniel Parish)'})",juvenile literature
+33301,The Sword of Damocles,"frozenset({'Green, Anna Katharine'})",fiction
+33319,Zigzag Journeys in Europe,"frozenset({'Butterworth, Hezekiah'})",fiction
+33334,The Only Woman in the Town,"frozenset({'Prichard, Sarah J. (Sarah Johnson)'})",fiction
+33335,Worrying Won't Win,"frozenset({'Glass, Montague'})",humor
+33343,Campmates,"frozenset({'Munroe, Kirk'})",juvenile literature
+33345,Lafcadio Hearn,"frozenset({'Kennard, Nina H.'})",bibliography
+33361,Ozma of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+33381,Penny Nichols Finds a Clue,"frozenset({'Clark, Joan'})",juvenile mystery fiction
+33382,Penny Nichols and the Black Imp,"frozenset({'Clark, Joan'})",juvenile mystery fiction
+33383,Penny Nichols and the Knob Hill Mystery,"frozenset({'Clark, Joan'})",juvenile mystery fiction
+33393,Avery,"frozenset({'Phelps, Elizabeth Stuart'})",specimens
+33416,Rambles in Womanland,"frozenset({""O'Rell, Max""})",anecdotes
+33417,Later Poems,"frozenset({'Carman, Bliss'})",poetry
+33426,Reminiscences of the Great Mutiny 1857-59,"frozenset({'Forbes-Mitchell, William'})",personal narratives
+33432,Mr. Munchausen,"frozenset({'Bangs, John Kendrick'})",fiction
+33466,The Social Gangster,"frozenset({'Reeve, Arthur B. (Arthur Benjamin)'})",fiction
+33468,Roland Cashel,"frozenset({'Lever, Charles James'})",fiction
+33469,Roland Cashel,"frozenset({'Lever, Charles James'})",fiction
+33478,Horse-Shoe Robinson,"frozenset({'Kennedy, John Pendleton'})",fiction
+33481,The Guns of Europe,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+33490,The Gambler,"frozenset({'Thurston, Katherine Cecil'})",biography
+33500,Ayala's Angel,"frozenset({'Trollope, Anthony'})",fiction
+33514,A Mechanico-Physiological Theory of Organic Evolution,"frozenset({'Nägeli, Carl'})",imprints (open court pub. co.)
+33517,Little Frankie on a Journey,"frozenset({'Leslie, Madeline'})",juvenile literature
+33521,Little Frankie at His Plays,"frozenset({'Leslie, Madeline'})",juvenile literature
+33522,Little Frankie and His Cousin,"frozenset({'Leslie, Madeline'})",juvenile literature
+33523,Little Frankie at School,"frozenset({'Leslie, Madeline'})",juvenile literature
+33542,The New Gulliver and Other Stories,"frozenset({'Pain, Barry'})",fiction
+336,Indian Heroes and Great Chieftains,"frozenset({'Eastman, Charles A.'})",biography
+33609,Marguerite de Valois,"frozenset({'Dumas, Alexandre'})",fiction
+33619,Maori and Settler,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+33654,The Old English Herbals,"frozenset({'Rohde, Eleanour Sinclair'})",bibliography
+33687,Illustrative Anecdotes of the Animal Kingdom,"frozenset({'Goodrich, Samuel G. (Samuel Griswold)'})",anecdotes
+33731,The Span o' Life,"frozenset({'McIlwraith, Jean N. (Jean Newton)', 'McLennan, William'})",fiction
+33772,Hawk Eye,"frozenset({'Cory, David'})",fiction
+33779,Majesty,"frozenset({'Couperus, Louis'})",biography
+338,Old Indian Legends,frozenset({'Zitkala-Sa'}),folklore
+33816,The Hollow Tree and Deep Woods Book,"frozenset({'Paine, Albert Bigelow'})",fiction
+33890,On the Kentucky Frontier,"frozenset({'Otis, James'})",juvenile fiction
+33911,Beggars on Horseback,"frozenset({'Jesse, F. Tennyson (Fryniwyd Tennyson)'})",fiction
+33927,Not Quite Eighteen,"frozenset({'Coolidge, Susan'})",juvenile fiction
+33931,Popular Tales,"frozenset({'Perrault, Charles'})",juvenile literature
+33980,In Story-land,"frozenset({'Harrison, Elizabeth'})",fiction
+33985,Manslaughter,"frozenset({'Miller, Alice Duer'})",fiction
+33997,The Jonathan Papers,"frozenset({'Morris, Elisabeth Woodbridge'})",outdoor books
+34,Zen and the Art of the Internet,"frozenset({'Kehoe, Brendan P.'})","handbooks, manuals, etc"
+34000,Rachel Ray,"frozenset({'Trollope, Anthony'})",fiction
+34024,Ruth Fielding at Lighthouse Point,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+34038,Forty Years in the Wilderness of Pills and Powders,"frozenset({'Alcott, William A. (William Andrus)'})",anecdotes
+34110,Deadfalls and Snares,"frozenset({'Harding, A. R. (Arthur Robert)'})",juvenile literature
+34121,Calavar,"frozenset({'Bird, Robert Montgomery'})",fiction
+3413,The Blazed Trail,"frozenset({'White, Stewart Edward'})",fiction
+34139,Real Gold,"frozenset({'Fenn, George Manville'})",juvenile literature
+34143,A Little World,"frozenset({'Fenn, George Manville'})",drama
+34144,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34145,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34146,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34147,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34148,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34149,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34150,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34151,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34152,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+34153,Wilson's Tales of the Borders and of Scotland,frozenset(),fiction
+3417,The Fortunes of Oliver Horn,"frozenset({'Smith, Francis Hopkinson'})",fiction
+3418,Captain Brassbound's Conversion,"frozenset({'Shaw, Bernard'})",facsimiles
+34184,Magda,"frozenset({'Sudermann, Hermann'})",drama
+34205,Some Little People,"frozenset({'Kringle, George'})",juvenile literature
+34218,Hildegarde's Home,"frozenset({'Richards, Laura Elizabeth Howe'})",fiction
+34237,Golden Numbers,frozenset(),juvenile literature
+3424,For the Term of His Natural Life,"frozenset({'Clarke, Marcus Andrew Hislop'})",fiction
+34247,Caught in a Trap,"frozenset({'Hutcheson, John C. (John Conroy)'})",fiction
+34258,Acres of Diamonds,"frozenset({'Conwell, Russell H.'})",biography
+34259,Hunting Dogs,"frozenset({'Hartley, Oliver'})",pictorial works
+34263,The Banshee,"frozenset({""O'Donnell, Elliott""})",fiction
+34282,Jupiter Lights,"frozenset({'Woolson, Constance Fenimore'})",fiction
+34318,Life Blood,"frozenset({'Hoover, Thomas'})",juvenile non-fiction
+34335,The William Henry Letters,"frozenset({'Diaz, Abby Morton'})",fiction
+34340,Three New Beavers from Utah,"frozenset({'Crane, Harold S.', 'Durrant, Stephen David'})",classification
+34343,The Betrothal,"frozenset({'Maeterlinck, Maurice'})",fiction
+34344,The Boy Spy,"frozenset({'Kerbey, Joseph Orton'})",personal narratives
+34369,Penny Nichols and the Mystery of the Lost Key,"frozenset({'Clark, Joan'})",juvenile mystery fiction
+34395,Ghost Beyond the Gate,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+34400,Napoleon's Marshals,"frozenset({'Dunn-Pattison, R. P.'})",biography
+34403,The Clock Strikes Thirteen,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery
+34441,The Cry at Midnight,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+34454,The Secret Trails,"frozenset({'Roberts, Charles G. D., Sir'})",anecdotes
+34461,Red Hunters And the Animal People,"frozenset({'Eastman, Charles A.'})",folklore
+34511,The Supposed Autographa of John the Scot,"frozenset({'Rand, Edward Kennard'})",autographs
+3452,Tea Leaves,frozenset({'Francis H. Leggett & Co.'}),fiction
+34524,Muskrat City,"frozenset({'Abbott, Henry'})",outdoor books
+34525,Shelley at Oxford,"frozenset({'Hogg, Thomas Jefferson'})",biography
+34591,Clue of the Silken Ladder,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+34595,The English Language,"frozenset({'Latham, R. G. (Robert Gordon)'})","handbooks, manuals, etc"
+3460,Old Fritz and the New Era,"frozenset({'Mühlbach, L. (Luise)'})",fiction
+3462,More Hunting Wasps,"frozenset({'Fabre, Jean-Henri'})",popular works
+34630,Some Experiences of an Irish R.M.,"frozenset({'Somerville, E. Oe. (Edith Oenone)', 'Ross, Martin'})",fiction
+3465,Under Two Flags,frozenset({'Ouida'}),fiction
+34691,Hoofbeats on the Turnpike,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+34716,Through Nature to God,"frozenset({'Fiske, John'})",early works to 1900
+3474,Jeremy,"frozenset({'Walpole, Hugh'})",fiction
+34758,813,"frozenset({'Leblanc, Maurice'})",fiction
+3479,The Metal Monster,"frozenset({'Merritt, Abraham'})",fiction
+348,"Hesiod, The Homeric Hymns, and Homerica",frozenset({'Hesiod'}),translations into english
+34830,Little Frankie and his Mother,"frozenset({'Leslie, Madeline'})",juvenile literature
+34831,Guilt of the Brass Thieves,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+34832,Voice from the Cave,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+34842,Greek Sculpture,"frozenset({'Hurll, Estelle M. (Estelle May)'})",catalogs
+34843,The Boys of '61,"frozenset({'Coffin, Charles Carleton'})",personal narratives
+3485,"Annajanska, the Bolshevik Empress","frozenset({'Shaw, Bernard'})",drama
+34850,Signal in the Dark,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+34853,The Fairy-Faith in Celtic Countries,"frozenset({'Evans-Wentz, W. Y. (Walter Yeeling)'})",folklore
+3486,The Inca of Perusalem,"frozenset({'Shaw, Bernard'})",drama
+34860,East of Suez,"frozenset({'Maugham, W. Somerset (William Somerset)'})",fiction
+34864,The Boys of Old Monmouth,"frozenset({'Tomlinson, Everett T. (Everett Titsworth)'})",fiction
+3487,Augustus Does His Bit,"frozenset({'Shaw, Bernard'})",drama
+3490,The Admirable Crichton,"frozenset({'Barrie, J. M. (James Matthew)'})",drama
+34916,The Chainbearer,"frozenset({'Cooper, James Fenimore'})",fiction
+34937,Tieck's Essay on the Boydell Shakspere Gallery,"frozenset({'Danton, George H. (George Henry)'})",illustrations
+3494,Bluebeard,"frozenset({'Wiggin, Kate Douglas Smith'})",translations into english
+34966,Eidola,"frozenset({'Manning, Frederic'})",poetry
+34975,Whispering Walls,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+35014,Among the Night People,"frozenset({'Pierson, Clara Dillingham'})",folklore
+35045,The Hazeley Family,"frozenset({'Johnson, A. E. (Amelia E.)'})",fiction
+35047,Little Robins' Love One to Another,"frozenset({'Leslie, Madeline'})",juvenile literature
+35080,A Hero of Ticonderoga,"frozenset({'Robinson, Rowland Evans'})",fiction
+35082,Saboteurs on the River,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+35093,The Road to Understanding,"frozenset({'Porter, Eleanor H. (Eleanor Hodgman)'})",romance
+35099,The Color Line,"frozenset({'Smith, William Benjamin'})",fiction
+35112,The Galaxy,frozenset({'Various'}),juvenile literature
+35119,Trenching at Gallipoli,"frozenset({'Gallishaw, John'})",personal narratives
+35121,Asbestos,"frozenset({'Jones, Robert H.'})",bibliography
+35142,Herman,"frozenset({'Werner, E.'})",fiction
+35159,An Essay on Criticism,"frozenset({'Oldmixon, Mr. (John)'})",early works to 1800
+35162,"Gullible's Travels, Etc.","frozenset({'Lardner, Ring'})",fiction
+35173,The Bacchae of Euripides,frozenset({'Euripides'}),drama
+35191,Some notes on the bibliography of the Philippines,"frozenset({'Middleton, Thomas C. (Thomas Cooke)'})",bibliography
+352,Buttered Side Down,"frozenset({'Ferber, Edna'})",fiction
+35205,Who?,"frozenset({'Kent, Elizabeth'})",miscellanea
+35276,Canterbury,"frozenset({'Danks, William'})",guidebooks
+35289,Hospital Sketches,"frozenset({'Peabody, Robert Swain'})",personal narratives
+353,In Flanders Fields and Other Poems,"frozenset({'McCrae, John'})",poetry
+35331,Stories of Great Men,"frozenset({'Huntington, Faye'})",biography
+35332,Our Artist in Cuba,"frozenset({'Carleton, George Washington'})",illustrations
+35367,Mad,"frozenset({'Fenn, George Manville'})",exhibitions
+35395,The Letters of Anne Gilchrist and Walt Whitman,"frozenset({'Whitman, Walt', 'Gilchrist, Anne (Anne Burrows)'})",correspondence
+354,The Story of a Pioneer,"frozenset({'Shaw, Anna Howard', 'Jordan, Elizabeth Garver'})",biography
+35403,"From Bapaume to Passchendaele, 1917","frozenset({'Gibbs, Philip'})",personal narratives
+3547,See America First,"frozenset({'Herr, Charles J.', 'Hiestand, Orville O.'})",exhibitions
+35474,The Shepherd's Calendar,"frozenset({'Hogg, James'})",fiction
+35478,Neighbours,"frozenset({'Stead, Robert J. C.'})",fiction
+35481,Cannibals all!,"frozenset({'Fitzhugh, George'})",controversial literature
+35488,The Road to Paris,"frozenset({'Stephens, Robert Neilson'})",fiction
+35489,Famous Men of Science,"frozenset({'Bolton, Sarah Knowles'})",biography
+35494,Fine Books,"frozenset({'Pollard, Alfred W. (Alfred William)'})",specimens
+35513,The Ledge on Bald Face,"frozenset({'Roberts, Charles G. D., Sir'})",folklore
+35519,Joscelyn Cheshire,"frozenset({'Kennedy, Sara Beaumont'})",fiction
+35520,Memories of a Musical Life,"frozenset({'Mason, William'})",biography
+35538,The Squatter and the Don,"frozenset({'Ruiz de Burton, María Amparo'})",fiction
+35574,Seeing France with Uncle John,"frozenset({'Warner, Anne'})",fiction
+35587,The Headless Horseman,"frozenset({'Reid, Mayne'})",juvenile literature
+35616,Home Fires in France,"frozenset({'Fisher, Dorothy Canfield'})",fiction
+35617,The Terror,"frozenset({'Machen, Arthur'})",fiction
+35620,Osceola the Seminole,"frozenset({'Reid, Mayne'})",juvenile fiction
+35637,The Secret Glory,"frozenset({'Machen, Arthur'})",fiction
+35658,Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793,"frozenset({'Mackenzie, Alexander'})","glossaries, vocabularies, etc"
+35659,Voyages from Montreal Through the Continent of North America to the Frozen and Pacific Oceans in 1789 and 1793,"frozenset({'Mackenzie, Alexander'})","glossaries, vocabularies, etc"
+35699,Fontainbleau,"frozenset({""O'Keeffe, John""})",librettos
+35702,The White Gauntlet,"frozenset({'Reid, Mayne'})",juvenile fiction
+35733,"Leigh Hunt's Relations with Byron, Shelley and Keats","frozenset({'Miller, Barnette'})",biography
+35736,Life and Death,"frozenset({'Sienkiewicz, Henryk'})",correspondence
+35753,War Posters Issued by Belligerent and Neutral Nations 1914-1919,frozenset(),pictorial works
+35764,The Chronicle of the Discovery and Conquest of Guinea,"frozenset({'Zurara, Gomes Eannes de'})",early works to 1800
+35862,Celtic Folk and Fairy Tales,frozenset(),folklore
+35903,Rose Leaf and Apple Leaf,"frozenset({'Rodd, Rennell'})",specimens
+35909,Indian Legends Retold,"frozenset({'Eastman, Elaine Goodale'})",folklore
+35915,American Indians,"frozenset({'Starr, Frederick'})",juvenile literature
+35920,The Sea Lady,"frozenset({'Wells, H. G. (Herbert George)'})",fiction
+35930,Bevis,"frozenset({'Jefferies, Richard'})",fiction
+35950,Lives of Poor Boys Who Became Famous,"frozenset({'Bolton, Sarah Knowles'})",biography
+35991,Domesday Book,"frozenset({'Masters, Edgar Lee'})",sources
+36006,Diphtheria,frozenset({'United States. Public Health Service'}),popular works
+3601,The Captives,"frozenset({'Walpole, Hugh'})",librettos
+36016,The Prussian Terror,"frozenset({'Dumas, Alexandre'})",fiction
+36034,White Nights and Other Stories,"frozenset({'Dostoyevsky, Fyodor'})",translations into english
+36044,White Otter,"frozenset({'Gregor, Elmer Russell'})",fiction
+36054,The Last of the Vikings,"frozenset({'Bowling, John (Novelist)'})",fiction
+36069,Explorers and Travellers,"frozenset({'Greely, A. W. (Adolphus Washington)'})",biography
+36072,The Victorian Age,"frozenset({'Inge, William Ralph'})",bibliography
+36074,Life of Robert Burns,"frozenset({'Carlyle, Thomas'})",biography
+36148,Hoosier Mosaics,"frozenset({'Thompson, Maurice'})",fiction
+36155,The Invasion,"frozenset({'Le Queux, William'})",fiction
+36173,A Rambler's lease,"frozenset({'Torrey, Bradford'})",outdoor books
+36193,The Viceroys of Ireland,"frozenset({""O'Mahony, Charles Kingston""})",biography
+36221,Spinning-Wheel Stories,"frozenset({'Alcott, Louisa May'})",juvenile literature
+36241,Canadian Fairy Tales,"frozenset({'MacMillan, Cyrus'})",folklore
+36256,The Inflexible Captive,"frozenset({'More, Hannah'})",drama
+36292,Average Americans,"frozenset({'Roosevelt, Theodore'})","personal narratives, american"
+36298,Amenities of Literature,"frozenset({'Disraeli, Isaac'})",biography
+3630,What To Do?,"frozenset({'Tolstoy, Leo, graf'})",case studies
+36308,Songs From Alice in Wonderland and Through the Looking-Glass,"frozenset({'Carroll, Lewis'})",musical settings
+3633,Jezebel's Daughter,"frozenset({'Collins, Wilkie'})",fiction
+36340,From Chart House to Bush Hut,"frozenset({'Bryde, C. W.'})",fiction
+36345,"Letters of David Ricardo to Thomas Robert Malthus, 1810-1823","frozenset({'Ricardo, David'})",correspondence
+36348,"Our Artist in Cuba, Peru, Spain and Algiers","frozenset({'Carleton, George Washington'})",illustrations
+36356,Life of John Keats,"frozenset({'Colvin, Sidney'})",biography
+36366,Dangerous Ground,"frozenset({'Lynch, Lawrence L.'})",biography
+36384,The Squire's Daughter,"frozenset({'Hocking, Silas K. (Silas Kitto)'})",fiction
+36395,Ruth Fielding In the Red Cross,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+36396,Ruth Fielding In the Saddle,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+36397,Ruth Fielding At Sunrise Farm,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+364,The Mad King,"frozenset({'Burroughs, Edgar Rice'})",science fiction
+36406,Mercedes of Castile,"frozenset({'Cooper, James Fenimore'})",fiction
+3641,Who Cares?,"frozenset({'Hamilton, Cosmo'})",bibliography
+36417,The Pictorial Press,"frozenset({'Jackson, Mason'})",illustrations
+36443,King of the Air,"frozenset({'Strang, Herbert'})",fiction
+36450,Psychotherapy,"frozenset({'Walsh, James J. (James Joseph)'})",case studies
+36478,The Red Year,"frozenset({'Tracy, Louis'})",fiction
+36523,The Last Straw,"frozenset({'Titus, Harold'})",fiction
+3653,The Guns of Bull Run,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+36552,York Minster,"frozenset({'Purey-Cust, Arthur P. (Arthur Perceval)'})",catalogs
+36554,Chaucer and His Times,"frozenset({'Hadow, Grace E. (Grace Eleanor)'})",biography
+36566,The Roycroft Dictionary,"frozenset({'Hubbard, Elbert'})",dictionaries
+36629,Hope Hathaway,"frozenset({'Parker, Frances'})",fiction
+36642,Eli's Children,"frozenset({'Fenn, George Manville'})",fiction
+36648,Home Influence,"frozenset({'Aguilar, Grace'})",fiction
+36651,The Castle of Andalusia,"frozenset({""O'Keeffe, John""})",librettos
+36657,The Log of a Sea-Waif,"frozenset({'Bullen, Frank Thomas'})",fiction
+36661,Kentucky Poems,"frozenset({'Cawein, Madison Julius'})",poetry
+3667,Wolfville Days,"frozenset({'Lewis, Alfred Henry'})",juvenile literature
+36674,In God's Garden,"frozenset({'Steedman, Amy'})",juvenile literature
+36690,Anarchism,"frozenset({'Eltzbacher, Paul'})",bibliography
+36699,Barnaby,"frozenset({'Ramsay, Rina'})",drama
+36719,The Scapegoat,"frozenset({'Maples, Richard'})",fiction
+36725,On the Cross,"frozenset({'Hillern, Wilhelmine von'})",poetry
+36747,Ruth Fielding Down in Dixie,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+36748,Ruth Fielding Homeward Bound,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+36768,Triumphs of Invention and Discovery in Art and Science,"frozenset({'Fyfe, J. Hamilton (James Hamilton)'})",film catalogs
+3677,On Our Selection,"frozenset({'Rudd, Steele'})",fiction
+36772,The Hearts of Men,"frozenset({'Fielding, H. (Harold)'})",fiction
+36774,The Teacher,"frozenset({'Palmer, George Herbert', 'Palmer, Alice Freeman'})",texts
+36799,The History Of The Last Trial By Jury For Atheism In England,"frozenset({'Holyoake, George Jacob'})","trials, litigation, etc"
+368,Acres of Diamonds,"frozenset({'Conwell, Russell H.'})",biography
+36849,Think,"frozenset({'Hunter, William Crosbie'})",popular works
+36859,The Invasion of France in 1814,frozenset({'Erckmann-Chatrian'}),fiction
+36865,Responsibilities,"frozenset({'Yeats, W. B. (William Butler)'})",facsimiles
+36932,Romney,"frozenset({'Hind, C. Lewis (Charles Lewis)'})",fiction
+36935,Legend of Barkhamsted Light House,"frozenset({'Mills, Lewis Sprague'})",poetry
+3694,Every Man In His Humour,"frozenset({'Jonson, Ben'})",drama
+36946,Biography of Rev. Hosea Ballou,"frozenset({'Ballou, Maturin M. (Maturin Murray)'})",biography
+36965,Harriet Martineau,"frozenset({'Miller, Florence Fenwick'})",bibliography
+37063,George Morland,"frozenset({'Cuming, E. D. (Edward William Dirom)'})",exhibitions
+3707,The Trimmed Lamp,"frozenset({'Henry, O.'})",fiction
+37083,Through Shot and Flame,"frozenset({'Kestell, J. D. (John Daniel)'})",personal narratives
+37103,Of the Just Shaping of Letters,"frozenset({'Dürer, Albrecht'})",early works to 1800
+37110,Frontier Folk,"frozenset({'Booth, George'})",fiction
+37127,Lives of the Fur Folk,"frozenset({'Haviland, Maud D. (Maud Doria)'})",biography
+3714,Undine,"frozenset({'La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de'})",fiction
+37154,Songs of Heroic Days,"frozenset({""O'Hagan, Thomas""})",poetry
+37190,The Main Chance,"frozenset({'Nicholson, Meredith'})",fiction
+37213,Reincarnations,"frozenset({'Stephens, James'})",musical settings
+3722,A Daughter of the Land,"frozenset({'Stratton-Porter, Gene'})",fiction
+3725,Famous Men of the Middle Ages,"frozenset({'Poland, Addison B.', 'Haaren, John H. (John Henry)'})",biography
+37261,The Bigamist,"frozenset({'Young, F. E. Mills (Florence Ethel Mills)'})",biography
+37302,An Account of the Growth of Deism in England,"frozenset({'Stephens, William'})",early works to 1800
+37346,Mortmain,"frozenset({'Train, Arthur Cheney'})",fiction
+37373,Indian Scout Talks,"frozenset({'Eastman, Charles A.'})",juvenile literature
+37374,The True Story of my Parliamentary Struggle,"frozenset({'Bradlaugh, Charles'})",biography
+37376,Wang the Ninth,"frozenset({'Putnam Weale, B. L. (Bertram Lenox)'})",fiction
+37410,Masters of French Music,"frozenset({'Hervey, Arthur'})",biography
+37413,The Duke Decides,"frozenset({'Hill, Headon'})",fiction
+37421,The Life and Times of Kateri Tekakwitha,"frozenset({'Walworth, Ellen H. (Ellen Hardin)'})",biography
+37432,Short Stories of the New America,frozenset(),fiction
+37462,Boating,"frozenset({'Woodgate, Walter Bradford'})",juvenile literature
+37463,The Builders,"frozenset({'Glasgow, Ellen Anderson Gholson'})",case studies
+37464,Bluebeard,"frozenset({'Johnson, Clifton'})",translations into english
+37466,Lost in the Canyon,"frozenset({'Calhoun, A. R. (Alfred Rochefort)'})",juvenile fiction
+37470,The Great War in England in 1897,"frozenset({'Le Queux, William'})",fiction
+37589,Through Magic Glasses and Other Lectures,"frozenset({'Buckley, Arabella B. (Arabella Burton)'})",juvenile literature
+37591,Chance in Chains,"frozenset({'Thorne, Guy'})",fiction
+37628,Servants of the Guns,"frozenset({'Jeffery, Jeffery E. (Jeffery Eardley)'})","personal narratives, english"
+37651,The New Paul and Virginia,"frozenset({'Mallock, W. H. (William Hurrell)'})",fiction
+37664,The Sins of the Children,"frozenset({'Hamilton, Cosmo'})",fiction
+37670,Bible Stories,frozenset({'Anonymous'}),texts
+37677,The Story of a Life,"frozenset({'Ellis, J. Breckenridge (John Breckenridge)'})",biography
+37695,Auricular Confession and Popish Nunneries,"frozenset({'Hogan, William'})",controversial literature
+3770,A Second Book of Operas,"frozenset({'Krehbiel, Henry Edward'})","stories, plots, etc"
+37708,The Magic Bed,frozenset(),fiction
+37718,Elias,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**As From a Dream.** The subject of this Canto is the,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**The Soul of Song.** Herein the author is represented as,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,"1--**Elect of Elohim.** Elohim, or Eloheim, the Hebrew plural","frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**Night and the Wilderness.** This part of the poem is an,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,"1--**The Messenger of Morn.** The fore part of this Canto,","frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**From Out The Dust.** A paraphrase of Isaiah 29:4. The,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,"1--**The Arcana of the Infinite.** ""Arcana,"" the Latin plural","frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**The Lifted Ensign.** The Church of Jesus Christ of,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**Upon the Shoulders of the Philistine.** Under this,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**The Parted Veil.** Joseph's vision and prophecy of the,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37718,1--**The Angel Ascendant.** The Angel ascending from the East,"frozenset({'Whitney, Orson F. (Orson Ferguson)'})",poetry
+37741,Kankanay Ceremonies,"frozenset({'Moss, C. R. (Claude Russell)'})",texts
+37750,Guy Fawkes,"frozenset({'Ainsworth, William Harrison'})",fiction
+37756,The Byzantine Empire,"frozenset({'Oman, Charles'})",juvenile literature
+3780,The King's Highway,"frozenset({'James, G. P. R. (George Payne Rainsford)'})",biography
+3781,The Jewel of Seven Stars,"frozenset({'Stoker, Bram'})",fiction
+37813,Martyria,"frozenset({'Hamlin, Augustus C. (Augustus Choate)'})",fiction
+3782,Huntingtower,"frozenset({'Buchan, John'})",fiction
+37862,Saul of Tarsus,"frozenset({'Miller, Elizabeth'})",poetry
+3787,Nature and Art,"frozenset({'Inchbald, Mrs.'})",fiction
+37883,"Steve P. Holcombe, the Converted Gambler","frozenset({'Alexander, Gross'})",biography
+37884,Folk-Tales of the Khasis,"frozenset({'Rafy, Mrs.'})",folklore
+37907,Brave Old Salt,"frozenset({'Optic, Oliver'})",fiction
+3791,The Reign of Law,"frozenset({'Allen, James Lane'})",fiction
+37916,The Star People,"frozenset({'Johnson, Gaylord'})",fiction
+37944,Southern Spain,"frozenset({'Calvert, Albert Frederick'})",guidebooks
+37957,Man and Nature,"frozenset({'Marsh, George P. (George Perkins)'})",congresses
+3797,In the Days of the Comet,"frozenset({'Wells, H. G. (Herbert George)'})",fiction
+37970,Contemporary One-Act Plays,frozenset(),collections
+37979,Under the Shadow of Etna,"frozenset({'Verga, Giovanni'})",fiction
+380,Weir of Hermiston,"frozenset({'Stevenson, Robert Louis'})",fiction
+38014,Government in the United States,"frozenset({'Garner, James Wilford'})","handbooks, manuals, etc"
+38015,De Re Metallica,"frozenset({'Agricola, Georg'})",early works to 1800
+38023,Memoirs of an American Prima Donna,"frozenset({'Kellogg, Clara Louise'})",biography
+38041,Old Celtic Romances,frozenset(),translations into english
+38056,Abraham Lincoln and the London Punch,frozenset(),caricatures and cartoons
+38064,Aw-Aw-Tam Indian Nights,"frozenset({'Lloyd, J. Wm. (John William)', 'Comalk-Hawk-Kih'})",folklore
+38068,Essays on Modern Novelists,"frozenset({'Phelps, William Lyon'})",bibliography
+38078,Siam,"frozenset({'Bacon, George B. (George Blagden)'})",treaties
+38093,The Christian Religion,"frozenset({'Ingersoll, Robert Green'})",controversial literature
+38094,Letters To Eugenia,"frozenset({""Holbach, Paul Henri Thiry, baron d'""})",controversial literature
+38108,Further Experiences of an Irish R.M.,"frozenset({'Somerville, E. Oe. (Edith Oenone)', 'Ross, Martin'})",fiction
+3813,The Lady Of Blossholme,"frozenset({'Haggard, H. Rider (Henry Rider)'})",fiction
+38162,Practical Religion,"frozenset({'Ryle, J. C. (John Charles)'})",sermons
+38165,The Cabin,"frozenset({'Blasco Ibáñez, Vicente'})",fiction
+38186,The Sailor,"frozenset({'Snaith, J. C. (John Collis)'})",biography
+3822,Balzac,"frozenset({'Lawton, Frederick'})",biography
+38234,Hopalong Cassidy,"frozenset({'Mulford, Clarence Edward'})",fiction
+38236,Shireen and her Friends,"frozenset({'Stables, Gordon'})",folklore
+38269,A History of the Philippines,"frozenset({'Barrows, David P.'})",textbooks
+38289,The Sa'-Zada Tales,"frozenset({'Fraser, William Alexander'})",juvenile fiction
+3830,Overruled,"frozenset({'Shaw, Bernard'})",fiction
+38328,The History of the Post Office,"frozenset({'Joyce, Herbert'})",juvenile literature
+38349,Where There is Nothing,"frozenset({'Yeats, W. B. (William Butler)'})",drama
+38353,Elsie's Widowhood,"frozenset({'Finley, Martha'})",fiction
+384,The Lost Prince,"frozenset({'Burnett, Frances Hodgson'})",fiction
+38418,From Manassas to Appomattox,"frozenset({'Longstreet, James'})",personal narratives
+38419,Out of Mulberry Street,"frozenset({'Riis, Jacob A. (Jacob August)'})",fictio
+38424,Notes of a Son and Brother,"frozenset({'James, Henry'})",biography
+38438,The Melody of Earth,frozenset(),poetry
+38448,Modern Magic,"frozenset({'Schele de Vere, M. (Maximilian)'})","handbooks, manuals, etc"
+38463,A Selection from the Works of Frederick Locker,"frozenset({'Locker-Lampson, Frederick'})",specimens
+38512,Lola Montez,"frozenset({""D'Auvergne, Edmund B. (Edmund Basil)""})",biography
+38544,Life of Luther,"frozenset({'Just, Gustav A.'})",biography
+38589,Legal Lore,frozenset(),miscellanea
+38592,A Woman of Genius,"frozenset({'Austin, Mary Hunter'})",biography
+38606,Poultry,"frozenset({'Piper, Hugh'})",juvenile literature
+38680,The Thirteenth,"frozenset({'Walsh, James J. (James Joseph)'})",fiction
+38703,The Black Moth,"frozenset({'Heyer, Georgette'})",fiction
+38782,Inventors,"frozenset({'Hubert, Philip Gengembre'})",biography
+38830,Unfettered,"frozenset({'Griggs, Sutton E. (Sutton Elbert)'})",fiction
+38835,Black-Eyed Susan,"frozenset({'Phillips, Ethel Calvert'})",fiction
+38855,The Iron Furnace,"frozenset({'Aughey, John H. (John Hill)'})",personal narratives
+38859,"Civil War Experiences, 1862-1865","frozenset({'Robbins, Edward Mott'})",personal narratives
+38928,Meteorology,"frozenset({""M'Pherson, J. G. (John Gordon)""})",observations
+38948,Four Years A Scout and Spy,"frozenset({'Downs, E. C. (Edward C.)'})",personal narrative
+38985,My Lady Rotha,"frozenset({'Weyman, Stanley John'})",fiction
+39042,In Morocco,"frozenset({'Wharton, Edith'})",biography
+39066,The White Blackbird,"frozenset({'Aitken, Robert'})",biography
+39097,Woven with the Ship,"frozenset({'Brady, Cyrus Townsend'})",fiction
+39119,Satires And Profanities,"frozenset({'Foote, G. W. (George William)', 'Thomson, James'})",controversial literature
+3913,The Confessions of Jean Jacques Rousseau,"frozenset({'Rousseau, Jean-Jacques'})",biography
+39143,The Making of a Saint,"frozenset({'Maugham, W. Somerset (William Somerset)'})",biography
+39162,Kipps,"frozenset({'Wells, H. G. (Herbert George)'})",fiction
+39163,The War Tiger,"frozenset({'Dalton, William'})",fiction
+39180,Ti-Ping Tien-Kwoh,"frozenset({'Lindley, Augustus F.'})","personal narratives, british"
+39184,Checklist,frozenset(),bibliography
+39204,The Lincoln Year Book,"frozenset({'Lincoln, Abraham'})",quotations
+39212,There is no Death,"frozenset({'Marryat, Florence'})",drama
+39231,Joel: A Boy of Galilee,"frozenset({'Johnston, Annie F. (Annie Fellows)'})",fiction
+39323,A Pilgrim Maid,"frozenset({'Taggart, Marion Ames'})",fiction
+39329,Illustrated Catalogue of Locomotives,frozenset({'Baldwin Locomotive Works'}),catalogs
+39339,Superwomen,"frozenset({'Terhune, Albert Payson'})",biography
+39378,Mortal Coils,"frozenset({'Huxley, Aldous'})",fiction
+39388,The Columbia River,"frozenset({'Lyman, William Denison'})",juvenile literature
+39392,The Secrets of a Savoyard,"frozenset({'Lytton, Henry A.'})",biography
+39434,Vistas of New York,"frozenset({'Matthews, Brander'})",fiction
+39473,The Young Sharpshooter at Antietam,"frozenset({'Tomlinson, Everett T. (Everett Titsworth)'})",fiction
+39551,Ethics,"frozenset({'Dewey, John', 'Tufts, James Hayden'})",textbooks
+39564,The Broncho Rider Boys Along the Border,"frozenset({'Fowler, Frank'})",fiction
+39585,The Journal of a Disappointed Man,"frozenset({'Barbellion, W. N. P.'})",diaries
+39641,Georgina's Service Stars,"frozenset({'Johnston, Annie F. (Annie Fellows)'})",fiction
+39696,Odd Bits of History,"frozenset({'Wolff, Henry W. (Henry William)'})",miscellanea
+39701,Heroines of the Crusades,"frozenset({'Bloss, C. A. (Celestia Angenette)'})",biography
+39735,Ti-Ping Tien-Kwoh,"frozenset({'Lindley, Augustus F.'})","personal narratives, british"
+39748,Four Winds Farm,"frozenset({'Molesworth, Mrs.'})",fiction
+39752,Fairy Legends and Traditions of The South of Ireland,"frozenset({'Croker, Thomas Crofton'})",fiction
+39781,Cape of Storms,"frozenset({'Pollard, Percival'})",fiction
+39794,King-Errant,"frozenset({'Steel, Flora Annie Webster'})",fiction
+39826,The Trial of Callista Blake,"frozenset({'Pangborn, Edgar'})",fiction
+39827,The Conduct of Life,"frozenset({'Emerson, Ralph Waldo'})",early works to 1900
+39834,After the Divorce,"frozenset({'Deledda, Grazia'})",popular works
+39845,Early Illustrated Books,"frozenset({'Pollard, Alfred W. (Alfred William)'})",bibliography
+39863,The Montessori Method,"frozenset({'Montessori, Maria'})",biography
+39881,War's Brighter Side,"frozenset({'Ralph, Julian'})",periodicals
+399,Cast Upon the Breakers,"frozenset({'Alger, Horatio, Jr.'})",fiction
+39905,Upsidonia,"frozenset({'Marshall, Archibald'})",fiction
+39922,Juggernaut,"frozenset({'Eggleston, George Cary', 'Marbourg, Dolores'})",biography
+39954,With Americans of Past and Present Days,"frozenset({'Jusserand, J. J. (Jean Jules)'})",biography
+39977,Illustrations of Universal Progress,"frozenset({'Spencer, Herbert'})",essays
+39995,For the Soul of Rafael,"frozenset({'Ryan, Marah Ellis'})",fiction
+40008,The Autobiography of a Cornish Smuggler,"frozenset({'Carter, Harry'})",biography
+40028,Royal English Bookbindings,"frozenset({'Davenport, Cyril'})",facsimiles
+4003,Androcles and the Lion,"frozenset({'Shaw, Bernard'})",juvenile literature
+40033,The Missing Formula,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+40037,Fort Duquesne and Fort Pitt,"frozenset({'Daughters of the American Revolution. Pittsburgh Chapter (Pittsburgh, Pa.)'})",juvenile literature
+40041,The Secret of the Sundial,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+40042,The Deserted Yacht,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery fiction
+40126,The Cock and Anchor,"frozenset({'Le Fanu, Joseph Sheridan'})",fiction
+40143,La Salle and the Discovery of the Great West,"frozenset({'Parkman, Francis'})",biography
+4015,The Hairy Ape,"frozenset({""O'Neill, Eugene""})",drama
+40154,Sing a Song of Sixpence,"frozenset({'Holdsworth, Mary'})",juvenile literature
+40168,The Old Adam,"frozenset({'Bennett, Arnold'})",drama
+40208,Life of Thomas Paine,"frozenset({'Carlile, Richard'})",biography
+40216,The Patriarchs,"frozenset({'Bellett, J. G. (John Gifford)'})",biography
+4023,Candida,"frozenset({'Shaw, Bernard'})",popular works
+40238,A Thousand Miles in the Rob Roy Canoe on Rivers and Lakes of Europe,"frozenset({'MacGregor, John'})",description and travel
+40241,Hieroglyphics,"frozenset({'Machen, Arthur'})",fiction
+40249,In a Cheshire Garden,"frozenset({'Egerton-Warburton, Geoffrey'})",outdoor books
+40264,Regiment of Women,"frozenset({'Dane, Clemence'})",fiction
+40274,Maps of Old London,frozenset(),maps
+40277,The Little Indian Weaver,"frozenset({'Brandeis, Madeline'})",juvenile fiction
+40285,The Syrian Christ,"frozenset({'Rihbany, Abraham Mitrie'})",biography
+4030,Travellers' Tales,"frozenset({'Follen, Eliza Lee Cabot'})",congresses
+40339,Selections from the Observator (1681-1687),"frozenset({""L'Estrange, Roger, Sir""})",early works to 1800
+40346,The Spanish Brothers,"frozenset({'Alcock, Deborah'})",fiction
+40353,The Datchet Diamonds,"frozenset({'Marsh, Richard'})",fiction
+40360,Guide to Yosemite,"frozenset({'Hall, Ansel F. (Ansel Franklin)'})",guidebooks
+40365,Anarchy,"frozenset({'Malatesta, Errico'})",fiction
+4041,Conscience,"frozenset({'Follen, Eliza Lee Cabot'})",sermons
+40410,Dickens and His Illustrators,"frozenset({'Kitton, Frederic George'})",illustrations
+40425,Chinese Mother Goose Rhymes,frozenset(),translations into english
+40426,Daddy Long-Legs,"frozenset({'Webster, Jean'})",drama
+40455,Master of Men,"frozenset({'Oppenheim, E. Phillips (Edward Phillips)'})",poetry
+40490,The White Canoe,"frozenset({'Sullivan, Alan'})",folklore
+40493,The King of Diamonds,"frozenset({'Tracy, Louis'})",biography
+40519,The Captain of the Janizaries,"frozenset({'Ludlow, James M. (James Meeker)'})",fiction
+4053,Nuttie's Father,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",juvenile fiction
+40549,The Private Life of the Romans,"frozenset({'Johnston, Harold Whetstone'})",early works to 1800
+40571,The Angel,"frozenset({'Thorne, Guy'})",fiction
+40574,The Ranche on the Oxhide,"frozenset({'Inman, Henry'})",fiction
+40603,The Root of All Evil,"frozenset({'Fletcher, J. S. (Joseph Smith)'})",fiction
+40611,Prince Charlie,"frozenset({'Delannoy, Burford'})",biography
+40617,The Teaching and Cultivation of the French Language in England during Tudor and Stuart Times,"frozenset({'Lambley, K. Rebillon (Kathleen Rebillon)'})",bibliography
+40640,The Following of the Star,"frozenset({'Barclay, Florence L. (Florence Louisa)'})",specimens
+40651,The Hypocrite,"frozenset({'Thorne, Guy'})",sermons
+40664,The Wee Scotch Piper,"frozenset({'Brandeis, Madeline'})",fiction
+40670,Makers of Modern Agriculture,"frozenset({'Macdonald, William'})",biography
+40689,Off to Sea,"frozenset({'Kingston, William Henry Giles'})",juvenile literature
+40696,Who Goes There!,"frozenset({'Chambers, Robert W. (Robert William)'})",fiction
+40702,Gretchen,"frozenset({'Holmes, Mary Jane'})",juvenile literature
+40708,Beast and Man in India,"frozenset({'Kipling, John Lockwood'})",folklore
+40721,Dan Carter and the Cub Honor,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile fiction
+40722,Dan Carter and the Great Carved Face,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile fiction
+40723,The Battle of Life,"frozenset({'Dickens, Charles'})",juvenile literature
+40728,Notes on the Bibliography of Yucatan and Central America,"frozenset({'Bandelier, Adolph Francis Alphonse'})",bibliography
+4075,The Intrusion of Jimmy,"frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",fiction
+40758,Genius in Sunshine and Shadow,"frozenset({'Ballou, Maturin M. (Maturin Murray)'})",anecdotes
+40760,Fifty Years in Chains,"frozenset({'Ball, Charles'})",biography
+40767,Old Plantation Days,"frozenset({'De Saussure, N. B. (Nancy Bostick)'})",biography
+40772,Human Animals,"frozenset({'Hamel, Frank'})",folklore
+40828,The Closed Book,"frozenset({'Le Queux, William'})",fiction
+40839,The New Woman,"frozenset({'Grundy, Sydney'})",fiction
+4086,The Scotch Twins,"frozenset({'Perkins, Lucy Fitch'})",fiction
+40872,The History of The Hen Fever,"frozenset({'Burnham, Geo. P. (George Pickering)'})",humor
+40890,Diary of an Enlisted Man,"frozenset({'Van Alstyne, Lawrence'})",personal narratives
+40923,British Political Leaders,"frozenset({'McCarthy, Justin'})",biography
+40949,The Outrage,"frozenset({'Vivanti, Annie'})",fiction
+40980,The Life of David,frozenset({'Anonymous'}),biography
+41011,Pony Tracks,"frozenset({'Remington, Frederic'})",biography
+41015,Shaun O'Day of Ireland,"frozenset({'Brandeis, Madeline'})",fiction
+41035,Fire and Sword in the Sudan,"frozenset({'Slatin, Rudolf Carl, Freiherr von'})",biography
+41036,Brave Deeds of Union Soldiers,"frozenset({'Scoville, Samuel'})",anecdotes
+41077,May Carols,"frozenset({'De Vere, Aubrey'})",poetry
+41091,The Price of Power,"frozenset({'Le Queux, William'})",fiction
+41127,Rose in Bloom,"frozenset({'Alcott, Louisa May'})",fiction
+41177,John Ermine of the Yellowstone,"frozenset({'Remington, Frederic'})",fiction
+412,John Jacob Astor,"frozenset({'Hubbard, Elbert'})",biography
+41220,Military Career of Napoleon the Great,"frozenset({'Gibbs, Montgomery B.'})",biography
+41222,Captain Paul,"frozenset({'Dumas, Alexandre'})",fiction
+41230,Ballads of Books,frozenset(),poetry
+41248,With the Zionists in Gallipoli,"frozenset({'Patterson, J. H. (John Henry)'})","personal narratives, english"
+41259,Dan Carter and the Haunted Castle,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile mystery
+41261,Dan Carter and the Money Box,"frozenset({'Wirt, Mildred A. (Mildred Augustine)'})",juvenile fiction
+41297,Local Color,"frozenset({'Cobb, Irvin S. (Irvin Shrewsbury)'})",pictorial works
+41324,Over the Seas for Uncle Sam,frozenset(),"personal narratives, american"
+41345,Windsor Castle,"frozenset({'Thomas, Edward'})",fiction
+41348,Boys and Girls of Colonial Days,"frozenset({'Bailey, Carolyn Sherwin'})",fiction
+41391,Constantinople,"frozenset({'Hutton, William Holden'})",guidebooks
+41394,Michigan Trees,"frozenset({'Otis, Charles Herbert'})",identification
+41430,English Lakes,frozenset(),guidebooks
+41447,Curly,"frozenset({'Pocock, Roger'})",fiction
+41462,Behind the Throne,"frozenset({'Le Queux, William'})",biography
+41528,Memoirs of a Veteran Who Served as a Private in the 60's in the War Between the States,"frozenset({'Hermann, I. (Isaac)'})",personal narratives
+41573,South-Sea Idyls,"frozenset({'Stoddard, Charles Warren'})",fiction
+41606,Comets and Meteors,"frozenset({'Kirkwood, Daniel'})",juvenile literature
+41616,Reminiscences of a Private,"frozenset({'Mixson, Frank M.'})","personal narratives, confederate"
+41635,Among the Tibetans,"frozenset({'Bird, Isabella L. (Isabella Lucy)'})",biography
+41657,To Geyserland,"frozenset({'Colborn, Edward F.'})",pictorial works
+41667,The Emerald City of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+41669,Home-made Toys for Girls and Boys,"frozenset({'Hall, A. Neely (Albert Neely)'})",amateurs' manuals
+41698,A Prince of Anahuac,"frozenset({'Porter, James A.'})",fiction
+41701,The Love Affairs of Lord Byron,"frozenset({'Gribble, Francis Henry'})",biography
+41753,Dave Dawson at Truk,"frozenset({'Bowen, Robert Sidney'})",juvenile fiction
+41792,Theodore Watts-Dunton,"frozenset({'Douglas, James'})",biography
+41799,The Old Pike,"frozenset({'Searight, Thomas B. (Thomas Brownfield)'})",biography
+41824,Hogarth,"frozenset({'Hind, C. Lewis (Charles Lewis)'})",biography
+41835,Puvis de Chavannes,"frozenset({'Crastre, François'})",exhibitions
+41839,The Boy's Playbook of Science,"frozenset({'Pepper, John Henry'})",juvenile literature
+41867,The Cloud,"frozenset({'Prentice, Sartell'})",fiction
+41887,Filippo Lippi,"frozenset({'Konody, Paul G. (Paul George)'})",biography
+419,The Magic of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+41939,Rosa Bonheur,"frozenset({'Crastre, François'})",biography
+41944,On Patrol,"frozenset({'Bower, John Graham'})",biography
+41947,Boucher,"frozenset({'MacFall, Haldane'})",biography
+41954,The Wheel of Fortune,"frozenset({'Gandhi, Mahatma'})",biography
+41990,The Cid Campeador,"frozenset({'Trueba, Antonio de'})",fiction
+42035,Dooryard Stories,"frozenset({'Pierson, Clara Dillingham'})",anecdotes
+4209,At the Mercy of Tiberius,"frozenset({'Evans, Augusta J. (Augusta Jane)'})",fiction
+42105,Faces in the Fire,"frozenset({'Boreham, Frank'})",fiction
+42108,The Slang Dictionary,"frozenset({'Hotten, John Camden'})",dictionaries
+42136,Rebel women,"frozenset({'Sharp, Evelyn'})",biography
+42185,Mantegna,"frozenset({""D'Anvers, N.""})",biography
+42188,Shadows in the Moonlight,"frozenset({'Howard, Robert E. (Robert Ervin)'})",fiction
+42190,Out of the Hurly-Burly,"frozenset({'Clark, Charles Heber'})",specimens
+42195,Seventy Years on the Frontier,"frozenset({'Majors, Alexander'})",biography
+42202,Under the Red Crescent,"frozenset({'Ryan, Charles S. (Charles Snodgrass)', 'Sandes, John'})",personal narratives
+4225,First and Last Things,"frozenset({'Wells, H. G. (Herbert George)'})",biography
+42250,Dave Dawson with the Commandos,"frozenset({'Bowen, Robert Sidney'})",fiction
+4227,Tom Swift and his Wireless Message,"frozenset({'Appleton, Victor'})",juvenile fiction
+42274,With the Indians in the Rockies,"frozenset({'Schultz, James Willard'})",fiction
+42277,The Grizzly,"frozenset({'Mills, Enos A.'})",juvenile fiction
+42290,A Hundred and Seventy Chinese Poems,frozenset(),translations into english
+4230,Tom Swift and his Motor-cycle,"frozenset({'Appleton, Victor'})",juvenile fiction
+42348,The Spirit of the Links,"frozenset({'Leach, Henry'})",anecdotes
+42362,"Caleb West, Master Diver","frozenset({'Smith, Francis Hopkinson'})",fiction
+42430,Colonel Washington,"frozenset({'Hulbert, Archer Butler'})",drama
+4244,Among the Tibetans,"frozenset({'Bird, Isabella L. (Isabella Lucy)'})",biography
+42446,Many Fronts,"frozenset({'Freeman, Lewis R. (Lewis Ransome)'})",personal narratives
+42457,Owen Glyndwr and the Last Struggle for Welsh Independence,"frozenset({'Bradley, A. G. (Arthur Granville)'})",biography
+42518,Talks To Farmers,"frozenset({'Spurgeon, C. H. (Charles Haddon)'})",sermons
+42521,God and The King,"frozenset({'Bowen, Marjorie'})",fiction
+42523,Box and Cox,"frozenset({'Morton, John Maddison'})",juvenile fiction
+42575,Washer the Raccoon,"frozenset({'Walsh, George Ethelbert'})",juvenile fiction
+42582,A Little Girl in Old San Francisco,"frozenset({'Douglas, Amanda M.'})",fiction
+42585,The Ballads & Songs of Derbyshire,frozenset(),poetry
+4268,Cousin Phillis,"frozenset({'Gaskell, Elizabeth Cleghorn'})",fiction
+42699,The Gilded Man,"frozenset({'Smyth, Clifford'})",fiction
+42723,The Unmasking of Robert-Houdin,"frozenset({'Houdini, Harry'})",biography
+42754,Good References,"frozenset({'Rath, E. J.'})",bibliography
+4277,Two Years Before the Mast,"frozenset({'Dana, Richard Henry'})",travel; adventures
+42771,Happy House,"frozenset({'Hutten zum Stolzenberg, Betsey Riddle, Freifrau von'})",textbooks for foreign speakers
+42806,Mary and I,"frozenset({'Riggs, Stephen Return'})",prayer-books and devotions
+42827,Bannertail,"frozenset({'Seton, Ernest Thompson'})",juvenile fiction
+42828,Sargent,"frozenset({'Wood, T. Martin'})",exhibitions
+42839,Popular Tales,"frozenset({'Guizot, Madame (Elisabeth Charlotte Pauline)'})",juvenile literature
+42859,Lachmi Bai Rani of Jhansi,"frozenset({'White, Michael'})",fiction
+42864,The Story of John Paul Jones,"frozenset({'Fraser, Chelsea Curtis'})",fiction
+4293,"Neal, the Miller","frozenset({'Otis, James'})",juvenile fiction
+4294,Tales of Aztlan,"frozenset({'Hartmann, George'})",fiction
+42943,Frank Forester,"frozenset({'Strang, Herbert'})",fiction
+42945,The Lumberjack Sky Pilot,"frozenset({'Whittles, Thomas D. (Thomas Davis)'})",biography
+42969,St. Nicholas,"frozenset({'McKnight, George Harley'})",legends
+4297,Eve's Ransom,"frozenset({'Gissing, George'})",novella
+42982,Photography in the Studio and in the Field,"frozenset({'Estabrooke, Edward M.'})","handbooks, manuals, etc"
+43050,A New History of Blue Beard,frozenset({'Gaffer Black Beard'}),juvenile literature
+43068,Millet,"frozenset({'Turner, Percy Moore'})",catalogs
+43091,Outlines of English History,"frozenset({'Curtis, John Charles'})",biography
+43133,Imogen,"frozenset({'Molesworth, Mrs.'})",fiction
+43151,Cartouche,"frozenset({'Peard, Frances Mary'})",biography
+43169,Philippa,"frozenset({'Molesworth, Mrs.'})",fiction
+43206,The Breaking Crucible,frozenset(),translations into english
+43242,A Madeira Party,"frozenset({'Mitchell, S. Weir (Silas Weir)'})",biography
+43247,The Epic of Saul,"frozenset({'Wilkinson, William Cleaver'})",poetry
+43302,The Kingdom of God is Within You,"frozenset({'Tolstoy, Leo, graf'})",controversial literature
+4333,Studies from Court and Cloister,"frozenset({'Stone, J. M. (Jean Mary)'})",biography
+43341,The Bird,"frozenset({'Michelet, Jules'})",fiction
+43387,Little Foxes,"frozenset({'Henry, E. A.'})",juvenile literature
+43390,The Factory Boy,"frozenset({'Leslie, Madeline'})",juvenile literature
+43399,Blackfeet Tales of Glacier National Park,"frozenset({'Schultz, James Willard'})",folklo
+43403,Seaward,"frozenset({'Hovey, Richard'})",translations
+43417,A Conchological Manual,"frozenset({'Sowerby, G. B. (George Brettingham)'})",dictionaries
+43420,Off Santiago with Sampson,"frozenset({'Otis, James'})",fiction
+43423,Old Mole,"frozenset({'Cannan, Gilbert'})",fiction
+43452,The Master of Game,"frozenset({'Edward, of Norwich', 'Gaston III Phoebus, count of Foix'})",early works to 1800
+43491,An Introduction to the Study of the Maya Hieroglyphs,"frozenset({'Morley, Sylvanus Griswold'})",calendars
+43531,The Vegetable Garden,frozenset({'Anonymous'}),juvenile literature
+43538,Historic Girlhoods,"frozenset({'Holland, Rupert Sargent'})",biography
+43540,Letters from Palestine,"frozenset({'Paxton, J. D. (John D.)'})",correspondence
+43551,The White Horses,"frozenset({'Sutcliffe, Halliwell'})",fiction
+43596,The Adventures of Sammy Jay,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+43598,The Fruits of Victory,"frozenset({'Angell, Norman'})",sources
+43604,Woodworking for Beginners,"frozenset({'Wheeler, Charles G. (Charles Gardner)'})",juvenile literature
+43618,Human Life,"frozenset({'Knight, Sherwood Sweet'})",congresses
+43636,Our Little Cuban Cousin,"frozenset({'Wade, Mary Hazelton Blanchard'})",juvenile fiction
+43667,Extracts Relating to Mediaeval Markets and Fairs in England,"frozenset({'Douglas-Irvine, Helen'})",sources
+4368,Flappers and Philosophers,"frozenset({'Fitzgerald, F. Scott (Francis Scott)'})",fiction
+43692,Edward Buttoneye and His Adventures,"frozenset({'Austin, Cyril F.'})",juvenile literature
+43701,Recollections of a Busy Life,"frozenset({'Forwood, William Bower, Sir'})",biography
+43714,The Boy Spies with the Regulators,"frozenset({'Otis, James'})",fiction
+43720,The Child's Rainy Day Book,"frozenset({'White, Mary'})",juvenile literature
+43726,The Days of Auld Lang Syne,"frozenset({'Maclaren, Ian'})",fiction
+43736,Fourteenth Century Verse & Prose,frozenset(),"glossaries, vocabularies, etc"
+43773,Shifting Sands,"frozenset({'Bassett, Sara Ware'})",bibliography
+43791,Natural Philosophy,"frozenset({'Ostwald, Wilhelm'})",catalogs
+4381,The Aran Islands,"frozenset({'Synge, J. M. (John Millington)'})",pictorial works
+4385,As A Matter of Course,"frozenset({'Call, Annie Payson'})",popular works
+43853,The Galloping Ghost,"frozenset({'Snell, Roy J. (Roy Judson)'})",biography
+43855,Franklin's Way to Wealth,"frozenset({'Franklin, Benjamin'})",juvenile literature
+4386,Life of Chopin,"frozenset({'Liszt, Franz'})",biography
+43905,South from Hudson Bay,"frozenset({'Brill, Ethel C. (Ethel Claire)'})",fiction
+43906,The Story of the Teasing Monkey,"frozenset({'Bannerman, Helen'})",fiction
+43907,Betty Gordon at Bramble Farm,"frozenset({'Emerson, Alice B.'})",juvenile fiction
+43961,The Life Savers,"frozenset({'Otis, James'})",popular works
+44014,Antique Works of Art from Benin,"frozenset({'Pitt-Rivers, Augustus Henry Lane-Fox'})",catalogs
+44037,The Adventures of Billy Topsail,"frozenset({'Duncan, Norman'})",fiction
+44061,Crossed Trails in Mexico,"frozenset({'Randolph, Helen'})",fiction
+44091,Green Fire,"frozenset({'Sharp, William'})",fiction
+44132,"Tom Strong, Lincoln's Scout","frozenset({'Mason, Alfred Bishop'})",fiction
+44153,The Adventures Of A Suburbanite,"frozenset({'Butler, Ellis Parker'})",fiction
+44178,The Friends,frozenset({'Unknown'}),fiction
+44188,Boys' Second Book of Inventions,"frozenset({'Baker, Ray Stannard'})",juvenile literature
+44192,The Crystal Palace,"frozenset({'Berlyn, Peter', 'Fowler, Charles, Jr.'})",fiction
+442,Love Songs,"frozenset({'Teasdale, Sara'})",fiction
+44208,The Hive,"frozenset({'Comfort, Will Levington'})",fiction
+44219,The Incubator Baby,"frozenset({'Butler, Ellis Parker'})",juvenile literature
+44262,The Spanish Brothers,"frozenset({'Alcock, Deborah'})",fiction
+44281,Recollections of the War of 1812,"frozenset({'Dunlop, William'})",personal narratives
+44311,Corleone,"frozenset({'Crawford, F. Marion (Francis Marion)'})",sources
+44337,The Lily and the Totem,"frozenset({'Simms, William Gilmore'})",fiction
+44340,Gerome,"frozenset({'Keim, Albert'})",exhibitions
+44369,Pals,"frozenset({'Bowes, Joseph'})",fiction
+44427,Atala,"frozenset({'Chateaubriand, François-René, vicomte de'})",librettos
+44465,Cynthia,"frozenset({'Merrick, Leonard'})",biography
+44471,Life Aboard a British Privateer in the Time of Queen Anne,"frozenset({'Rogers, Woodes'})",early works to 1800
+44492,Whip and Spur,"frozenset({'Waring, George E. (George Edwin)'})",personal narratives
+44514,Last of the Incas,"frozenset({'Aimard, Gustave'})",drama
+44573,The Entail,"frozenset({'Galt, John'})",fiction.'
+44592,Light for Little Ones,"frozenset({'Waterbury, Mary F.'})",juvenile literature
+44600,Martha of California,"frozenset({'Otis, James'})",fiction
+44632,Hell's Hatches,"frozenset({'Freeman, Lewis R. (Lewis Ransome)'})",fiction
+44665,Things a Boy Should Know About Electricity,"frozenset({'St. John, Thomas M. (Thomas Matthew)'})",juvenile literature
+447,Maggie: A Girl of the Streets,"frozenset({'Crane, Stephen'})",fiction
+44702,Reminiscences of a Prisoner of War and His Escape,"frozenset({'Langworthy, Daniel Avery'})",personal narratives
+44724,The Boy Spies of Philadelphia,"frozenset({'Otis, James'})",juvenile fiction
+44740,New Readings Of Old Authors,frozenset(),quotations
+44745,The World on Wheels and Other Sketches,"frozenset({'Taylor, Benjamin F. (Benjamin Franklin)'})",anecdotes
+44778,Religious Poems,"frozenset({'Stowe, Harriet Beecher'})",poetry
+44786,Agent Nine and the Jewel Mystery,"frozenset({'Dean, Graham M.'})",juvenile fiction
+44791,Lady Byron Vindicated,"frozenset({'Stowe, Harriet Beecher'})",biography
+44815,"Writing and Drawing Made Easy, Amusing and Instructive","frozenset({'Chinnery, William'})",early works to 1800
+44829,Rada,"frozenset({'Noyes, Alfred'})",drama
+44904,Mrs. Caudle's Curtain Lectures,"frozenset({'Jerrold, Douglas William'})",specimens
+44909,The New Forest,"frozenset({'Godfrey, Elizabeth'})",fiction
+44913,The Life of the Moselle,"frozenset({'Rooke, Octavius'})",specimens
+44939,Children of the Soil,"frozenset({'Sienkiewicz, Henryk'})",fiction
+44954,Bessie in the City,"frozenset({'Mathews, Joanna H. (Joanna Hooe)'})",juvenile literature
+44964,Battles of the Civil War,"frozenset({'Vineyard, Thomas Elbert'})",juvenile literature
+45005,Absurdities of Immaterialism,"frozenset({'Pratt, Orson'})",controversial literature
+45022,Bernard Brooks' Adventures,"frozenset({'Alger, Horatio, Jr.'})",specimens
+45035,Sir William Wallace,"frozenset({'Murison, Alexander Falconer'})",biography
+45038,Perlycross,"frozenset({'Blackmore, R. D. (Richard Doddridge)'})",fiction
+45063,Nests and Eggs of Birds of The United States,"frozenset({'Gentry, Thomas G. (Thomas George)'})",pictorial works
+4507,As a Man Thinketh,"frozenset({'Allen, James'})",specimens
+45106,The Life of Francis Thompson,"frozenset({'Meynell, Everard'})",biography
+45112,Astronomy for Young Folks,"frozenset({'Lewis, Isabel Martin'})",juvenile literature
+45118,Our Standard-Bearer,"frozenset({'Optic, Oliver'})",biography
+4515,The Golden Snare,"frozenset({'Curwood, James Oliver'})",fiction
+452,Lavengro,"frozenset({'Borrow, George'})",fiction
+45240,Frontier Ballads,"frozenset({'Hanson, Joseph Mills'})",texts
+45260,Doris Force at Locked Gates,"frozenset({'Duncan, Julia K.'})",juvenile mystery fiction
+45288,Jack and The Bean-Stalk,"frozenset({'Tennyson, Hallam Tennyson, Baron'})",juvenile literature
+45307,Riverby,"frozenset({'Burroughs, John'})",outdoor books
+45315,The Marriage of Heaven and Hell,"frozenset({'Blake, William'})",biography
+45341,Wager of Battle,"frozenset({'Herbert, Henry William'})",fiction
+45379,Prairie-Dog Town,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+45383,Drifting,"frozenset({'Read, Thomas Buchanan'})",fiction
+45384,The Book of Fables and Folk Stories,"frozenset({'Scudder, Horace Elisha'})",juvenile literature
+45424,Taking the Bastile,"frozenset({'Dumas, Alexandre'})",fiction
+45427,George Buchanan,"frozenset({'John Campbell Smith', 'Wallace, Robert'})",biography
+4550,Fighting France,"frozenset({'Wharton, Edith'})",personal narratives
+45523,Famous Authors (Men),"frozenset({'Harkins, E. F. (Edward Francis)'})",biography
+4553,St. Elmo,"frozenset({'Evans, Augusta J. (Augusta Jane)'})",pictorial works
+45552,The Old Market-Cart,"frozenset({'Griswold, F. Burge (Frances Burge)'})",juvenile literature
+45554,Doctor Birch and His Young Friends,"frozenset({'Thackeray, William Makepeace'})",juvenile fiction
+45560,The Lake of Geneva,"frozenset({'Morris, Joseph E. (Joseph Ernest)'})",poetry
+45568,The Song of the Rappahannock,"frozenset({'Dodd, Ira Seymour'})",personal narratives
+45573,Out with Garibaldi,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+4558,Barry Lyndon,"frozenset({'Thackeray, William Makepeace'})",fiction
+45591,Beadle's Dime Book of Practical Etiquette for Ladies and Gentlemen,frozenset({'Anonymous'}),"handbooks, manuals, etc"
+45596,The Insect World,"frozenset({'Figuier, Louis'})",juvenile literature
+4560,Verses,"frozenset({'Coolidge, Susan'})",poetry
+45601,The Four Corners,"frozenset({'Blanchard, Amy Ella'})",pictorial works
+45671,Myth-Land,"frozenset({'Hulme, F. Edward (Frederick Edward)'})",folklore
+45674,Prison Poetry,"frozenset({'McKnight, Hiram Peck'})",poetry
+45677,Popular Amusements,"frozenset({'Crane, J. T. (Jonathan Townley)'})",bibliography
+45705,The Life of Rossini,"frozenset({'Edwards, H. Sutherland (Henry Sutherland)'})",biography
+45706,The Overland Guide-book,"frozenset({'Barber, James, active 1837-1839'})",guidebooks
+45708,Spring notes from Tennessee,"frozenset({'Torrey, Bradford'})",outdoor books
+45709,Montrose,"frozenset({'Morris, Mowbray'})",biography
+45721,By order of the company,"frozenset({'Johnston, Mary'})",fiction
+45742,Up and Down,"frozenset({'Benson, E. F. (Edward Frederic)'})",fiction
+45761,"Society, Manners and Politics in the United States","frozenset({'Chevalier, Michel'})",early works to 1800
+45795,A Christmas Gift,"frozenset({'Gravengaard, N. P. (Niels Peter)'})",fiction
+4581,The Thrall of Leif the Lucky,"frozenset({'Liljencrantz, Ottilie A. (Ottilia Adelina)'})",fiction
+45810,Over Periscope Pond,"frozenset({'Root, Esther Sayles', 'Crocker, Marjorie'})",personal narratives
+45873,Reptiles and Birds,"frozenset({'Figuier, Louis'})",popular works
+45925,An American Girl in London,"frozenset({'Duncan, Sara Jeannette'})",fiction
+45931,Wounded and a Prisoner of War,"frozenset({'Hay, Malcolm V. (Malcolm Vivian)'})","personal narratives, english"
+45933,Romances of Old Japan,frozenset(),translations into english
+4599,The Small House at Allington,"frozenset({'Trollope, Anthony'})",fiction
+46004,Neighbors Unknown,"frozenset({'Roberts, Charles G. D., Sir'})",anecdotes
+4602,The Kingdom of God Is Within You,"frozenset({'Tolstoy, Leo, graf'})",controversial literature
+46042,Our Little Arabian Cousin,"frozenset({'McManus, Blanche'})",juvenile literature
+46045,The Boy Allies on the North Sea Patrol,"frozenset({'Hayes, Clair W. (Clair Wallace)'})",fiction
+46076,Sebastian Bach,"frozenset({'Poole, Reginald Lane'})",juvenile literature
+46097,Trooper Bluegum at the Dardanelles,"frozenset({'Hogue, Oliver'})","personal narratives, australian"
+46132,The Wars of the Roses,"frozenset({'Edgar, John G. (John George)'})",biography
+46145,The Book of Princes and Princesses,"frozenset({'Lang, Mrs.'})",biography
+46185,The Devil,"frozenset({'Molnár, Ferenc'})",juvenile literature
+46220,Mothwise,"frozenset({'Hamsun, Knut'})",fiction
+46220,"_Original ""Svaermere.""_","frozenset({'Hamsun, Knut'})",fiction
+46254,Mrs. Hale's Receipts for the Million,"frozenset({'Hale, Sarah Josepha Buell'})","handbooks, manuals, etc"
+46299,With the French Flying Corps,"frozenset({'Winslow, Carroll Dana'})",personal narratives
+46300,The First Canadians in France,"frozenset({'Bell, F. McKelvey (Frederick McKelvey)'})","personal narratives, canadian"
+46302,Riding and Driving,"frozenset({'Collier, Price', 'Anderson, Edward L. (Edward Lowell)'})","handbooks, manuals, etc"
+46304,The Silent Rifleman,"frozenset({'Herbert, Henry William'})",fiction
+46323,The Soul of the Soldier,"frozenset({'Tiplady, Thomas'})","personal narratives, english"
+46345,Sir Quixote of the Moors,"frozenset({'Buchan, John'})",fiction
+46346,The History of Miss Betsy Thoughtless,"frozenset({'Haywood, Eliza Fowler'})",fiction
+46347,Men of Our Times,"frozenset({'Stowe, Harriet Beecher'})",biography
+46398,The Manchester Rebels of the Fatal '45,"frozenset({'Ainsworth, William Harrison'})",fiction
+4641,Starr King in California,"frozenset({'Simonds, William Day'})",biography
+46427,The Great War in Verse and Prose,frozenset(),poetry
+46434,Our Part in the Great War,"frozenset({'Gleason, Arthur'})",personal narratives
+46436,The Rising of the Tide,"frozenset({'Tarbell, Ida M. (Ida Minerva)'})",fiction
+46460,Gunboat and Gun-runner,"frozenset({'Jeans, T. T. (Thomas Tendron)'})",fiction
+46492,The Death of the Gods,"frozenset({'Merezhkovsky, Dmitry Sergeyevich'})",fiction
+465,The Mountains,"frozenset({'White, Stewart Edward'})",juvenile literature
+46503,Gold-Seeking on the Dalton Trail,"frozenset({'Thompson, Arthur R. (Arthur Ripley)'})",fiction
+46519,Robert Annys: Poor Priest,"frozenset({'Meyer, Annie Nathan'})",fiction
+46521,Forty Years Among the Indians,"frozenset({'Jones, Daniel W. (Daniel Webster)'})",biography
+46549,The Willing Horse,"frozenset({'Hay, Ian'})",fiction
+46650,Bayou Folk,"frozenset({'Chopin, Kate'})",fiction
+46698,Some Noble Sisters,"frozenset({'Lee, Edmund'})",biography
+4673,Notes by the Way in A Sailor's Life,"frozenset({'Knights, Arthur E.'})",biography
+46750,Prison Journals During the French Revolution,"frozenset({'Duras, Louise Henriette Charlotte Philippine (de Noailles) de Durfort, duchesse de'})",personal narratives
+4680,Manuel Pereira,"frozenset({'Adams, F. Colburn (Francis Colburn)'})",fiction
+46827,The Book of Jade,"frozenset({'Barnitz, David Park'})",poetry
+46838,The Isle of Man,"frozenset({'Morris, Joseph E. (Joseph Ernest)'})",guidebooks
+46841,Rejected of Men,"frozenset({'Pyle, Howard'})",meditations
+46859,Balzac,"frozenset({'Saltus, Edgar'})",biography
+46866,The Adventures of Peter Cottontail,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+46883,Goethe and Schiller,"frozenset({'Mühlbach, L. (Luise)'})",fiction
+46933,The Librarian at Play,"frozenset({'Pearson, Edmund Lester'})",anecdotes
+4694,Mademoiselle of Monte Carlo,"frozenset({'Le Queux, William'})",fiction
+46964,Of Gardens,"frozenset({'Bacon, Francis'})",poetry
+4698,Whitefoot the Wood Mouse,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",juvenile fiction
+470,Heretics,"frozenset({'Chesterton, G. K. (Gilbert Keith)'})",fiction
+47001,De Officiis,"frozenset({'Cicero, Marcus Tullius'})",early works to 1800
+47002,The Usurper,"frozenset({'Gautier, Judith'})",drama
+4702,The Flaming Forest,"frozenset({'Curwood, James Oliver'})",fiction
+47026,Fletcherism,"frozenset({'Fletcher, Horace'})",popular works
+47059,Meteorology,"frozenset({'Talman, Charles Fitzhugh'})",observations
+47127,Tradition,"frozenset({'Arundell of Wardour, John Francis Arundell, Baron'})",biography
+47146,Myths and Legends of Alaska,frozenset(),folklore
+47147,An Introduction to the Study of Meteorites,"frozenset({'British Museum (Natural History). Department of Mineralogy', 'Fletcher, L. (Lazarus)'})",catalogs and collections
+47151,Diaries of Court Ladies of Old Japan,"frozenset({'Sugawara no Takasue no Musume', 'Izumi Shikibu', 'Murasaki Shikibu'})",translations into english
+47233,Dr. Stearns's Tour from London to Paris,"frozenset({'Stearns, Samuel'})",description and travel
+4731,Seven Little Australians,"frozenset({'Turner, Ethel Sybil'})",fiction
+47332,"Personal Recollections and Civil War Diary, 1864","frozenset({'Abbott, Lemuel Abijah'})",personal narratives
+47434,Infatuation,"frozenset({'Osbourne, Lloyd'})",fiction
+4744,Ten Nights in a Bar Room,"frozenset({'Arthur, T. S. (Timothy Shay)'})",fiction
+47708,Biography and Family Record of Lorenzo Snow,"frozenset({'Snow, Eliza R. (Eliza Roxey)'})",biography
+47753,A History of England,"frozenset({'Oman, Charles'})","outlines, syllabi, etc"
+48063,A Little Garden Calendar for Boys and Girls,"frozenset({'Paine, Albert Bigelow'})",juvenile literature
+481,In the Bishop's Carriage,"frozenset({'Michelson, Miriam'})",specimens
+48142,The Adventures of Two Alabama Boys,"frozenset({'Crumpton, H. J. (Hezekiah John)', 'Crumpton, Washington Bryan'})","personal narratives, confederate"
+48276,The Hand of Providence,"frozenset({'Ward, J. H. (Joseph Harvey)'})",fiction
+48418,Susan,"frozenset({'Oldmeadow, Ernest'})",fiction
+48586,The War,"frozenset({'Wood, James H. (James Harvey)'})",fiction
+486,Ozma of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+48843,Philochristus,"frozenset({'Abbott, Edwin Abbott'})",fiction
+48848,Frank Armstrong at Queens,"frozenset({'Colton, Matthew M.'})",juvenile fiction
+489,One Basket,"frozenset({'Ferber, Edna'})",fiction
+48950,English Translations From The Greek,"frozenset({'Foster, Finley Melville Kendall'})",bibliography
+48974,As Others Saw Him,"frozenset({'Jacobs, Joseph'})",fiction
+491,Rezanov,"frozenset({'Atherton, Gertrude Franklin Horn'})",fiction
+4910,The Magic Pudding,"frozenset({'Lindsay, Norman'})",fiction
+4920,The Blind Spot,"frozenset({'Hall, Austin', 'Flint, Homer Eon'})",fiction
+4923,King Midas,"frozenset({'Sinclair, Upton'})",juvenile literature
+4925,The Age of Fable,"frozenset({'Bulfinch, Thomas'})",romances
+49301,The Grey Man,"frozenset({'Crockett, S. R. (Samuel Rutherford)'})",fiction
+49762,Diagnosis,"frozenset({'Palmer, Ray'})",popular works
+49809,Junior,"frozenset({'Abernathy, Robert'})",biography
+4985,Ruth Fielding of the Red Mill,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+4993,A Texas Ranger,"frozenset({'Raine, William MacLeod'})",fiction
+49976,Escape from the Confederacy,"frozenset({'Hasson, Benjamin F.'})",personal narratives
+49991,The First Book of Eskimos,"frozenset({'Brewster, Benjamin'})",juvenile literature
+50040,St. Benedict's Rule for Monasteries,"frozenset({'Benedict, Saint, Abbot of Monte Cassino'})",rules
+5007,The Poisoned Pen,"frozenset({'Reeve, Arthur B. (Arthur Benjamin)'})",fiction
+50194,The Magic of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+502,Desert Gold,"frozenset({'Grey, Zane'})",fiction
+50217,Dave Dawson with the Pacific Fleet,"frozenset({'Bowen, Robert Sidney'})",fiction
+50238,Stormy Voyage,"frozenset({'Leckie, Robert'})",fiction
+50259,Dave Dawson with the Flying Tigers,"frozenset({'Bowen, Robert Sidney'})",fiction
+50309,Dave Dawson in Libya,"frozenset({'Bowen, Robert Sidney'})",fiction
+50483,Reminiscences of a Soldier of the Orphan Brigade,"frozenset({'Young, Lot D.'})","personal narratives, confederate"
+50500,The Deserted Village,"frozenset({'Goldsmith, Oliver'})",poetry
+506,The Shuttle,"frozenset({'Burnett, Frances Hodgson'})",juvenile literature
+50635,Dave Dawson with the Eighth Air Force,"frozenset({'Bowen, Robert Sidney'})",fiction
+5067,The Rainbow Trail,"frozenset({'Grey, Zane'})",fiction
+50701,On the Plantation,"frozenset({'Harris, Joel Chandler'})",fiction
+5079,Ziska,"frozenset({'Corelli, Marie'})",fiction
+50868,The Highest Mountain,"frozenset({'Walton, Bryce'})",juvenile literature
+50876,Earthbound,"frozenset({'Del Rey, Lester'})",fiction
+50978,The Lion's Whelp,"frozenset({'Barr, Amelia E.'})",fiction
+51009,Picture Bride,"frozenset({'Samachson, Joseph'})",fiction
+51097,Heroines of Mormondom,frozenset({'Various'}),biography
+51129,A Gift from Earth,"frozenset({'Banister, Manly'})",science fiction
+5115,The George Sand-Gustave Flaubert Letters,"frozenset({'Flaubert, Gustave', 'Sand, George'})",correspondence
+5116,Pragmatism,"frozenset({'James, William'})",bibliography
+5119,The Lion and the Mouse,"frozenset({'Hornblow, Arthur', 'Klein, Charles'})",adaptations
+5122,The Trail of the Lonesome Pine,"frozenset({'Fox, John, Jr.'})",fiction
+51263,The Scarecrow of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+51311,Make Me An Offer,"frozenset({'Blomberg, Con'})",librettos
+51407,Sea Legs,"frozenset({'Quattrocchi, Frank'})",fiction
+51428,That Which Hath Wings,"frozenset({'Dehan, Richard'})",fiction
+5149,The Gold of the Gods,"frozenset({'Reeve, Arthur B. (Arthur Benjamin)'})",fiction
+51531,With These Hands,"frozenset({'Kornbluth, C. M. (Cyril M.)'})",interviews
+51566,The Admirable Crichton,"frozenset({'Barrie, J. M. (James Matthew)'})",drama
+51603,All The People,"frozenset({'Lafferty, R. A.'})",juvenile literature
+5162,Agatha Webb,"frozenset({'Green, Anna Katharine'})",fiction
+51641,The Hermitage,"frozenset({'Dorris, Mary C. (Mary C. Currey)'})",catalogs
+51662,Breakdown,"frozenset({'Kastle, Herbert D.'})",biography
+51668,Dreamworld,"frozenset({'Lafferty, R. A.'})",fiction
+5168,The Land Of Heart's Desire,"frozenset({'Yeats, W. B. (William Butler)'})",drama
+517,The Emerald City of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+5182,The Old English Baron,"frozenset({'Reeve, Clara'})",fiction
+51833,Meeting of the Minds,"frozenset({'Sheckley, Robert'})",congresses
+5207,The Guns of Shiloh,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+5209,Miscellaneous Poems,"frozenset({'Crabbe, George'})",poetry
+52107,That Reminds Me,frozenset(),biography
+52113,Fifteen Days,"frozenset({'Putnam, Mary Lowell'})","personal narratives, canadian"
+5217,Tales,"frozenset({'Crabbe, George'})",translations into english
+52180,The Apple of Discord,"frozenset({'Walcott, Earle Ashley'})",fiction
+52225,The Temptation of St. Anthony,"frozenset({'Flaubert, Gustave'})",fiction
+5233,The Iron Trail,"frozenset({'Beach, Rex'})",fiction
+52371,Armenia and the Armenians,frozenset(),bibliography
+52552,Venna Hastings,"frozenset({'Farr, Julia'})",fiction
+52559,The Ballad of Ensign Joy,"frozenset({'Hornung, E. W. (Ernest William)'})",poetry
+5256,The History of the Life of the Late Mr. Jonathan Wild the Great,"frozenset({'Fielding, Henry'})",biography
+52574,Third Planet,"frozenset({'Leinster, Murray'})",juvenile literature
+5259,Hildegarde's Neighbors,"frozenset({'Richards, Laura Elizabeth Howe'})",fiction
+5265,The Ball and The Cross,"frozenset({'Chesterton, G. K. (Gilbert Keith)'})",fiction
+52661,Short and Sweet,"frozenset({'Troughton, Adolphus Charles'})",biography
+529,Knights of Art,"frozenset({'Steedman, Amy'})",juvenile literature
+52951,Rhymes of the Rockies,"frozenset({'Whilt, James W.'})",poetry
+53005,Walpole and Chatham (1714-1760),frozenset(),sources
+5301,The Imperialist,"frozenset({'Duncan, Sara Jeannette'})",fiction
+53049,Instead of the Thorn,"frozenset({'Burnham, Clara Louise'})",fiction
+5311,Parnassus on Wheels,"frozenset({'Morley, Christopher'})",fiction
+5312,Mother Goose in Prose,"frozenset({'Baum, L. Frank (Lyman Frank)'})",adaptations
+532,At the Foot of the Rainbow,"frozenset({'Stratton-Porter, Gene'})",juvenile literature
+533,The Song of the Cardinal,"frozenset({'Stratton-Porter, Gene'})",fiction
+53306,Little Prudy's Captain Horace,"frozenset({'May, Sophie'})",juvenile literature
+5341,Kilmeny of the Orchard,"frozenset({'Montgomery, L. M. (Lucy Maud)'})",juvenile fiction
+5348,Ragged Dick,"frozenset({'Alger, Horatio, Jr.'})",fiction
+53717,Through the Sikh War,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+53811,Rescue the Perishing,"frozenset({'Seibert, Fred R.'})",correspondence
+5398,A Traveller in War-Time,"frozenset({'Churchill, Winston'})",personal narratives
+54,The Marvellous Land of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+542,The Life of Me,"frozenset({'Johnson, Clarence Edgar'})",fiction
+54222,Blood and Sand,"frozenset({'Blasco Ibáñez, Vicente'})",biography
+5429,Preface to Shakespeare,"frozenset({'Johnson, Samuel'})",early works to 1800
+54350,"Jed, the Poorhouse Boy","frozenset({'Alger, Horatio, Jr.'})",fiction
+544,Anne's House of Dreams,"frozenset({'Montgomery, L. M. (Lucy Maud)'})",juvenile fiction
+54816,My .75,"frozenset({'Lintier, Paul'})","personal narratives, french"
+55317,The Meditations of the Emperor Marcus Aurelius Antoninus,"frozenset({'Marcus Aurelius, Emperor of Rome'})",early works to 1800
+55323,Garryowen,"frozenset({'Stacpoole, H. De Vere (Henry De Vere)'})",fiction
+55387,One Hundred Proofs that the Earth is Not a Globe,"frozenset({'Carpenter, William'})",miscellanea
+55415,The Boy Scout Explorers at Treasure Mountain,"frozenset({'Palmer, Don'})",juvenile fiction
+55693,Flash Evans and the Darkroom Mystery,"frozenset({'Bell, Frank'})",juvenile fiction
+55694,"Flash Evans, Camera News Hawk","frozenset({'Bell, Frank'})",juvenile fiction
+55696,Rose of the World,"frozenset({'Castle, Agnes', 'Castle, Egerton'})",fiction
+55814,"The Comic Adventures of Old Mother Hubbard, and Her Dog","frozenset({'Martin, Sarah Catherine'})",juvenile poetry
+55832,Richard Judkins' Wooing,"frozenset({'Hains, T. Jenkins (Thornton Jenkins)'})",fiction
+559,Greenmantle,"frozenset({'Buchan, John'})",fiction
+560,Mr. Standfast,"frozenset({'Buchan, John'})",fiction
+561,The Further Adventures of Robinson Crusoe,"frozenset({'Defoe, Daniel'})",juvenile fiction
+56106,John Brown's Raid,frozenset({'United States. National Park Service'}),juvenile literature
+5615,The Pink Fairy Book,"frozenset({'Lang, Andrew'})",juvenile literature
+5616,The Madman,"frozenset({'Gibran, Kahlil'})",poetry
+5622,At Last,"frozenset({'Harland, Marion'})",fiction
+5625,Flint and Feather,"frozenset({'Johnson, E. Pauline'})",poetry
+5636,Winding Paths,"frozenset({'Page, Gertrude'})",pictorial works
+5642,Harry Heathcote of Gangoil,"frozenset({'Trollope, Anthony'})",fiction
+56555,The Magical Mimics in Oz,"frozenset({'Snow, Jack'})",juvenile fiction
+5702,Masters of the Guild,"frozenset({'Lamprey, Louise'})",fiction
+5708,Stray Pearls,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",fiction
+57121,Humility,"frozenset({'Murray, Andrew'})",meditations
+57164,Warwick the Kingmaker,"frozenset({'Oman, Charles'})",biography
+57177,Australia at War,"frozenset({'Dyson, Will'})",pictorial works
+5744,The Fat and the Thin,"frozenset({'Zola, Émile'})",fiction
+5749,Comedies,"frozenset({'Holberg, Ludvig'})",translations into english
+5759,The Day of the Dog,"frozenset({'McCutcheon, George Barr'})",fiction
+5774,They Call Me Carpenter,"frozenset({'Sinclair, Upton'})",fiction
+57844,The Adventures of Jimmy Brown,"frozenset({'Alden, W. L. (William Livingston)'})",juvenile literature
+5792,The Stories Mother Nature Told Her Children,"frozenset({'Andrews, Jane'})",juvenile literature
+5795,The Secret Rose,"frozenset({'Yeats, W. B. (William Butler)'})",biography
+5805,The League of the Scarlet Pimpernel,"frozenset({'Orczy, Emmuska Orczy, Baroness'})",fiction
+58228,The Legends of the Iroquois,frozenset(),folklore
+58369,"Tuen, Slave and Empress","frozenset({'Nelson, Kathleen Gray'})",fiction
+5846,The Adventures of Poor Mrs. Quack,"frozenset({'Burgess, Thornton W. (Thornton Waldo)'})",fiction
+5872,Cashel Byron's Profession,"frozenset({'Shaw, Bernard'})",fiction
+5873,Farewell,"frozenset({'Balzac, Honoré de'})",biography
+5876,Ten Englishmen of the Nineteenth Century,"frozenset({'Joy, James Richard'})",biography
+58802,Community Property,"frozenset({'Coppel, Alfred'})",case studies
+58980,A Witch in Time,"frozenset({'Williams, Herb'})",fiction
+59,A Discourse on Method,"frozenset({'Descartes, René'})",early works to 1800
+59141,Blow the Man Down,"frozenset({'Fontenay, Charles L.'})",fiction
+59396,The Boy Travellers in South America,"frozenset({'Knox, Thomas Wallace'})",juvenile fiction
+59414,Shango,"frozenset({'Jakes, John'})",drama
+59447,The Barbarians,"frozenset({'Godwin, Tom'})",fiction
+595,The Sisters' Tragedy,"frozenset({'Aldrich, Thomas Bailey'})",drama
+5951,Reno,"frozenset({'Stratton, Lilyan'})",fiction
+59515,Z,"frozenset({'Fontenay, Charles L.'})",fiction
+59519,Hunting the Hun,"frozenset({'Odell, E. G.', 'Belton, James'})","personal narratives, canadian"
+59576,Shasta of the Wolves,"frozenset({'Baker, Olaf'})",fiction
+596,Rivers to the Sea,"frozenset({'Teasdale, Sara'})",fiction
+5960,Little Sister Snow,"frozenset({'Little, Frances'})",fiction
+59616,A Little Knowledge,"frozenset({'Winterbotham, R. R. (Russell Robert)'})",miscellanea
+59621,Why Crime Does Not Pay,"frozenset({'Burke, Sophie Van Elkan Lyons, Mrs.'})",biography
+59643,Family Tree,"frozenset({'Fontenay, Charles L.'})",genealogy
+598,Heimskringla,frozenset({'Snorri Sturluson'}),translations into english
+59828,The String of Pearls,"frozenset({'Rymer, James Malcolm', 'Prest, Thomas Peckett'})",fiction
+59864,The Silver Arrow,"frozenset({'Hubbard, Elbert'})",fiction
+59904,"Tony, The Hero","frozenset({'Alger, Horatio, Jr.'})",fiction
+5993,Walter Sherwood's Probation,"frozenset({'Alger, Horatio, Jr.'})",fiction
+59982,The Human Element,"frozenset({'Kelley, Leo P.'})",fiction
+6016,"Roast Beef, Medium","frozenset({'Ferber, Edna'})",fiction
+60166,The Ordeal by Fire,"frozenset({'Berger, Marcel'})",fiction
+60209,"The Bear Family at Home, and How the Circus Came to Visit Them","frozenset({'Wilbur, Curtis Dwight'})",folklore
+60262,Where Are We Going?,"frozenset({'Lloyd George, David'})",fiction
+6037,The One Woman,"frozenset({'Dixon, Thomas, Jr.'})",fiction
+60421,Security,"frozenset({'Walton, Bryce'})",fiction
+60434,Learning Theory,"frozenset({'McConnell, James V.'})",congresses
+60460,The Raider,"frozenset({'Berry, Don'})",fiction
+60467,A Question of Identity,"frozenset({'Riley, Frank'})",fiction
+60530,Battlewrack,"frozenset({'Austin, F. Britten (Frederick Britten)'})",fiction
+6054,Mrs. Caudle's Curtain Lectures,"frozenset({'Jerrold, Douglas William'})",specimens
+6066,King--of the Khyber Rifles,"frozenset({'Mundy, Talbot'})",fiction
+611,Prester John,"frozenset({'Buchan, John'})",fiction
+6112,Nature and Human Nature,"frozenset({'Haliburton, Thomas Chandler'})",exhibitions
+6136,Bars and Shadows,"frozenset({'Chaplin, Ralph'})",poetry
+6145,Tales of the Punjab,"frozenset({'Steel, Flora Annie Webster'})",folklore
+6172,God and my Neighbour,"frozenset({'Blatchford, Robert'})",controversial literature
+6185,Romany of the Snows,"frozenset({'Parker, Gilbert'})",fiction
+6347,Hobson's Choice,"frozenset({'Brighouse, Harold'})",drama
+6367,The Life and Legends of Saint Francis of Assisi,"frozenset({'Chalippe, Candide'})",early works to 1800
+6370,The Story Of The Odyssey,"frozenset({'Church, Alfred John', 'Homer'})",juvenile literature
+6379,The Net,"frozenset({'Beach, Rex'})",fiction
+6384,That Printer of Udell's,"frozenset({'Wright, Harold Bell'})",fiction
+6442,Bitter-Sweet,"frozenset({'Holland, J. G. (Josiah Gilbert)'})",biography
+6452,Right Royal,"frozenset({'Masefield, John'})",poetry
+6472,On the Pampas,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+648,Wild Wales,"frozenset({'Borrow, George'})",biography
+6488,Going Some,"frozenset({'Beach, Rex'})",drama
+6489,A Book of Golden Deeds,"frozenset({'Yonge, Charlotte M. (Charlotte Mary)'})",miscellanea
+6520,The Crescent Moon,frozenset(),fiction
+6524,Stray Birds,"frozenset({'Tagore, Rabindranath'})",fiction
+6531,The Gospel,frozenset(),"sources, biblical"
+655,Life and Letters of Robert Browning,"frozenset({'Orr, Sutherland, Mrs.', 'Browning, Robert'})",biography
+6563,The Blunderer,frozenset({'Molière'}),fiction
+6581,A Treatise on the Six-Nation Indians,"frozenset({'Mackenzie, J. B.'})",treaties
+6582,In the Court of King Arthur,"frozenset({'Lowe, Samuel E. (Samuel Edward)'})",juvenile fiction
+6600,The Moccasin Maker,"frozenset({'Johnson, E. Pauline'})",fiction
+6655,Tom Slade,"frozenset({'Fitzhugh, Percy Keese'})",fiction
+6656,The Kiltartan Poetry Book,"frozenset({'Gregory, Lady'})",translations into english
+6676,Rosy,"frozenset({'Molesworth, Mrs.'})",fiction
+6731,The Duenna,"frozenset({'Sheridan, Richard Brinsley'})",librettos
+6743,Colonel Carter of Cartersville,"frozenset({'Smith, Francis Hopkinson'})",fiction
+6769,The People Of The Mist,"frozenset({'Haggard, H. Rider (Henry Rider)'})",fiction
+6782,The Robbers,"frozenset({'Schiller, Friedrich'})",juvenile fiction
+6790,Demetrius,"frozenset({'Schiller, Friedrich'})",drama
+6809,The Doctor's Daughter,frozenset({'Vera'}),fiction
+6823,"Army Letters from an Officer's Wife, 1871-1888","frozenset({'Roe, Frances Marie Antoinette Mack'})",personal narratives
+6837,The Little Warrior,"frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",fiction
+6846,My Lady of the North,"frozenset({'Parrish, Randall'})",fiction
+685,The Atomic Bombings of Hiroshima and Nagasaki,frozenset({'United States. Army. Corps of Engineers. Manhattan District'}),juvenile literature
+6851,Ruth Fielding at Snow Camp,"frozenset({'Emerson, Alice B.'})",juvenile mystery fiction
+6855,Ideala,"frozenset({'Grand, Sarah'})",fiction
+6914,The Last of the Huggermuggers,"frozenset({'Cranch, Christopher Pearse'})",juvenile literature
+6953,By England's Aid,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+6979,The Little Regiment,"frozenset({'Crane, Stephen'})",fiction
+7007,The True Story of My Life,"frozenset({'Andersen, H. C. (Hans Christian)'})",biography
+7011,The Flood,"frozenset({'Zola, Émile'})",fiction
+7037,Beric the Briton,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+7055,Gone to Earth,"frozenset({'Webb, Mary Gladys Meredith'})",poetry
+7061,A March on London,"frozenset({'Henty, G. A. (George Alfred)'})",juvenile fiction
+7063,A Terrible Secret,"frozenset({'Fleming, May Agnes'})",fiction
+7085,Fanshawe,"frozenset({'Hawthorne, Nathaniel'})",fiction
+7087,Gaut Gurley,"frozenset({'Thompson, Daniel P. (Daniel Pierce)'})",fiction
+711,Allan Quatermain,"frozenset({'Haggard, H. Rider (Henry Rider)'})",fiction
+7132,The Purple Land,"frozenset({'Hudson, W. H. (William Henry)'})",fiction
+714,The Bobbsey Twins in the Country,"frozenset({'Hope, Laura Lee'})",juvenile fiction
+7228,"Laura Secord, the heroine of 1812","frozenset({'Curzon, Sarah Anne'})",drama
+7256,The Gift of the Magi,"frozenset({'Henry, O.'})",fiction
+7281,Tom Cringle's Log,"frozenset({'Scott, Michael'})",fiction
+7298,William Tell Told Again,"frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",legends
+7307,The Precipice,"frozenset({'Goncharov, Ivan Aleksandrovich'})",fiction
+7307,Original Russian _OBRYV_,"frozenset({'Goncharov, Ivan Aleksandrovich'})",fiction
+7369,Jim Davis,"frozenset({'Masefield, John'})",fiction
+7371,A Sicilian Romance,"frozenset({'Radcliffe, Ann Ward'})",fiction
+7405,The Real Dope,"frozenset({'Lardner, Ring'})",fiction
+7409,An Essay on Criticism,"frozenset({'Pope, Alexander'})",early works to 1800
+7426,Chicot the Jester,"frozenset({'Dumas, Alexandre'})",fiction
+746,Burning Daylight,"frozenset({'London, Jack'})",fiction
+7472,The Duke of Stockbridge,"frozenset({'Bellamy, Edward'})",fiction
+7488,Celtic Tales,"frozenset({'Chisholm, Louey'})",folklore
+749,Barlaam and Ioasaph,"frozenset({'John of Damascus, Saint'})",legends
+7504,Tom of the Raiders,"frozenset({'Bishop, Austin'})",fiction
+7520,Snow-Blind,"frozenset({'Burt, Katharine Newlin'})",fiction
+7522,King Coal,"frozenset({'Sinclair, Upton'})",fiction
+7766,A Dog of Flanders,frozenset({'Ouida'}),fiction
+7833,Samantha on the Woman Question,"frozenset({'Holley, Marietta'})",fiction
+7836,Jewish History,"frozenset({'Dubnow, Simon'})",historical
+7847,Jack North's Treasure Hunt,"frozenset({'Rockwood, Roy'})",fiction
+7857,The Way of an Indian,"frozenset({'Remington, Frederic'})",fiction
+7862,The Sword of Antietam,"frozenset({'Altsheler, Joseph A. (Joseph Alexander)'})",fiction
+7885,Celtic Fairy Tales,frozenset(),folklore
+7887,Fortitude,"frozenset({'Walpole, Hugh'})",fiction
+791,The Princess,"frozenset({'Tennyson, Alfred Tennyson, Baron'})",fiction
+7957,Out of the Fog,"frozenset({'Ober, Charles K. (Charles Kellogg)'})",fiction
+7963,The Eskdale Herd-boy,"frozenset({'Blackford, Mrs. (Martha)'})",juvenile literature
+7971,The Fugitive,"frozenset({'Tagore, Rabindranath'})",fiction
+806,Philoktetes,frozenset({'Sophocles'}),drama
+808,The Complete Plays of Gilbert and Sullivan,"frozenset({'Sullivan, Arthur', 'Gilbert, W. S. (William Schwenck)'})",librettos
+8086,Down and Out in the Magic Kingdom,"frozenset({'Doctorow, Cory'})",fiction
+8142,The Riot Act,frozenset({'Great Britain. Parliament'}),drama
+8155,Colonel Thorndyke's Secret,"frozenset({'Henty, G. A. (George Alfred)'})",juvenlie fiction
+8164,My Man Jeeves,"frozenset({'Wodehouse, P. G. (Pelham Grenville)'})",fiction
+8183,Time and the Gods,"frozenset({'Dunsany, Lord'})",fantasy short stories
+8197,India's Love Lyrics,"frozenset({'Hope, Laurence'})",poetry
+8295,Through the Eye of the Needle,"frozenset({'Howells, William Dean'})",biography
+8378,Selected Polish Tales,frozenset(),translations into english
+8393,Life in the Backwoods,"frozenset({'Moodie, Susanna'})",pictorial works
+8407,The Christian,"frozenset({'Caine, Hall, Sir'})",specimens
+843,The Life of Francis Marion,"frozenset({'Simms, William Gilmore'})",biography
+8440,Men in War,"frozenset({'Latzko, Andreas'})",fiction
+8445,Look Back on Happiness,"frozenset({'Hamsun, Knut'})",fiction
+845,Poems of Henry Timrod,"frozenset({'Timrod, Henry'})",biography
+8487,Dame Care,"frozenset({'Sudermann, Hermann'})",fiction
+8491,Chronicle Of The Cid,frozenset(),romances
+8521,Maintaining Health,"frozenset({'Alsaker, Rasmus Larssen'})",popular works
+8545,Amiel's Journal,"frozenset({'Amiel, Henri Frédéric'})",biography
+8547,Pirke Avot,frozenset(),works to 1900
+8548,Pirke Avot,frozenset(),works to 1900
+855,Clocks,"frozenset({'Jerome, Jerome K. (Jerome Klapka)'})",catalogs
+8569,The Far Horizon,"frozenset({'Malet, Lucas'})",fiction
+857,Evergreens,"frozenset({'Jerome, Jerome K. (Jerome Klapka)'})",drama
+8578,The Grand Inquisitor,"frozenset({'Dostoyevsky, Fyodor'})",fiction
+860,Baby Mine,"frozenset({'Mayo, Margaret'})",fiction
+8647,Afloat And Ashore,"frozenset({'Cooper, James Fenimore'})",juvenile literature
+8663,Tales of Two Countries,"frozenset({'Kielland, Alexander Lange'})",fiction
+8670,In the Heart of the Rockies,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+8679,By England's Aid,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+8743,The Amber Witch,"frozenset({'Meinhold, Wilhelm'})",fiction
+882,Sketches by Boz,"frozenset({'Dickens, Charles'})",fiction
+8859,True to the Old Flag,"frozenset({'Henty, G. A. (George Alfred)'})",fiction
+8875,The Road to Damascus,"frozenset({'Strindberg, August'})",fiction
+8914,"England, My England","frozenset({'Lawrence, D. H. (David Herbert)'})",poetry
+896,Orations,"frozenset({'Adams, John Quincy'})",translations into english
+904,Her Father's Daughter,"frozenset({'Stratton-Porter, Gene'})",fiction
+905,Within the Law,"frozenset({'Dana, Marvin', 'Veiller, Bayard'})","handbooks, manuals, etc"
+9055,Bad Medicine,"frozenset({'Sheckley, Robert'})",fiction
+9056,Bad Medicine,"frozenset({'Sheckley, Robert'})",fiction
+9151,Ruggles of Red Gap,"frozenset({'Wilson, Harry Leon'})",fiction
+9152,Imogen,"frozenset({'Godwin, William'})",fiction
+92,Tarzan and the Jewels of Opar,"frozenset({'Burroughs, Edgar Rice'})",fiction
+9246,Sketches from Memory,"frozenset({'Hawthorne, Nathaniel'})",biography
+9295,A Night Out,"frozenset({'Peple, Edward'})",fiction
+9310,Casanova's Homecoming,"frozenset({'Schnitzler, Arthur'})",fiction
+9329,The Widow O'Callaghan's Boys,"frozenset({'Zollinger, Gulielma'})",fiction
+9399,A Roman Lawyer in Jerusalem,"frozenset({'Story, William Wetmore'})",poetry
+9454,Orchesography,"frozenset({'Feuillet, Raoul-Auger'})",early works to 1800
+9456,Opera Stories from Wagner,"frozenset({'Akin, Florence'})","stories, plots, etc"
+9489,Michael O'Halloran,"frozenset({'Stratton-Porter, Gene'})",fiction
+9498,The Trespasser,"frozenset({'Lawrence, D. H. (David Herbert)'})",fiction
+9504,Micah Clarke,"frozenset({'Doyle, Arthur Conan'})",fiction
+957,The Scarecrow of Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+958,Rinkitink in Oz,"frozenset({'Baum, L. Frank (Lyman Frank)'})",juvenile fiction
+96,The Monster Men,"frozenset({'Burroughs, Edgar Rice'})",fiction
+9659,The Gentleman From Indiana,"frozenset({'Tarkington, Booth'})",fiction
+973,Howard Pyle's Book of Pirates,"frozenset({'Pyle, Howard'})",juvenile literature
+976,Tanglewood Tales,"frozenset({'Hawthorne, Nathaniel'})",juvenile literature
+9806,Mr. Justice Raffles,"frozenset({'Hornung, E. W. (Ernest William)'})",fiction
+982,Book of Nonsense,"frozenset({'Lear, Edward'})",specimens
+9846,Excursions,"frozenset({'Thoreau, Henry David'})",congresses
+9896,My Days of Adventure,"frozenset({'Vizetelly, Ernest Alfred'})",personal narratives
+9912,An Explanation of Luther's Small Catechism,"frozenset({'Stump, Joseph', 'Luther, Martin'})",catechisms
+993,Malbone,"frozenset({'Higginson, Thomas Wentworth'})",fiction
+9956,Hauntings,"frozenset({'Lee, Vernon'})",juvenile literature
+9963,Elsie's Girlhood,"frozenset({'Finley, Martha'})",fiction
+9999,"Harriet, The Moses of Her People","frozenset({'Bradford, Sarah H. (Sarah Hopkins)'})",biography
