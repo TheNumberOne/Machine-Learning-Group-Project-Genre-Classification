@@ -25,6 +25,7 @@ ids = sample.index
 totals_and_freqs = pd.DataFrame([[*get_freq(i)] for i in ids], ids, ['total word count', 'word frequencies'])
 
 result = pd.concat([sample, totals_and_freqs], axis=1)
+result = result[result['word frequencies'] != dict()]
 if num_books == -1:
 	result.to_csv("results/dataset.csv")
 else:

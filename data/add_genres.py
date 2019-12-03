@@ -14,7 +14,7 @@ def normalize_genre(genre):
         
     return genre
 
-def get_genre(conn, title, author):
+def get_genre(conn, title):
     cur = conn.cursor()
     cur.execute("select genres from books where title=? collate nocase", [str(title).lower()])
     rows = cur.fetchall()
@@ -33,14 +33,15 @@ def get_genre(conn, title, author):
 
 def add_genres(data):
     with create_connection() as conn:
-        genres = data[['title', 'authors']].apply(lambda x: get_genre(conn, *x), axis=1)
+        genres = data['title'].apply(lambda x: get_genre(conn, *x), axis=1)
     genres = genres[~genres.isnull()]
     genres_frame = genres.to_frame()
+#     print(genres)
     genres_frame.columns = ['genre']
     data_with_genres = pd.merge(data, genres_frame, how='inner', left_index=True, right_index=True)
     
     return data_with_genres
     
 
-data = pd.read_csv("results/gutenberg-with-authors.csv", index_col="gutenberg id")
-add_genres(data).to_csv("results/gutenberg-with-authors-genres.csv")
+data = pd.read_csv("results/gutenberg.csv", index_col="gutenberg id")
+add_genres(data).to_csv("results/gutenberg-genres.csv")
