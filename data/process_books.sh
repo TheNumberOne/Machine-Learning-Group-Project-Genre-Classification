@@ -14,5 +14,3 @@ rm readme.txt
 rm *-0.txt
 rm 89-*.txt
 rm 10681-*.txt
-
-../gen_gutenberg_csv.sh
