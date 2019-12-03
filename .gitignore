@@ -112,4 +112,7 @@ venv.bak/
 obj/
 bin/
 .vs/
-*.zip
+# *.zip
+
+data/results/dataset.csv
+data/results/2064-dataset-with-common-genres.csv
