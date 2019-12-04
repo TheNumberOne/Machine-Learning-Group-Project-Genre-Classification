@@ -12,7 +12,7 @@ namespace MachineLearningAttempt1.KDTree {
         private List<BookData> Books { get { return _books; } }
 
         private List<string> _wordsToSplitOn;
-        private List<string> SplittingWords { get { return _wordsToSplitOn} }
+        private List<string> SplittingWords { get { return _wordsToSplitOn; } }
 
         private KDTreeNode _root;
         private KDTreeNode Root { get { return _root; } }

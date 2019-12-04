@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 using System.Text.RegularExpressions;
-using Newtonsoft.Json;
 
 namespace MachineLearningAttempt1.Data {
     public class BookData {
@@ -18,11 +17,16 @@ namespace MachineLearningAttempt1.Data {
         }
         public string WordFrequencies { 
             set {
+                string tit = Title;
                 try {
-                    _wordCounts = JsonConvert.DeserializeObject<Dictionary<string, int>>(value);
+                    _wordCounts = Regex.Replace(value, @"[{}\s']", "")
+                        .Split(',').Select((string s) => s.Split(':'))
+                        .ToDictionary(arr => arr[0], arr => int.Parse(arr[1]));
+
                 }
-                catch (JsonReaderException ex) {
-                    Console.WriteLine(string.Format("Could not parse JSON for word frequencies. Message: {0}", ex.Message));
+                catch (System.FormatException ex) {
+                    Console.WriteLine(string.Format("Word Frequencies formatted incorrectly. Internal error: {0}. Stack Trace: {1}"
+                        , ex.Message, ex.StackTrace));
                 }
             }
         }
