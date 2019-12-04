@@ -73,3 +73,9 @@ if [ ! -f "results/most-common-words.csv" ]; then
     ./most_common_words.py
     echo 'Done finding most common words'
 fi
+
+echo 'Compressing berg files'
+find results -type f -size +100M -exec zip -u {}.zip {} \;
+echo "Done compressing"
+echo 'WARNING: MAKE SURE TO NOT COMMIT BIG FILES TO GIT. BIG FILES:'
+find results -type f -size +100M
